@@ -1,0 +1,5 @@
+Daily Check-in
+
+Not everyone has the luxury of working in a co-located team but still depends on colleagues for discussions. You might for example be an agile coach collaborating a lot with other agile coaches and you want to easily see who else is in the office. 
+
+When you arrive in the morning, you move your avatar to the current day, and when you leave you move it to “Not here”. To make the visualization more fun, why not use LEGO?
