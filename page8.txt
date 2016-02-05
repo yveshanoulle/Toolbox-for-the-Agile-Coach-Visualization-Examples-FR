@@ -1,0 +1,4 @@
+Visualize your workflow
+
+Use boxes, lines, rows and columns to describe your workflow and which states work transitions between. Use Post-its to describe the work to be done which flows through your workflow. There is no right or wrong, keep on experimenting until you find a good representation of your workflow, a view that helps you see progress, collaborate, plan, do forecasts, and that reveals bottlenecks.
+
