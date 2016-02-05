@@ -1,2 +1,6 @@
 
+Release Credits
 
+By the end of every movie, there are release credits acknowledging everyone involved in creating the masterpiece. Why would you deserve any less!? Celebrate your achievement of finishing a sprint with the creation of a Release Credits poster.
+
+I've seen teams who have chosen themes such as space missions, superhero movies, rock bands etc. Whatever makes you tick. The responsibility to create the poster could rotate, or you create it as a team during the Sprint Review.

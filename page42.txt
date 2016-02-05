@@ -1,2 +1,8 @@
+Improvement Lane
 
+To make your retrospective improvement actions a natural part of your planning and Daily Stand-ups, add an Improvement Lane to the board.
+
+Some teams place the Improvement lane at the bottom and have the policy that if you’re blocked on your primary work you work on improvements until you become unblocked, or someone else needs help.
+
+Other teams place the lane on top, signaling that the improvement actions are the most important thing to finish first (right after urgent production problems). 
 

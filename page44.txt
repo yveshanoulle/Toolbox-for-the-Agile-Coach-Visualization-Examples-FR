@@ -1,2 +1,10 @@
+Late = Cake
 
+Draw a circle. Slice it up in 8 slices. This represents a cake. When someone arrives late to the Daily Stand-up write that person’s name in one of the slices.
 
+When the cake circle is full, count the “winner”. The winner bakes a cake that the team enjoy the next day.
+
+—
+
+An alternative for this is to write a list of the team members. When someone is late, he or she gets a tick. Three or more ticks mean cake.
+ If you don’t like cake, or this policy makes the team fat, try another policy.

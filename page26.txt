@@ -1,2 +1,8 @@
+Urgent lane + policy 
 
+Not everything can be planned and foreseen during the sprint planning. To deal with urgent unplanned tasks in a structured and transparent way, add an URGENT lane.
+
+Since urgent tasks are never planned, the “Planned” (Tasks Todo) column isn’t needed. Use that area instead to clearly state the policy that describes what counts as an urgent task. Which criteria need to be fulfilled for a task to be allowed to go straight into the urgent lane? If the criteria are not met, the task should be considered during the next sprint planning or the next Backlog Grooming session..
+
+The urgent lane should normally be empty! Remember that every time you introduce something into that lane you create waste in terms of task switching and multitasking. With great powers come great responsibility. Don’t abuse the urgent lane.
 

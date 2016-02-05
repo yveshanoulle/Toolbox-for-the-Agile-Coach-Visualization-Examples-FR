@@ -1,2 +1,8 @@
+Blocker notes
 
+If you for some reason become blocked while working on a task, preventing you from moving forward - add a red blocker note on top of that task. This makes the reason known for everyone, and also works as a follow-up reminder. 
+
+Review the blockers during the Daily Stand-up and discuss how to address and resolve each of them.
+
+The description clearly states why you are blocked, who you are waiting for (and why), or what the problem is. To make it even clearer, write your own name and the date you became blocked in the corner of the Post-it.
 

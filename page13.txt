@@ -1,2 +1,7 @@
+Inbox
+Are extra tasks frequently added by creative team members? Do you suffer from tasks introduced into the sprint by people/managers outside the team, asking specific team members for help? Does this sabotage the focus on the sprint goals? Add the Inbox policy! 
 
+Policy: new tasks aren’t added to Planned or Doing, they must be placed in the Inbox. The following standup the whole team decides if the task should be done or not, i.e. if it’s valuable and aligned with the sprint’s goal. If the team decides it shouldn’t be done now, it goes into the product backlog or into the trash bin.
+
+Each Inbox should be empty by the end of the Daily Stand-up.
 

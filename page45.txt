@@ -1,1 +1,9 @@
+Task size < 1 day
 
+When tasking (i.e. breaking down the work that needs to be performed to complete a User Story) don’t stop splitting the tasks until each task can be completed within a day.
+
+This policy makes it easier to see progress and bottlenecks. It also triggers deeper collaborative discussions during the planning sessions.
+
+Furthermore, if you use Dotting, you know there is something fishy going on if a task starts collecting dots since no single task should have more than one dot.
+
+If you use a Sprint Burndown, you can instead of summarizing hours summarize the number of tasks. Much faster!

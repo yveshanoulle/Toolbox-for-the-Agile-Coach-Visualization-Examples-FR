@@ -1,2 +1,9 @@
+Parking lot
+
+If the team has temporarily stopped working on a story (or paused a specific task) due to changes in priority – make that clear and transparent by moving the Post-its to a Parking Lot area.
+
+Moving the story/task away from the primary board also reduces the chance that people accidently work on a paused task (i.e. increased unnecessary multitasking).
+
+When a story or task becomes parked, write a Parking Ticket with the date when it became parked and who was working on it.
 
 

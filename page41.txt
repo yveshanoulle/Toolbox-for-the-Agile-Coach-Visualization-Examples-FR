@@ -1,2 +1,8 @@
+Team Rhythm/Cycle
 
+Many teams who Kanban still experience value from having a rhythm. For example, backlog grooming every week, demo and retrospective every second week, and so on.
+
+Visualizing this rhythm, and where in the cycle the team is, helps focus and provides a sense of structure to an otherwise response and pull driven work environment.
+
+The cycle can be visualized in many ways: a clock (example A), a road (B), a game board (C). Pick whatever you like and find amusing.
 

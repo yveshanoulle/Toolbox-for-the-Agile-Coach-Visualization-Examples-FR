@@ -1,1 +1,7 @@
+Dependency spider
 
+Draw a spider with your team in the middle. Around your team, draw your dependency sources that sometimes block your progress or force you to wait for some kind of response. On the legs of the spider you continuously add notes describing how you are currently blocked or dependent on that source. 
+
+When resolved, move the ticket to the “Resolved” area. When it’s time for a retrospective, grab Post-its of the most common sources and analyze what you can do to reduce or minimize the pain and frequency of those dependencies. To ensure that you’re not sub-optimizing for your team’s convenience, include the other teams or persons into the discussion.
+
+A great tool for cross-company (and release train) retrospectives as well.

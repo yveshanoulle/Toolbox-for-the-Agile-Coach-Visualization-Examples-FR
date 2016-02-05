@@ -1,1 +1,5 @@
+Question icon
 
+Sometimes you have a question about something, but the right team member isn’t around, and it’s possible to wait until the team’s next Daily Stand-up meeting. If that’s the case, you mark the task you have a question about with a Question icon. 
+
+During the Daily Stand-up meeting the team makes sure to scan the wall for Question icons, addressing them and removing them one by one. 

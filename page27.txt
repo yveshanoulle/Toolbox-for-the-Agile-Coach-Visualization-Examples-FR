@@ -1,2 +1,8 @@
+Bomb icon
 
+One team I worked with decided to get rid of the Urgent Lane. It was misused, always cramped with “important” tasks and sabotaged the team’s ability to focus and plan.
+
+Since all tasks were now related to a story there was no way for an urgent task to enter the wall until a lane on the Kanban board was empty. This worried the Product Owner. So, the Product Owner was given one (one!) Bomb icon. He could put that on any task he wanted. Anyone who could help out paused whatever they were doing and worked on that task instead until it was done. 
+
+(The Bomb icon was used less and less frequently since the pain and cost of adding it to the wall quickly became apparent.)
 

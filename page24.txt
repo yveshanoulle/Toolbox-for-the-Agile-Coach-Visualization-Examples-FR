@@ -1,2 +1,8 @@
+Due dates and boxes
 
+Sometimes there is a strict due date on fixing things, like a bug for a critical patch. To visualize this, write the date of the deadline the task has to be finished by, and draw one box for each day that remains until that date.
+
+On the Daily Stand-up meeting, cross one of the boxes. This way you can easily see when time is running out and how many days are left.
+
+Sometimes the bug needs to be dealt with right away forcing you to drop whatever else you are doing. But sometimes there is some leeway, allowing you to wrap things up before addressing the semi-urgent task. That’s when due dates and boxes comes in handy.
 

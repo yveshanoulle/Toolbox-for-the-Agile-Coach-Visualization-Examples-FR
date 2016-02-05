@@ -1,2 +1,8 @@
+Task describes result
 
+The texts on the Post-its matter. Spending a couple of extra seconds to describe the work a Post-it refers to can make a huge difference.
+
+Don’t simply write a keyword or a vague description of the work – describe what state we are in when the task has been completed. Another way to phrase the same thing: don’t describe the work, describe the result.
+
+When applying this policy, it becomes much clearer for the team what the goal of the task is and what’s expected.
 

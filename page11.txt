@@ -1,2 +1,6 @@
+Avatars
 
+Visualize who is working on which task with the use of avatars. If you work on a task, put your avatar on that task. The simplest version is names on small Post-its. More elaborate alternatives includes writing the initials on round magnets. But way more fun is to have photos of the team members. Even though I find it confusing, many teams like characters, such as South Park figures or cartoons. At least, write the names so that new team members don’t have to guess who is Boba Fett and who is Darth Vader.
+
+Use Tack-it or magnetic tape to make them stick to the board.
 

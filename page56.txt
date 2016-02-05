@@ -1,2 +1,8 @@
+Wip Limits
 
+In the example above the team has a limited Work In Progress (WIP) in several dimensions. They only work on a maximum of three stories at any given time. If they want to start a fourth, they first need to finish any of the ongoing. If “Doing” + “Ready for Test” are full (joint limit of 4) they aren’t allowed to start on a fifth task. They first need to help out testing, moving tasks down the board. And so on.
+
+Put the WIP Limits on Post-its since you probably will change them over time as you try to find a good balance. 
+
+Limiting WIP is at the core of Lean and something many successful teams do. Explaining Lean, or why limiting WIP is a great idea, is beyond the scope of this book.
 
