@@ -1,0 +1,7 @@
+Envelopper Collectors
+
+Envelopes are great for collecting Post-it. I’ve seen teams use them simply for storage, a place to store Post-its instead of throwing them in the bin.
+
+A little more elaborate approach is to put up new envelopes every month and then store different Post-its in different collectors. At the end of the month the finished stories and tasks are summarized and analyzed. What was the ratio of value adding (User Stories) work vs bug fixing? Planned vs unplanned work? Most common source of interruptions? Common causes of Urgent tasks?
+
+If you are nostalgic you can put the envelopes in a plastic pocket, label it with a date and put it in a binder.

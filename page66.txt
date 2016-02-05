@@ -1,2 +1,8 @@
+Team Mood Barometer
 
+Team Mood Barometer is a board with a rope on which you position your clothespin with your name. The position of your clothespin reflects your current mood.
+
+You update it whenever you want to. Once a week or maybe several times a day.
+
+If you as a team want to be better at sharing your mood, and how you are feeling, this could be a simple tool to trigger dialog. If someone is far down, you probably want to know if there is something you can do to help that person. It also provides some kind of overview how the team in general is feeling.
 
