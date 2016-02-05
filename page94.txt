@@ -1,2 +1,9 @@
+Concept Cubes
 
+Instead of summarizing the results of a workshop on a poster, or having a working agreements’ area on your whiteboard – create a physical cube! One side could show the name of the cube and the others contain text and images. A cube invites to curiosity! I’ve seen people being far more eager to pick up a cube then to stop by and read a poster.
+
+Examples of cubes:
+Meetings. Each side describes the purpose and outcome of the different meetings (Daily Stand-up, Planning, Retrospective, etc), as well as the default meeting routine.
+Working agreements (Definition of Done, Definition of Ready, Behavior of conduct, Way of working, etc.).
+Expectations of roles (Scrum Master, Product Owner, Team member, Development manager, etc.).
 
