@@ -1,0 +1,37 @@
+
+Typical translations
+
+To make our work easier and more clear, this is a list of important words to translate.
+Goal is to be consistent.
+
+We put the words in alphabetic order of the English words.
+
+After party ==> Afterparty
+Avatars ==> Avatars
+Bottleneck ==> Knelpunt
+Bug ==> Bug
+Daily Stand-up ==> Daily Stand-up
+Examples ==> Voorbeelden
+High score ==> High-score
+Hourglass Scrum Wall ==> Zandloper sprintbord / planningbord
+Icon ==> Icoon
+Lane ==> Strook (zie ook Urgent lane)
+Pair programming ==> Pair programming
+Pairing ==> Samenwerken?
+Parking Lot ==> Parkeerplaats
+Policies ==> Methodiek suggestie Yves = afspraken
+Queue ==> Wachtrij
+Retrospective ==> retrospectieve
+Story ==> Story
+Ticket ==> Ticket
+Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij" suggestie Rik: Prioritaire Strook? Spitsstrook? Vluchtstrook?
+User Story lane ==> User Story kolom
+Visualization ==> Visualisatie
+Wall ==> Sprint bord? Muur? /Muur? Sprint bord wordt aangeduid als "board", tenminste in mijn stukje tekst./
+Waste ==> Verspilling
+Whiteboard ==> Whiteboard
+WIP-limit ==> WIP-limiet
+Working agreement ==> werkafspraken
+
+
+
