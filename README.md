@@ -1,4 +1,4 @@
-Het project voor de nederlandse vertaling.
+Het project voor de French vertaling.
 
 De bedoeling is om per pagina een vertaling op te laden.
 Om zeker te zijn dat andere zien dat je aan een pagina bezig bent, kan ik je aanraden als je aan een pagina begint, om onmiddelijk je naam in die pagina te zetten en op te laden.
