@@ -1,24 +1,20 @@
-Het project voor de French vertaling.
+The project for the French translation. 
 
-De bedoeling is om per pagina een vertaling op te laden.
-Om zeker te zijn dat andere zien dat je aan een pagina bezig bent, kan ik je aanraden als je aan een pagina begint, om onmiddelijk je naam in die pagina te zetten en op te laden.
-(tenzij iemand een beter idee heeft.)
+The idea is to do the translation page per page. 
+To show to others you will work on a page, you add your name to the page and commit to github. 
+Please only one page at the time. When you are finished you can commit your translation and remove your name. 
+(And start a new page if you feel like it...)
 
-een idee: als je klaar bent dan verander je de naam van het bestand naar 
-page_xxx.txt
-maw page1.txt heb ik net veranderd naar page_001.txt
+When you are ready, you change the name of the file to page_xxx.txt
+F. ex. page1.txt changes to page001.txt
+That way the pages at the top are also the pages not yet done.
 
-ik weet niet zeker of het een goed idee is naar geschiedenis, maar het maakt wel heel duidleijk welke bestanden reeds gedaan zijn (en ze komen onderaan de lijst wat ideaal is voor mensen die aan iets nieuws willen werken.)
+To make the life of the reviewers easier, we keep the English text below the translated text.
+When you have added a translation or did a review, please add your name to page122.txt
 
+We start by translating a_glossary, to have a list of typical translation.
+This list was created by previous translations, when we need other words, we can add them.
 
-idee (van Rik)
-Om het voor reviewers makkelijker te maken, gaan we de Engelse tekst onder de Nederlandse laten staan.
-
-Als je een pagina hebt vertaald voeg zeker ook je naam toe aan page122.txt
-
-idee( van Peter)
-
-in a_glossary verzamelen we onze typische vertalingen. 
 
 
 yves
