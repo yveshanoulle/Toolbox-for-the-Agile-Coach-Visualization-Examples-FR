@@ -11,24 +11,24 @@ Avatars ==> Avatars
 Bottleneck ==> Goulot d'étranglement
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
-Examples ==> Exemples
+Examples ==> Examples
 High score ==> High-score
-Hourglass Scrum Wall ==> 
+Hourglass Scrum Wall ==> Mur scrum sablier
 Icon ==> Icône
 Lane ==> Ligne
 Pair programming ==> Pair programming
 Pairing ==> 
 Parking Lot ==> Parkeerplaats
-Policies ==> 
+Policies ==> Règles
 Queue ==> File d'attente
 Retrospective ==> Rétrospective
 Story ==> Story
 Ticket ==> Ticket
-Urgent lane ==> 
+Urgent lane ==> Ligne urgente
 User Story lane ==> 
 Visualization ==> Visualisation
-Wall ==> 
+Wall ==> Mur
 Waste ==> Gaspillage
 Whiteboard ==> Tableau blanc
-WIP-limit ==> 
+WIP-limit ==> Limite de tâches en cours
 Working agreement ==> Accord de travail
