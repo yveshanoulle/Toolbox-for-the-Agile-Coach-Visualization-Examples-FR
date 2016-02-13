@@ -9,7 +9,7 @@ When you are ready, you change the name of the file to page_xxx.txt
 F. ex. page1.txt changes to page_0_001.txt
 That way the pages at the top are also the pages not yet done.
 
-After teh first review we change that same page to page_1_001.txt
+After the first review we change that same page to page_1_001.txt
 After a second review page_2_001.txt
 etc 
 
