@@ -17,15 +17,17 @@ We don't discuss before who works on what file.
 To avoid that multiple people work on the same file, we are going to work-out-loud. That is when we start on a file, we let our communiy know. What better place to let someone know on a file, then in the file itself. 
 You put your name inside the file you want to translate and you commit that change to github.
 
+Please only put your name in one file at the time.
+(To avoid you block many files from being translated by otehr community members.)
 
-Als je klaar bent wijzig je de naam van het bestand zoals uitgelegd in het read me bestand.
+When you are ready with the translation of that file, you remove your name out of the file. 
+You change the name of the file as explained in the readme file.
 
-We werken met een glossary voor de "lastige" en veel voorkomende woorden zodat we een uniforme taal hebben.
+We have a glossary for hard and words that are common. To make sure we have a uniform language.
+We also have a mailing list and we use that to communicate.
 
-We hebben ook een mailing lijst: https://groups.google.com/forum/#!forum/book-vertaling
-
-De tekeningen in het boek gaan we in eerste instantie niet vertalen.
-De vertaling zal via leanpub verkocht worden. Ik heb met Jimmy nog geen prijs afgesproken. (Mail is  vertrokken om dat te vragen.)
+The drawings of the book we won't translate for now.
+The translated book will be sold on leanpub. 
 
 
 
