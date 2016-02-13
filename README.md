@@ -6,8 +6,12 @@ Please only one page at the time. When you are finished you can commit your tran
 (And start a new page if you feel like it...)
 
 When you are ready, you change the name of the file to page_xxx.txt
-F. ex. page1.txt changes to page001.txt
+F. ex. page1.txt changes to page_0_001.txt
 That way the pages at the top are also the pages not yet done.
+
+After teh first review we change that same page to page_1_001.txt
+After a second review page_2_001.txt
+etc 
 
 To make the life of the reviewers easier, we keep the English text below the translated text.
 When you have added a translation or did a review, please add your name to page122.txt
