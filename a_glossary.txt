@@ -13,22 +13,22 @@ Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Examples ==> Exemples
 High score ==> High-score
-Hourglass Scrum Wall ==> Zandloper sprintbord / planningbord
+Hourglass Scrum Wall ==> 
 Icon ==> Icône
 Lane ==> Ligne
 Pair programming ==> Pair programming
-Pairing ==> Samenwerken?
+Pairing ==> 
 Parking Lot ==> Parkeerplaats
-Policies ==> Methodiek suggestie Yves = afspraken
+Policies ==> 
 Queue ==> File d'attente
 Retrospective ==> Rétrospective
 Story ==> Story
 Ticket ==> Ticket
-Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij" suggestie Rik: Prioritaire Strook? Spitsstrook? Vluchtstrook?
-User Story lane ==> User Story kolom
+Urgent lane ==> 
+User Story lane ==> 
 Visualization ==> Visualisation
-Wall ==> Sprint bord? Muur? /Muur? Sprint bord wordt aangeduid als "board", tenminste in mijn stukje tekst./
+Wall ==> 
 Waste ==> Gaspillage
 Whiteboard ==> Tableau blanc
-WIP-limit ==> WIP-limiet
+WIP-limit ==> 
 Working agreement ==> Accord de travail
