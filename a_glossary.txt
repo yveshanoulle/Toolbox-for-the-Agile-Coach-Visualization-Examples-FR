@@ -11,7 +11,7 @@ Avatars ==> Avatars
 Bottleneck ==> Goulot d'étranglement
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
-Examples ==> Examples
+Examples ==> Exemples
 High score ==> High-score
 Hourglass Scrum Wall ==> Mur scrum sablier
 Icon ==> Icône
