@@ -1,6 +1,6 @@
 1: Boite à outils pour le coach Agile
 
-2: Examples de visualisation
+2: Exemples de visualisation
 
 3: Comment les grandes équipes visualisent leur travail
 
