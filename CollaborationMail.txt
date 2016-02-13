@@ -1,21 +1,22 @@
-hoi <naam>,
+hi <name>,
 
-Welkom.
-Bedankt om mee te werken.
+Welcome.
+Thank you to collaborate. 
 
-We werken via github.
-https://github.com/yveshanoulle/Toolbox-for-the-Agile-Coach-Visualization-Examples-NL
+We work with github.
+https://github.com/yveshanoulle/Toolbox-for-the-Agile-Coach-Visualization-Examples-FR
 
-Als je een github account doorstuurt naar mij, dan voeg ik je toe aan het project.
+When you send your github account to me, I will add you to the translation project.
 
-We werken openSource community gewijs.
-Maw een soort gecontroleerde chaos en dus anders als teamwerk. 
+Our way of working is inspired by open source and it's communities.
+That looks more like controlled chaos then it looks like teamwork.
 
-Alle pagina's zijn als apart bestand opgeladen. 
-We spreken niet vooraf af wie aan welke bestand werkt.
+All the pages of the book are uploaded as a seperate page.
+We don't discuss before who works on what file.
 
-Om te vermijden dat we dan met meerdere aan hetzelfde bestand werken, gaan we dan wel "luidop" werken. ttz we laten weten aan welke file we werken.
-En waar kan je beter laten weten dat je aan een bestand werkt als in het bestand zelf. Je zet daarom je naam in het bestand waar je aan werkt.
+To avoid that multiple people work on the same file, we are going to work-out-loud. That is when we start on a file, we let our communiy know. What better place to let someone know on a file, then in the file itself. 
+You put your name inside the file you want to translate and you commit that change to github.
+
 
 Als je klaar bent wijzig je de naam van het bestand zoals uitgelegd in het read me bestand.
 
