@@ -13,7 +13,9 @@ After the first review we change that same page to page_1_001.txt
 After a second review page_2_001.txt
 etc
 
-To make the life of the reviewers easier, we keep the English text below the translated text.
+To make the life of the reviewers easier, we keep the English text below the translated text. In order to keep the file easily readable, please separate the french translation and the original text with this separator line:
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
 When you have added a translation or did a review, please add your name to page122.txt
 
 We start by translating a_glossary, to have a list of typical translation.
