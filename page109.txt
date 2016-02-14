@@ -1,18 +1,0 @@
-More information
-
-Here you find links to articles and blogs explaining some of the examples in greater detail.
-
- Concept Cubes (page 94)
-http://conceptcubes.com/
- Confidence Smileys (page 16)
-http://blog.crisp.se/2015/04/01/jimmyjanlen/the-sprint-burndown-is-dead-long-live-confidence-smileys
- Daily Goals (page 95)
-http://nomad8.com/daily-stand-up-with-a-goal/
- Guide Board (page 99)
-http://mattischneider.fr/agile/guide-board/
-
-Hourglass Scrum Wall (page 88)
-http://www.strongandagile.co.uk/index.php/the-hourglass-scrumban-board/
-
-Improvement Theme (page 63)
-http://blog.crisp.se/2013/05/14/jimmyjanlen/improvement-theme-simple-and-practical-toyota-kata
