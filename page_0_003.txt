@@ -1,0 +1,34 @@
+Bienvenue,
+
+Ce livre est rempli d'exemples de visualisation pour les équipes afin d'améliorer la communication et la collaboration, ainsi que former les comportements. Il est écrit pour les personnes et les équipes qui travaillent dans un contexte Agile de développement logiciel.
+
+Les pages contenues décrivent seulement des exemples. Rien d'autres. Pas de grandes explications théoriques. Pas d'explication de Agile ou de Scrum. Aucune références à la Gamification. Pas de discussion sur comment le cerveau interprète les éléments visuels ou comment nos comportements sont influencés par l'information visuelle.
+Il y a d'autre livres écrits sur ces sujets.
+
+Si une page contient une flèche (➨) dans le coin supèrieur, cela signifie qu'il y a un lien vers un blog ou un article avec  de plus amples informations à trouver sur la page "Plus d'informations".
+
+Si une page contient un coeur (❤)  vous trouverez une personne ou  équipe créditée sur la page "Soures d'inspiration".
+
+Les exemples dans ce livre peuvent être perçus comme si ils étaiens les meilleurs et la seule façon de faire les choses. Bien entendu, ce n'est pas vrai. Les exemples ne sont pas des "best pratices". Ce sont seulement des suggestions. Vous devez les adapter au contexte et aux besoins de votre équipe.
+
+Ce livre ne vise pas à être lu de la première à la dernière page. Parcourez le. Faîtes des allers-retours. Choisissez ce qui vous plait. Combinez les idées de quelque façon que vous trouvez utile. Expérimenter et évaluer. Evoluer ou jeter.
+
+Amusez vous!
+
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+Welcome
+
+This book is filled with visualization examples for teams to improve collaboration and communication, as well as shaping behaviors. It is written for people and teams working within an agile software development context.
+
+The pages within only depict examples. Nothing else. No deep theoretical explanations. No explanation of Agile or Scrum. No references to Gamification. No discussion on how the brain interprets visual input or how our behaviors are influenced by visual information. There are other books written on those topics.
+
+If a page contains an arrow (➨) in the upper corner, it means that there is a link to a blog or an article with more information to be found on the page “More information”.
+
+If a page contains a heart (❤) you will find a person or team credited on the page “Sources of inspiration”.
+
+The examples in this book might be perceived as if they are the best and only way of doing things. Of course that is not true. The examples are not best practice. They are only suggestions. You need to adapt them to your team’s context and needs.
+
+This book is not intended to be read cover to cover. Browse. Jump back and forth. Pick what you like. Combine the ideas whichever way you find useful. Experiment and evaluate. Evolve or throw away.
+
+Have fun!
