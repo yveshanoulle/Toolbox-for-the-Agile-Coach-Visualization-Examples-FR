@@ -1,0 +1,25 @@
+Conseils généraux
+
+Accessible - Positionnez votre mur avec les visualisations dans une zone où l'équipe se trouve. Vous voulez qu'il soit facilement visible par tout le monde dans la salle.
+
+Simple - Le mur a besoin d'être facilement mis à jour. Si vous le rendez trop laborieux à mettre à jour, le mur va probablement se détériorer. Si vous suspectez qu'il n'est plus à jour, vous arrêterez de lui faire confiance. Si vous ne lui faites pas confiance, vous le mettrez à jour encore moins fréquemment.
+
+Propre - Si vous mettez de l'amour et du soin dans la conception du mur, vous le respecterez probablement plus et vous voudrez continuer à le garder joli et rangé. Ne devenez pas dingue, choisissez les composants avec soin.
+
+Flux fondamentaux - Concevez pour les cas normaux et les flux fondamentaux. Choisissez des composants additionnels en vous basant sur les comportements que vous voulez changer. Traitez les exceptions comme des exceptions.
+
+Evaluez - Vos mur est une chose vivante. Evaluez la valeur et la conception de chaque composant régulièrement. Améliorez, ajustez ou abandonnez-les.
+
+
+General advice
+
+Accessible – Position your wall with visualizations in the area where the team sits. You want it easily visible for everyone in the room.
+
+
+Simple - The wall needs to be easy to update. If you make it too cumbersome to update, the wall will probably deteriorate. If you suspect that it’s not up to date, you will stop trusting it. If you don’t trust it, you will update it even less frequently.
+
+Clean – If you put love and care into designing the wall you will probably respect it more and want to continue to keep it nice and tidy. Don’t go bananas, choose components with care.
+
+Core flows – Design for the normal cases and core flows. Choose additional components based on the behaviors you want to change. Treat exceptions like exceptions.
+
+Evaluate – Your wall is a living thing. Evaluate each component's value and design regularly. Improve, adjust or abandon.
