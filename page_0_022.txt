@@ -1,0 +1,15 @@
+Calendrier d'absence
+
+Ce calendrier montre quand les personnes savent qu'elles vont être absentes du bureau pour faire autre chose, évitant les moments du type "Est-ce que quelqu'un saurait où est Julie aujourd'hui ?".
+
+Chaque membre d'équipe écrit son nom sur la/les date(s) où ils savent en avance qu'ils seront en vacances, en formation ou en train de faire quelque chose d'autre. Le calendrier pourrait aussi inclure les vacances (de manière générale) ou d'autres événements importants.
+
+La flèche jaune pointe sur le jour actuel et est déplacée avant le Daily Stand-up.
+
+Absence calendar
+
+This calendar shows when people know they will be away and absent from the office doing something else, avoiding “Does anyone know where Julie is today?” moments.
+
+Each team member writes his/her name on the date(s) when they know in advance they will be off on vacation, attending a course or doing something else. The calendar could also include holidays or other important events.
+
+The yellow arrow points to the current day and is moved before the Daily Stand-up meeting.
