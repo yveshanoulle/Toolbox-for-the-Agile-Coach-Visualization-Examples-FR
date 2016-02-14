@@ -17,7 +17,7 @@ Hourglass Scrum Wall ==> Mur Scrum sablier
 Icon ==> Icône
 Lane ==> Ligne
 Pair programming ==> Pair programming
-Pairing ==> 
+Pairing ==>
 Parking Lot ==> Parkeerplaats
 Policies ==> Règles
 Queue ==> File d'attente
@@ -25,7 +25,7 @@ Retrospective ==> Rétrospective
 Story ==> Story
 Ticket ==> Ticket
 Urgent lane ==> Ligne urgente
-User Story lane ==> 
+User Story lane ==> Ligne de User Story
 Visualization ==> Visualisation
 Wall ==> Mur
 Waste ==> Gaspillage
