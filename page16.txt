@@ -1,7 +1,0 @@
-Confidence Smileys
-This is a powerful alternative (or complement) to a Sprint Burndown.
-
-At the end of every Daily Stand-up meeting the team asks themselves; how confident are we that we will be able to finish each User Story by the end of the Sprint. The answer is represented by a Confidence Smiley. 
-
-The team quickly goes through each lane/User Story and updates the color of the Confidence Smiley. When in disagreement, the most pessimistic voice wins.
-
