@@ -1,6 +1,0 @@
-Days ‘til Demo
-Days ‘til Demo is a simple countdown to the next demo. Its purpose is to raise awareness and to help teams remember to plan and prepare for the demo. And of course to raise the expectations for everyone else.
-
-It simply shows the number of days left until the demo. The last one reads “TODAY at 2pm” (or something similar).
-
-It’s preferably placed in a highly visible place, such as by the coffee machine or next to the toilets. And yes, a manual one like this needs to be manually updated by someone. This could be a good thing since it reminds the team that the day is approaching.
