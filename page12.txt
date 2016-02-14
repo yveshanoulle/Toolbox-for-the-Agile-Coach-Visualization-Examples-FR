@@ -1,6 +1,0 @@
-Legend
-
-A good visualization that a team likes and continues to use over time tends to get more and more complex as the team adds more and more information to it.
-
-To make it easy to understand for new team members, and curious colleagues – provide a legend that explains the colors, icons and symbols.
-
