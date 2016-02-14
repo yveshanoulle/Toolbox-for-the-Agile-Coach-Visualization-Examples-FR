@@ -1,7 +1,0 @@
-Days blocked (wasted)
-When using Post-it notes to indicate blocked status it can be helpful to keep track of the days since the blocker was introduced.
-
-On the Daily Stand-up meeting, simply put a dash on the blocker note, also known as tally marks. The dashing in itself will remind you and your team to act on the impediment or dependency. And the number of dashes will tell you how many days have been wasted waiting for something or someone.
-
-A large number of dashes is an invitation to a serious discussion. Why does the team fail to resolve its impediments? Do they lack support? Motivation?
-
