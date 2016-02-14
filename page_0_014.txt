@@ -1,0 +1,19 @@
+2 Avatars - Un gros, Un petit
+
+Chaque membre d'équipe a deux avatars, un gros imprimé en couleur et un petit imprimé en niveaux de gris.
+
+Ils marquent les tâches sur lesquelles un membre de l'équipe est actuellement en train de travailler. Le gros signale le focus principal. Lorsque l'on est bloqué sur la tâche principale, l'avatar gris plus petit signale où la personne aide.
+
+Chaque membre d'équipe n'est seulement autorisé qu'à ces deux avatars. Si la personne veut commencer une troisième tâche, il/elle doit soit finir l'une des tâches actuelles, ou mettre l'une de ces tâches au parking ou replacer la tâche de l'état En cours à Planifié.
+
+Si vous n'avez actuellement qu'un seul avatar pour chaque membre d'équipe, veuillez ignorer cet exemple. Vous êtes bons :-) 
+
+2 Avatars - One big, One small
+
+Each team member has two avatars, one big printed in color and one small printed in grayscale.
+
+They mark which tasks that team member is currently working on. The big one signals the main focus. When blocked on the main task, the smaller grey avatar signals where the person is helping out.
+
+Each team member is only allowed these two avatars. If the person wants to start a third task he/she either needs to finish any of the current ones, or put one of the current ones in the parking lot or move back the task from Doing to Planned.
+
+If you currently only have one avatar for each team member, please ignore this example. You are good :-)
