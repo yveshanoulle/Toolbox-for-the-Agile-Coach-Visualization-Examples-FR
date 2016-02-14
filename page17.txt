@@ -1,6 +1,0 @@
-
-Confidence Smileys (cont)
-
-When a smiley shifts (from green to orange, or from orange to red) the team grabs the opportunity to discuss what they need to do, how they can help out, and if they need to alert Product Owners and Stakeholders on changes in the forecast.
-
-Confidence Smileys offer an instant and simple overview of the team’s sprint progress for anyone else as well.

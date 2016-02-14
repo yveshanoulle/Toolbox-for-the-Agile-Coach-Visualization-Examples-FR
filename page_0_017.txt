@@ -1,0 +1,11 @@
+Smileys de Confiance (cont)
+
+Lorsqu'un smiley change (du vert à l'orange, ou de l'orange au rouge) l'équipe saisit l'opportunité pour discuter sur ce qu'ils ont besoin de faire, comment ils peuvent aiderm et s'ils ont besoin d'alerter les Product Owners et les Parties prenantes sur les changements dans la prévision.
+
+Les Smileys de Confiance offrent une vision simple et instantanée de la progression de l'équipe dans le sprint pour toute autre personne également.
+
+Confidence Smileys (cont)
+
+When a smiley shifts (from green to orange, or from orange to red) the team grabs the opportunity to discuss what they need to do, how they can help out, and if they need to alert Product Owners and Stakeholders on changes in the forecast.
+
+Confidence Smileys offer an instant and simple overview of the team’s sprint progress for anyone else as well.
