@@ -1,3 +1,12 @@
+La tache décrit le résultat
+
+Le texte sur le Post-It compte. Passer quelques secondes de plus pour décrire le travail correspondant au Post-It peut faire une différenfe importante.
+
+Ne marquez pas simplement un mot clé ou  une vague description du travail - décrivez l'état dans lequel doit se trouver le système la tache réalisée. Une autre manière de le dire: Ne décrivez pas le travail, décrivez le résultat.
+
+Quand vous appliquez cette règle, le but de la tache et ce qui est effectivement demandé deviennent beaucoup plus clair pour l'équipe.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Task describes result
 
 The texts on the Post-its matter. Spending a couple of extra seconds to describe the work a Post-it refers to can make a huge difference.
