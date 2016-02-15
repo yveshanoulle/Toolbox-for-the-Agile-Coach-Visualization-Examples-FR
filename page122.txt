@@ -1,9 +1,7 @@
 Traduction en collaboration avec :
 
-Translation collaborators.
-
-Olivier My
-Yves Hanoulle
-Arnaud Gonzales
 Philippe Aubrée
+Arnaud Gonzales
+Yves Hanoulle
+Olivier My
 Stéphane Wojewoda
