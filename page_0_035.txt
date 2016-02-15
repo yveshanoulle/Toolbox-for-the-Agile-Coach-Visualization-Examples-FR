@@ -1,0 +1,16 @@
+Minuteur de Daily Stand-Up
+
+Une équipe avec laquelle je travaillais avait décidé à plusieurs reprises qu'ils devaient vraiment limiter le Daily Stand-Up à 15 minutes, mais elle n'avais jamais réussi à y parvenir. Un jour, j'ai placé ma tablette sur une petite table (qui s'avérait être placée en face du mur) et j'ai lancé le minuteur. Je n'ai pas expliqué pourquoi.
+
+Cette simple chose a rendu tout le monde un peu plus concentré et a évité beaucoup de digressions. Et voilà ! Comme si la tablette avait un super pouvoir, le Daily stand-up finissait la plupart du temps bien avant les 15 minutes.
+
+Remarque: Le but du Daily Stand-Up n'est pas bien sûr de finir dans les 15 minutes, il est de comprendre comment nous, en tant qu'équipe, devons collaborer aujourd'hui pour atteindre nos objectifs.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ Daily Stand-up timer
+
+One team I was working with repeatedly decided that they should really limit the Daily Stand-up meeting to 15 minutes, but never succeeded to accomplish it. One day I placed my tablet on a small table (that happened to be positioned in front of the wall) and started a timer. I didn’t explain why.
+
+That simple thing made everyone slightly more focused and avoided a lot of detail derailing. And voilà! As if the tablet held a secret superpower, the Daily Stand-up meetings most of the times finished well below 15 minutes.
+
+Note: The goal of the Daily Stand-up meeting is of course not to finish within 15 minutes, it is to figure out how we as a team need to collaborate today to accomplish our goals.
