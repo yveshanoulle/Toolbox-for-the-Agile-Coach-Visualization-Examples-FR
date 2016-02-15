@@ -1,4 +1,13 @@
-Improvement Lane
+Ligne d'amélioration
+
+Pour que les actions d'amélioration issues des rétrospectives soit naturellement prises en compte dans le planning et traitées durant les Daily stand-up, ajoutez une ligne d'amélioration sur le tableau.
+
+Certaines équipes la place en bas et instaure la règle stipulant que si quelqu'un est bloqué sur son activité principale, il doit travailler sur une amélioration jusqu'à qu'il soit débloqué ou que quelqu'un d'autre ait besoin d'aide.
+
+D'autres équipes place cette ligne en haut, indiquant ainsi que les actions d'amélioration sont les activités les plus importantes à finir (juste après les problèmes urgents en production)
+ 
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ Improvement Lane
 
 To make your retrospective improvement actions a natural part of your planning and Daily Stand-ups, add an Improvement Lane to the board.
 
