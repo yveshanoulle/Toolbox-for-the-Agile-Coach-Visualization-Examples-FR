@@ -26,5 +26,5 @@ This list was created by previous translations, when we need other words, we can
 yves
 
 PS: Après discussion avec Yves, peut-être que de simplement mettre son trigramme ou une indication de ce type sur le nom de fichier serait suffisante dans un premier temps, sachant que l'objectif est juste de savoir rapidement qui travaille sur quoi :-)
-
+ 
 Olivier My
