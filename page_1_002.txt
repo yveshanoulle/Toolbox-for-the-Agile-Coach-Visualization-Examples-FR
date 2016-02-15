@@ -6,10 +6,10 @@ Ce pdf a été acheté et téléchargé sur Leanpub.
           Le livre papier est disponible dans les boutiques de vente en ligne de livres,
         par exemple sur Amazon.
 
-      Le livre est accompagé d'un site web:
+      Le livre est accompagné d'un site web:
     http://visualizationexamples.com/
 
-Si vous le souhaitez, vous pouvez aimer le livre sur Facebook:  
+Si vous le souhaitez, vous pouvez aimer le livre sur Facebook:
 http://www.facebook.com/visualizationexamples
 
 2:
@@ -25,12 +25,12 @@ Imprimé par: Bergs grafiska, Stockholm, 2015
 Publié par: Crisp Publishing
 
 ------------------------------- ORIGINAL TEXT BELOW ----------------------------------------------------------
-1: 
+1:
 
 This pdf has been bought and downloaded from Leanpub.
              http://leanpub.com/agiletoolbox-visualizationexamples
 
-         The physical book is available for purchase on online book shops, 
+         The physical book is available for purchase on online book shops,
         for example on Amazon.
 
      The book has an accompanying website:
