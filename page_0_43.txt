@@ -1,4 +1,12 @@
+Les nouvelles du jour
 
+Souvent, les équipes commencent ou terminent leur Daily stand-up par un échange d'informations générales.
+
+Pour réduire le risque d'oublier d'échanger quelques chose d'important avec l'équipe, ajoutez votre sujet aux "Nouvelles du jour" dès que vous y pensez.
+
+Quand ces nouvelles ou informations sont échangés, effacez la zone pour qu'elle soit de nouveau disponible pour le prochain Daily stand-up.
+
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Today’s Headlines
 
 Many times teams start or end their Daily Stand-up with a general information sharing moment. 
