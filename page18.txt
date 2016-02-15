@@ -1,8 +1,0 @@
-Lane priority
-
-This is more of a process/working agreement tip than a visualization tip.
-
-In order to work more efficiently as a team and to collaborate more on finishing stories rather than starting new ones – agree to help out working on stories together in priority order. Place the story of highest priority on the top, then rank the rest according to priority.
-
-When a story has finished, move it to the “DONE / Ready for Demo” area. This will leave an empty lane. Some teams move all other Post-its up one lane to fill the gap.
-
