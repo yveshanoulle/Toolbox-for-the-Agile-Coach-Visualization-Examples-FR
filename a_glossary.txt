@@ -12,6 +12,7 @@ Backlog grooming => Affinage du backlog
 Bottleneck ==> Goulot d'étranglement (plus exactement Goulet d'étranglement)
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
+Epic ==> Epic
 Examples ==> Exemples
 High score ==> High-score (Meilleur score?)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
