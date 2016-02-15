@@ -1,0 +1,18 @@
+Marqueurs de blocage
+
+Si pour une raison quelconque une tâche est bloquée tandis que vous y travaillez, et vous empêche d'avancer - ajouter un marqueur de blocage rouge sur le dessus de la tâche. Ceci en rend la cause connue de tous, et permet aussi de rappeler le statut.
+
+Vérifiez les marqueurs pendant le Daily Stand-up et discutez de la manière de les traiter et résoudre.
+
+La description établit clairement pourquoi vous êtes bloqués, qui vous attendez (et pourquoi), et ce qu'est le problème. Pour le rendre encore plus limpide, écrivez votre nom et la date de début de blocage sur le coin du Post-it.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Blocker notes
+
+If you for some reason become blocked while working on a task, preventing you from moving forward - add a red blocker note on top of that task. This makes the reason known for everyone, and also works as a follow-up reminder. 
+
+Review the blockers during the Daily Stand-up and discuss how to address and resolve each of them.
+
+The description clearly states why you are blocked, who you are waiting for (and why), or what the problem is. To make it even clearer, write your own name and the date you became blocked in the corner of the Post-it.
+
