@@ -1,3 +1,14 @@
+
+L'After
+Quand les participants partent dans des discussions trop détaillées durant le Daily Stand-up, arrétez-les et ajoutez le sujet à "Immédiatement après". La règle pourrait être: dès que quelqu'un fait le signe T avec ses mains ("Temps mort"), la discussion est renvoyée à après le Daily Stand-up.
+
+Une fois que le Daily Stand-up est fini, ceux qui ont besoin de rester, et ceux qui en ont envie, restent sur place et discutent des sujets listés. Certains appelle ce moment: "l'After".
+
+Quand un sujet est traité, cochez-le. Quand tous les sujets sont traités, nettoyez la liste pour que l'espace soit prêt pour le Daily Stand-up suivant.
+
+C'est une manière, pour certaines équipes, de réduire la durée du Daily Stand-up et de le rendre plus efficace.
+
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 After party
 
 When people derail in detailed discussions during the Daily Stand-up meeting, pause them and add the topic to “Immediately after”. The policy could be that whenever anyone makes a T-shaped hand signal, the discussion is moved to after the Daily Stand-up.
