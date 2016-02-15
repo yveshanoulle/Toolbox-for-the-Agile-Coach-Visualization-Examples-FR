@@ -14,11 +14,11 @@ Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Examples ==> Exemples
 High score ==> High-score (Meilleur score?)
-Hourglass Scrum Wall ==> Mur Scrum sablier (?)
+Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
 Icon ==> Icône
 Lane ==> Ligne
 Pair programming ==> Pair programming
-Pairing ==>
+Pairing ==> 
 Parking Lot ==> Parking Lot (en italique) (?Parkeerplaats?)
 Policies ==> Règles
 Queue ==> File d'attente
