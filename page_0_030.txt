@@ -1,0 +1,17 @@
+Tableau Kaizen
+
+Pour garantir que les actions validées durant la rétrospective sont bien suivies, écrivez les sur des Post-its et mettez les sur le mur.
+
+Si les Post-its s'ajustent peu sur votre tableau standard, créez un petit tableau à part Kanban des Actions de Rétrospective (parfois appelé Tableau Kaizen) où vous pouvez suivre l'avancement des améliorations.
+
+Si vous utilisez des Avatars, utilisez de la même manière pour les murs standards?
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Kaizen board
+
+To ensure that the actions decided upon during the retrospective are followed through, write down the actions on Post-its and bring them to the wall.
+
+If the Post-its do not have a natural fit on your normal board, create a small separate Retrospective Actions Kanban board (sometimes known as a Kaizen Board) where you can track the improvement work.
+
+If you use Avatars, use them same the way as you use them for the regular wall.
