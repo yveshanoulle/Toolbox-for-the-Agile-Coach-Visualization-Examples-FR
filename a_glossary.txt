@@ -8,6 +8,7 @@ We put the words in alphabetic order of the English words.
 
 After party ==> l'After
 Avatars ==> Avatars
+Backlog grooming => Affinage du backlog
 Bottleneck ==> Goulot d'étranglement (plus exactement Goulet d'étranglement)
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
@@ -18,7 +19,7 @@ Icon ==> Icône
 Lane ==> Ligne
 Pair programming ==> Pair programming
 Pairing ==>
-Parking Lot ==> Parking Lot (Parkeerplaats?)
+Parking Lot ==> Parking Lot (en italique) (?Parkeerplaats?)
 Policies ==> Règles
 Queue ==> File d'attente
 Retrospective ==> Rétrospective
