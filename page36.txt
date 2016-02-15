@@ -1,8 +1,0 @@
-Stand-ups on time
-+ high score
-
-Do you think you are getting better at starting your Daily Stand-ups on time? Why not measure it?
-
-Every day you start the Daily Stand-up on time, increase your “Daily started on time”-score. If you start it late, reset it to zero. Next to the counter, write your high-score so far. If you can, think of a fun reward for the team every time you break your own record.
-
-Other examples of counter and high scores (aka “chains”) are “We fixed more bugs today than were reported”, “Days with zero bug reports”, and “Urgent lane empty by the end of the day”.
