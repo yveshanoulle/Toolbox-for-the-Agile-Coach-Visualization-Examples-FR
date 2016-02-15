@@ -6,25 +6,25 @@ Goal is to be consistent.
 
 We put the words in alphabetic order of the English words.
 
-After party ==> Afterparty
+After party ==> l'After
 Avatars ==> Avatars
-Bottleneck ==> Goulot d'étranglement
+Bottleneck ==> Goulot d'étranglement (plus exactement Goulet d'étranglement)
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Examples ==> Exemples
-High score ==> High-score
-Hourglass Scrum Wall ==> Mur Scrum sablier
+High score ==> High-score (Meilleur score?)
+Hourglass Scrum Wall ==> Mur Scrum sablier (?)
 Icon ==> Icône
 Lane ==> Ligne
 Pair programming ==> Pair programming
 Pairing ==>
-Parking Lot ==> Parkeerplaats
+Parking Lot ==> Parking Lot (Parkeerplaats?)
 Policies ==> Règles
 Queue ==> File d'attente
 Retrospective ==> Rétrospective
 Story ==> Story
 Ticket ==> Ticket
-Urgent lane ==> Ligne urgente
+Urgent lane ==> Ligne urgente (ligne des urgences?)
 User Story lane ==> Ligne de User Story
 Visualization ==> Visualisation
 Wall ==> Mur
