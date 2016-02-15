@@ -1,0 +1,18 @@
+Boite de réception
+
+Est-ce que de nouvelles tâches sont ajoutées par des membres créatifs de l'équipe ? Subissez-vous l'ajout de tâches en milieu de sprint par des personnes / responsables extérieurs à l'équipe, demande de l'aide à un membre particulier ? Est-ce que cela sabote la concentration sur l'objectif de sprint ? Ajoutez une règle de Boite de réception !
+
+Règle : les nouvelles tâches ne sont pas ajoutées à planifier ou en cours, mais doivent passer par la boite de réception. Durant le standup suivant, l'équipe complète décide s'il faut ou ne faut pas réaliser la tâche, c'est-à-dire si elle possède assez de valeur et est alignée avec l'objectif de sprint. Si l'équipe décide qu'il ne faut pas faire maintenant, la demande va soit dans le backlog, soit à la poubelle.
+
+La Boite de réception devrait être vide à la fin de chaque Daily Standup.
+
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Inbox
+Are extra tasks frequently added by creative team members? Do you suffer from tasks introduced into the sprint by people/managers outside the team, asking specific team members for help? Does this sabotage the focus on the sprint goals? Add the Inbox policy! 
+
+Policy: new tasks aren’t added to Planned or Doing, they must be placed in the Inbox. The following standup the whole team decides if the task should be done or not, i.e. if it’s valuable and aligned with the sprint’s goal. If the team decides it shouldn’t be done now, it goes into the product backlog or into the trash bin.
+
+Each Inbox should be empty by the end of the Daily Stand-up.
+
