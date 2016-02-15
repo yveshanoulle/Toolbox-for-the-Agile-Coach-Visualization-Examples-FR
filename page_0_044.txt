@@ -1,4 +1,14 @@
-Late = Cake
+En retard, c'est un gâteau
+
+Tracer un cercle. Tracez 8 parts. Ceci représente le gateau. Quand quelqu'un arrive en retard pour le Daily stand-up, noter son nom sur une des parts.
+
+Quand le gateau est "plein", compter les points. Le gagnant cuisine un gateau pour que l'équipe s'en régale le jour suivant.
+- 
+Une autre possibilité: ecrivez la liste des membres de l'équipe. Quand quelqu'un arrive en retard, il reçoit une coche. Trois coches ou plus, c'est un gateau à faire.
+Si vous n'aimez pas les gateaux, ou si cette règle veut dire "gras", essayez une autre règle.
+ 
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ Late = Cake
 
 Draw a circle. Slice it up in 8 slices. This represents a cake. When someone arrives late to the Daily Stand-up write that person’s name in one of the slices.
 
