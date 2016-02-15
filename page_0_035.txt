@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Minuteur de Daily Stand-Up
 
 Une équipe avec laquelle je travaillais avait décidé à plusieurs reprises qu'ils devaient vraiment limiter le Daily Stand-Up à 15 minutes, mais elle n'avais jamais réussi à y parvenir. Un jour, j'ai placé ma tablette sur une petite table (qui s'avérait être placée en face du mur) et j'ai lancé le minuteur. Je n'ai pas expliqué pourquoi.
@@ -9,8 +8,6 @@ Remarque: Le but du Daily Stand-Up n'est pas bien sûr de finir dans les 15 minu
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
  Daily Stand-up timer
-
->>>>>>> origin/master
 
 One team I was working with repeatedly decided that they should really limit the Daily Stand-up meeting to 15 minutes, but never succeeded to accomplish it. One day I placed my tablet on a small table (that happened to be positioned in front of the wall) and started a timer. I didn’t explain why.
 
