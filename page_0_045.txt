@@ -1,10 +1,10 @@
  Tache < 1 jour
  
- Quand vous découpez en tâches (c'est à dire, découpez le travail qui doit être fait pour terminer une User Story), n'arrétez pas de découper avant que toutes les taches puissent être finies en moins d'un jour.
+Quand vous découpez en tâches (c'est à dire, découpez le travail qui doit être fait pour terminer une User Story), n'arrétez pas de découper avant que toutes les taches puissent être finies en moins d'un jour.
  
- Cette règle rend plus facile la visualisation des progrès et des goulets d'étranglements. Elle déclenche aussi des discussions plus collaboratives durant les réunions de planning.
+Cette règle rend plus facile la visualisation des progrès et des goulets d'étranglements. Elle déclenche aussi des discussions plus collaboratives durant les réunions de planning.
  
-?? KEZAKO???  De plus, si vous utilisez DOTTING (??), vous savez qu'il est délicat de commencer si ???  si une taches commence à recevoir des points alors qu'une tache unique ne doit pas recevoir plus d'un point. ?? KEZAKO???  
+Si vous utilisez la pratique classique de marquage des taches d'un point pour chaque jour passé dessus, vous saurez ainsi qu'il y a quelque chose d'anormal si une des taches commence à collecter des points alors qu'aucune tache ne doit en recevoir plus d'un.
  
  Si vous utilisez le sprint burndown, vous pouvez compter les taches au lieu des heures. Plus rapide!
 
