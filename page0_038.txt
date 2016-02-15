@@ -1,0 +1,18 @@
+Camembert de progression
+
+Peut être avez vous votre roadmap visualisée sur votre mur et aimeriez visualiser l'avancement des Epics relatives à une version spécifique? Une estimation grossière est souvent suffisante, par exemple un camembert de progression.
+
+Dessinez un cercle sur un Post-it et demandez "Combien est réalisé". Remplissez le cercle en fonction de la réponse. Un cercle vide signifierait "pas commencé". Un cercle complet "Prêt à livrer".
+
+Bien sûr cela déclenche des discussions sur ce qu'il faut faire pour compléter le cercle, ce qui est une bonne chose! En cas de besoin: clarifier les critères d'acceptation et remplacer peut-être l'Epic avec les User Stories découpées.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Progress Pie
+
+Do you have your roadmap visualized on your wall and would like to visualize progress of Epics related to a specific release? Some rough estimate is usually enough, for example a progress pie.
+
+Draw a circle on the Post-it and ask “How much is done?”. Fill in the pie according to the answer. An empty circle would mean “not begun”. A full circle “Ready to ship”.
+
+This of course triggers discussions about what is needed for a full circle, which is a good thing! When needed: clarify acceptance criteria and maybe replace the Epic with sliced User Stories.
+

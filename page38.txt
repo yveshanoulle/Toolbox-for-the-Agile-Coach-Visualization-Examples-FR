@@ -1,8 +1,0 @@
-Progress Pie
-
-Do you have your roadmap visualized on your wall and would like to visualize progress of Epics related to a specific release? Some rough estimate is usually enough, for example a progress pie.
-
-Draw a circle on the Post-it and ask “How much is done?”. Fill in the pie according to the answer. An empty circle would mean “not begun”. A full circle “Ready to ship”.
-
-This of course triggers discussions about what is needed for a full circle, which is a good thing! When needed: clarify acceptance criteria and maybe replace the Epic with sliced User Stories.
-
