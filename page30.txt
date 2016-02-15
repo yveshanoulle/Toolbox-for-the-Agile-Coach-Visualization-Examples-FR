@@ -1,7 +1,0 @@
-Kaizen board
-
-To ensure that the actions decided upon during the retrospective are followed through, write down the actions on Post-its and bring them to the wall.
-
-If the Post-its do not have a natural fit on your normal board, create a small separate Retrospective Actions Kanban board (sometimes known as a Kaizen Board) where you can track the improvement work.
-
-If you use Avatars, use them same the way as you use them for the regular wall.
