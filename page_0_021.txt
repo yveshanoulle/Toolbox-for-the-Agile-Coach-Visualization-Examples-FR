@@ -1,0 +1,15 @@
+Pointillage
+
+Chaque jour, ajoutez un point sur chaque tâche en cours. Mettez un point que quelqu'un travaille vraiment ou non. Quand l'ensemble est fluide (si les tâches sont assez petites) aucune tâche ne devrait présenter plus de quelques points. Si les points s'empilent, vous savez que quelque chose cloche et qu'il faut en parler.
+
+Mettre des points est une manière simple et puissante de montrer les problèmes et les goulots d'étranglement. Le même principe peut être appliqué pour les autres colonnes, comme "En attente de revue de code", mais à la place des points dessinez une ligne ou utilisez une couleur de point différente. 
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+
+Dotting 
+
+Every day, put a new dot on each task in progress. Put a dot regardless if someone is actively working on it or not. When everything is running smoothly (given that the tasks are broken down enough) no single task should get more than a few dots. If the dots starts building up, you know that something is wrong and that you need to talk about it. 
+
+Dotting is a simple and powerful way of revealing problems and bottlenecks. The same principle can be applied for other columns, such as “Waiting for code review”, but instead of dots draw a line or use a different color for the dots.
+

@@ -1,6 +1,0 @@
-Dotting 
-
-Every day, put a new dot on each task in progress. Put a dot regardless if someone is actively working on it or not. When everything is running smoothly (given that the tasks are broken down enough) no single task should get more than a few dots. If the dots starts building up, you know that something is wrong and that you need to talk about it. 
-
-Dotting is a simple and powerful way of revealing problems and bottlenecks. The same principle can be applied for other columns, such as “Waiting for code review”, but instead of dots draw a line or use a different color for the dots.
-
