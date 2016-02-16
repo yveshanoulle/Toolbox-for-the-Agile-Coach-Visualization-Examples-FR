@@ -1,7 +1,0 @@
-Color according to skill
-
-Some teams like to color the tasks according to the primary skill needed. During the planning session this helps the team to split work into tasks and to clarify the diversity of work.
-
-I’ve seen that some teams have a color for testing activities, others have a column named “Testing”. You need to experiment to find what works for you.
-
-But, if this technique undermines teamwork - stop using it! Not finding a task with “your” color is no excuse to not collaborate and help out. 
