@@ -14,7 +14,7 @@ Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Epic ==> Epic
 Examples ==> Exemples
-Kudo(s) ==> remerciement(s)
+Kudo(s) ==> Remerciement(s)
 High score ==> High-score (Meilleur score?)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
 Icon ==> Icône
