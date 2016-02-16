@@ -18,7 +18,7 @@ Epic ==> Epic
 Examples ==> Exemples
 High score ==> High-score (Meilleur score?)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
-Icon ==> Icône
+Icon ==> Icône (Symbole?)
 Kudos => Kudos (Toujours avec le "s" final. en train de passer dans le langage courant, au moins des geeks...)
 Lane ==> Ligne
 Pair programming ==> Pair programming
@@ -39,3 +39,5 @@ Waste ==> Gaspillage
 Whiteboard ==> Tableau blanc
 WIP-limit ==> Limite du travail en cours, limite du WIP (Work in Progress)
 Working agreement ==> Accord de travail
+Improvement theme ==> Thème d'amélioration???
+Stress level meter ==> Mètre à niveau de stress
