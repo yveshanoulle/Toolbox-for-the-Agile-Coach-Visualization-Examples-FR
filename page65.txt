@@ -1,7 +1,0 @@
-Ready for demo
-
-Teams that Kanban should also of course demo as well. If your team hasn’t scheduled a recurring demo, perhaps a Ready for demo area can help.
-
-Once a story is done and ready for demo, move it to an empty slot in the first row. When the first row is full, an invitation for a demo is sent out. When the demo is held, all ready-for-demo stories are shown, after which the area is cleared.
-
-Note: This example has been mentioned earlier (see Lane Priority), but is presented here in more detail.
