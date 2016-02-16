@@ -6,6 +6,8 @@ Goal is to be consistent.
 
 We put the words in alphabetic order of the English words.
 
+Vouvoiement plutot que tutoiement
+
 After party ==> l'After, un after (comme après une "party" qui dure longtemps...)
 Avatars ==> Avatars
 Backlog grooming => Affinage du backlog
