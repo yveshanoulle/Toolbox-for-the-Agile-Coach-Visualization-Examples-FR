@@ -1,4 +1,13 @@
-Envelopper Collectors
+Enveloppe à Post-Its               (? Enveloppe de collection ? bof bof ?)
+
+Les enveloppes sont pratiques pour collecter les Post-Its. J'ai vu des équipes les utiliser pour le stockage, comme un endroit où mettre les Post-Its plutôt que les jeter à la corbeille.
+
+On peut adopter une approche peu plus élaborée consistant à de nouvelles enveloppes chaque mois et mettre les différents Post-Its dans différentes enveloppes. A la fin du mois, on compte et analyse les stories et les taches finies. Quel est le ratio de valeurs ajoutée (User Stories) sur la correction de bugs? Travail planifié par rapport au travail non planifié? Les causes d'interruptions les plus fréquentes? Les causes communes d'arrivée de taches urgentes?
+
+Si vous êtes nostalgique, vous pouvez mettre les enveloppes dans une poche en plastique, dater cette dernière et la mettre dans un classeur.
+
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ Envelopper Collectors
 
 Envelopes are great for collecting Post-it. I’ve seen teams use them simply for storage, a place to store Post-its instead of throwing them in the bin.
 
