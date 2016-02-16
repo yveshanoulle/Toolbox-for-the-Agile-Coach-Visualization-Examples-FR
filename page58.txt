@@ -1,5 +1,0 @@
-Parked by Person
-
-Some teams I’ve met (who have a Parking Lot) make clear who was working on the task when it became paused by sorting the Post-its by team member. 
-
-When a task becomes paused, the Post-it gets moved to that person’s line in the Parking Lot area. When that person, or someone else, picks up the task again it gets moved back to the it’s original position on the wall.
