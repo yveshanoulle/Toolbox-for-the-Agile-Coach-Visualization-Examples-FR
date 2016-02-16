@@ -6,7 +6,7 @@ Goal is to be consistent.
 
 We put the words in alphabetic order of the English words.
 
-After party ==> l'After
+After party ==> l'After, un after (comme après une "party" qui dure longtemps...)
 Avatars ==> Avatars
 Backlog grooming => Affinage du backlog
 Bottleneck ==> Goulot d'étranglement (plus exactement Goulet d'étranglement)
