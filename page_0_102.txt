@@ -1,0 +1,17 @@
+?Suivi de la discipline? 
+
+Quand on démarre en Kanban, un des premmiers défis est d'être réellement discipliné vis à vis des limites de WIP de façon à ne pas les dépasser.
+
+Un moyen facile d'être transparent et honnête sur comment vous êtes diciplinés en tant qu'équipe est de conserver les traces du nombre de fois où vous dépasser une des limites de WIP.
+
+Imprimez (ou dessinez) des calendriers mensuels. A la fin du Daily Stand-up, vérifiez si une limite de WIP est dépassée. Si c'est le cas, faîtes une grosse tâche rouge laide dans le calendrier. Sinon, dessinez un beau cercle vert.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Discipline Track Record
+
+When getting started with Kanban, one of the first challenges is to be truly disciplined regarding the WIP Limits so that they aren’t exceeded. 
+
+An easy way to be transparent and honest about how disciplined you are as a team is to keep a track record of how often you break any WIP Limit. 
+
+Print (or draw) monthly calendars. By the end of the Daily Stand-up, check if a WIP Limit is exceeded. If it is, make a red fat ugly blob in the calendar. If not, draw a nice green circle. 

@@ -1,7 +1,0 @@
-Discipline Track Record
-
-When getting started with Kanban, one of the first challenges is to be truly disciplined regarding the WIP Limits so that they aren’t exceeded. 
-
-An easy way to be transparent and honest about how disciplined you are as a team is to keep a track record of how often you break any WIP Limit. 
-
-Print (or draw) monthly calendars. By the end of the Daily Stand-up, check if a WIP Limit is exceeded. If it is, make a red fat ugly blob in the calendar. If not, draw a nice green circle. 
