@@ -1,0 +1,18 @@
+Les Stand-up journaliers
+
+Au lieu d'aller vers un Scrum "classique", faites en sorte que le Stand-up journalier soit élaboré en connaissance de cause en le couchant sur papier. Une fois écrit, cela sera plus facile d'avoir des discussions constructives qui pourront améliorer le Stand-up.
+
+Cela sera aussi plus facile de faire varier la responsabilité de faciliter le Stand-up journalier.
+
+La même approche s'applique aussi aux autres réunions telles que le Sprint planning, le grooming du backlog, la revue du Sprint etc...
+
+--------------------------- ORIGINAL TEXT BELOW -------------------------
+
+
+Daily Stand-up Routine
+
+Instead of just jumping into doing the Scrum default “round”, make the routine of the Daily Stand-up a conscious design by writing it down. Once written down it becomes easier to have constructive discussions on how to improve it.
+
+It also makes it easier to rotate the responsibility of facilitating the Daily Stand-up.
+
+The same approach could also of course be applied to other kinds of meetings such as Sprint Planning, Backlog Grooming, Sprint Review, etc.
