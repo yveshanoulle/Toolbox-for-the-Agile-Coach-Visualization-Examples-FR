@@ -23,6 +23,7 @@ Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
 Icon ==> Icône (Symbole?)
 Kudos => Kudos (Toujours avec le "s" final. en train de passer dans le langage courant, au moins des geeks...)
 Lane ==> Ligne
+LEGO ==> des LEGO
 Pair programming ==> Pair programming
 Pair Programming Matrix => Pair Programming Matrix
 Pairing ==> Binomage ?
