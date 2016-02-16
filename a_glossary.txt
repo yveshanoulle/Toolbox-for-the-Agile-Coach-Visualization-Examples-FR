@@ -37,5 +37,5 @@ Visualization ==> Visualisation
 Wall ==> Mur
 Waste ==> Gaspillage
 Whiteboard ==> Tableau blanc
-WIP-limit ==> Limite du travail en cours, limite du WIP
+WIP-limit ==> Limite du travail en cours, limite du WIP (Work in Progress)
 Working agreement ==> Accord de travail
