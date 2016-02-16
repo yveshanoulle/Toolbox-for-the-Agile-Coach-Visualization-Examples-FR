@@ -1,7 +1,0 @@
-Guide Board
-
-Capture the working agreement policies from retrospectives by drawing and writing on Post-its. Actually portraying the policy in a drawing makes the policy easier to remember, stirs great discussions and makes the Guide Board easier to read for the team. For each, sprint add a new column. 
-
-If a policy is poorly followed, push the Post-it down to the “Under Observation” row. In the next retro evaluate your ability to follow the policy, and then either put it back into its place or close it with a blue note.
-
-When a policy becomes replaced or deprecated, put a blue sticker on the policy. The front of the blue Post-it states the sprint during which it became obsolete and the back side of the Post-it describes the reason why it became deprecated. 

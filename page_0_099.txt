@@ -1,0 +1,17 @@
+Tableau des guides
+
+Rendez les conclusions des rétrospectives plus actionnables en les dessinant sur des Post-its « guides ». Représenter graphiquement les décisions prises les rend plus facilement mémorisables, lance d'excellents débats et rend le Tableau des guides plus facile à lire. Ajoutez une colonne à chaque itération.
+
+Si une décision est mal suivie, déplacez le Post-it qui la représente dans le dernier rang, nommé « En observation ». Dans la rétrospective suivante, évaluez votre capacité à respecter le guide. Le guide sera soit remis en place, soit fermé.
+
+Pour fermer un guide, recouvrez-le d'un Post-it bleu. Son recto indique le numéro de l'itération à laquelle le guide est devenu obsolète, et son verso décrit en quelques mots la raison pour laquelle il a été abandonné.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Guide Board
+
+Capture the working agreement policies from retrospectives by drawing and writing on Post-its. Actually portraying the policy in a drawing makes the policy easier to remember, stirs great discussions and makes the Guide Board easier to read for the team. For each, sprint add a new column. 
+
+If a policy is poorly followed, push the Post-it down to the “Under Observation” row. In the next retro evaluate your ability to follow the policy, and then either put it back into its place or close it with a blue note.
+
+When a policy becomes replaced or deprecated, put a blue sticker on the policy. The front of the blue Post-it states the sprint during which it became obsolete and the back side of the Post-it describes the reason why it became deprecated. 
