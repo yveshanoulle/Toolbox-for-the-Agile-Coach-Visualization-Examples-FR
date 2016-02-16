@@ -1,7 +1,0 @@
-Story Point Ruler
-
-To get better at doing relative Story Point estimation as a team, create a Story Point Ruler. 
-
-By the end of every sprint (for example during the Sprint Review meeting) ask yourselves, for every story completed: In hindsight, given what we know now - how many Story Points should this user story have been? Put the User Story on that place on the ruler.
-
-When it’s time to estimate new stories (with for example Poker Planning), simply compare that story to the stories already estimated on the ruler. As time goes by, clean the ruler so that it doesn’t become too crowded. Keep the good examples and remove similar User Stories.
