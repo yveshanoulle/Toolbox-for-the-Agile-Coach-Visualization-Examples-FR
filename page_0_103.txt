@@ -1,0 +1,18 @@
+Tableau de dépendances
+
+Quand une équipe découvre qu'elle a besoin de quelque chose d'une autre équipe (afin de commencer son propre travail), elle ajoute cet élément au tableau de dépendance partagée. "Nous avons besoin <rouge> avant que nous puissions commencer par <jaune>". Les notes sont reliées par une chaîne.
+
+Le tableau est régulièrement revu par les équipes, par exemple au cours du Scrum de Scrums. Une fois qu'une note rouge a été résolue les post-it jaunes reliés sont éliminés aussi.
+
+Le tableau de dépendances peut aider les équipes à planifier, découper les fonctionnalités, prévoir les besoins de collaboration technique, ainsi que de trouver des moyens de s'aider les unes les autres.
+
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Dependency Board
+
+When a team discovers that they need something from another team (in order to begin their own work), they add that to the shared Dependency Board. “We need <red> before we can start with <yellow>”. The notes are connected with a string.
+
+The board is regularly reviewed by the teams, for instance during the Scrum of Scrums. Once a red note has been resolved the connected yellow Post-its is removed as well.
+
+The Dependency Board can help teams to plan, slice features, foresee needed technical collaboration, as well as finding alternative ways of helping each other.
