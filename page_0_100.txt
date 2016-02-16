@@ -1,8 +1,8 @@
 Check-in quotidien
 
-Tout le monde n'a pas le luxe de travailler dans une équipe colocalisée mais dépend néanmoins de ses collègues pour les discussions. Par exemple, vous pouvez être un coach agile collaborant beaucoup avec d'autres coachs agiles et vous voulez facilement voir facilement qui d'autre est dans les bureaux.
+Tout le monde n'a pas le luxe de travailler dans une équipe colocalisée et dépend néanmoins de ses collègues pour les discussions. Par exemple, vous pouvez être un coach agile collaborant beaucoup avec d'autres coachs agiles et vous voulez facilement voir facilement qui d'autre est dans les bureaux.
 
-Quand vous arrivez le matin, vous déplacez votre avatar vers le jour courant. Quand vous partez, vous le déplacer vers "Absent". Pour rendre la visualisation encore plus fun, pourquoi ne pas utiliser des légos ?
+Quand vous arrivez le matin, vous déplacez votre avatar vers le jour courant. Quand vous partez, vous le déplacez vers "Absent". Pour rendre la visualisation encore plus fun, pourquoi ne pas utiliser des légos ?
 
 
 ---- SOURCE ---------
