@@ -1,5 +1,0 @@
-Improvement Theme
-
-Improvement Theme is a tool in the form of a poster that works as a conveyor belt for continuous improvements once the Retrospective is over. Describe the current situation in the red section. Then define how the situation would look like if it was awesome in the green section. Then ask yourselves, six weeks from now; what realistic and concrete goals can we set that will bring us closer to our “Definition of Awesome?” Then identify the first three smallest steps you can take to get closer to these goals. 
-
-Follow up on the steps during the Daily Stand-up and add new ones as tasks are completed. When the six weeks have passed, evaluate the poster and create a new “Next Target Condition”.
