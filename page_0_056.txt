@@ -1,3 +1,12 @@
+Limites du TAF
+
+Dans l'exemple ci-dessus, l'équipe a une limitation du TAF (Travail A Faire, WIP) dans plusieurs dimensions. Ils ne travaillent que sur un maximum de 3 stories à la fois. S'ils veulent en commencer une quatrième, ils doivent d'abord en finir une en cours. Si "En Cours" et "A Tester" sont plein (limite totale de 4), ils ne sont pas autorisés à commencer une cinquième tâche. Ils doivent d'abord terminer les tests, décaler les taches, etc...
+
+Ecrivez les limites du TAF sur de Post-Its, car vous les changerez probablement au cours du temps en essayant de trouver un bon équilibre.
+
+Limiter le TAF est à la base du Lean et une pratique que de nombreuses équipes qui réussissent, font. Expliquer le Lean, ou pourquoi limiter le TAF est une bonne idée, sont au-delà du périmètre de ce livre.
+
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Wip Limits
 
 In the example above the team has a limited Work In Progress (WIP) in several dimensions. They only work on a maximum of three stories at any given time. If they want to start a fourth, they first need to finish any of the ongoing. If “Doing” + “Ready for Test” are full (joint limit of 4) they aren’t allowed to start on a fifth task. They first need to help out testing, moving tasks down the board. And so on.
