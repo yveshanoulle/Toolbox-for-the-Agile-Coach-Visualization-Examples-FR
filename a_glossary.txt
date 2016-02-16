@@ -13,6 +13,8 @@ Avatars ==> Avatars
 Backlog grooming => Affinage du backlog
 Bottleneck ==> Goulot d'étranglement (plus exactement Goulet d'étranglement)
 Bug ==> Bug
+Check-in ==> Check-in
+Colocated ==> Colocalisé
 Daily Stand-up ==> Daily Stand-up
 Epic ==> Epic
 Examples ==> Exemples
