@@ -1,11 +1,11 @@
 The project for the French translation.
 
 The idea is to do the translation page per page.
-To show to others you will work on a page, you add your name to the page and commit to github.
+To show to others you will work on a page, you add your name to the page file name and commit to github, ie page60_JGdB.txt
 Please only one page at the time. When you are finished you can commit your translation and remove your name.
 (And start a new page if you feel like it...)
 
-When you are ready, you change the name of the file to page_xxx.txt
+When you are ready, you change the name of the file to page_x_xxx.txt
 F. ex. page1.txt changes to page_0_001.txt
 That way the pages at the top are also the pages not yet done.
 
@@ -25,6 +25,3 @@ This list was created by previous translations, when we need other words, we can
 
 yves
 
-PS: Après discussion avec Yves, peut-être que de simplement mettre son trigramme ou une indication de ce type sur le nom de fichier serait suffisante dans un premier temps, sachant que l'objectif est juste de savoir rapidement qui travaille sur quoi :-)
- 
-Olivier My
