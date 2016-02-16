@@ -1,9 +1,4 @@
 
-
-
-
---- SOURCE ---
-
 Parked by Person
 
 Some teams I’ve met (who have a Parking Lot) make clear who was working on the task when it became paused by sorting the Post-its by team member. 
