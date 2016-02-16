@@ -17,6 +17,7 @@ Examples ==> Exemples
 High score ==> High-score (Meilleur score?)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
 Icon ==> Icône
+Kudos => Kudos (en train de passer dans le langage courant, au moins des geeks...)
 Lane ==> Ligne
 Pair programming ==> Pair programming
 Pairing ==> 
