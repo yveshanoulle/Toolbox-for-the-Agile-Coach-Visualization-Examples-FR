@@ -1,7 +1,0 @@
-Pause Icon
-
-Sometimes you need to pause work on a task because another thing has become more urgent. You’re not necessarily blocked by anything, but you are nonetheless not working on it at the moment.
-
-In order to make that clear and transparent, put a Pause Icon on top of that task. And for extra clarity you might want to leave your avatar on the task to signal that you were the one working on it.
-
-Another approach to address the same issue is to use a Parking Lot instead.
