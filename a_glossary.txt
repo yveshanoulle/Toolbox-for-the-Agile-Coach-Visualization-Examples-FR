@@ -22,9 +22,11 @@ Icon ==> Icône
 Kudos => Kudos (Toujours avec le "s" final. en train de passer dans le langage courant, au moins des geeks...)
 Lane ==> Ligne
 Pair programming ==> Pair programming
-Pairing ==> 
+Pair Programming Matrix => Pair Programming Matrix
+Pairing ==> Binomage ?
 Parking Lot ==> Parking Lot (en italique)  (Zone d'attente ?) (?Parkeerplaats?)
 Policies ==> Règles
+Promiscuous Map => Carte de proximité ?
 Queue ==> File d'attente
 Retrospective ==> Rétrospective
 Story ==> Story
