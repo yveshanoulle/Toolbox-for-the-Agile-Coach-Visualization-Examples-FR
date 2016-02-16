@@ -1,0 +1,14 @@
+Barre de Progression de tâche
+
+Parfois une tâche est bloquée sur le tableau soit parce qu'elle représente un volume de travail important, ou que l'effort pour la réaliser est plus important que prévu. Quand cela arrive dessinez une barre de progression (sur le Post-it de la tâche) à mettre à jour pendant le Daily Stand-up.
+
+Si vous utilisez le pointillage (voir "Pointillage") comme une pratique, vous pourriez rajouter cette règle : dès que la tâche a plus de deux points, ajoutez une barre de progression et discutez des éléments manquants pour la finir
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ 
+ Task Progress Bar
+
+Some tasks get stuck on the wall because they either describe a big chunk of work, or the amount of work turned out to be more than first anticipated. When that happens draw a progress bar (on the task Post-it) which is updated during the Daily Stand-up.
+
+If you use dotting (see example “Dotting”) as a habit you could add the policy: as soon as a task gets two or more dots, we add a progress bar and discuss what is needed to complete the task.
+

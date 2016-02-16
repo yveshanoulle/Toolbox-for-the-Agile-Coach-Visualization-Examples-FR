@@ -1,6 +1,0 @@
-Task Progress Bar
-
-Some tasks get stuck on the wall because they either describe a big chunk of work, or the amount of work turned out to be more than first anticipated. When that happens draw a progress bar (on the task Post-it) which is updated during the Daily Stand-up.
-
-If you use dotting (see example “Dotting”) as a habit you could add the policy: as soon as a task gets two or more dots, we add a progress bar and discuss what is needed to complete the task.
-
