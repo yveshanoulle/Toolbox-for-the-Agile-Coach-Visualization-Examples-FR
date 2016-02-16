@@ -1,7 +1,7 @@
 The project for the French translation.
 
 The idea is to do the translation page per page.
-To show to others you will work on a page, you add your name to the page file name and commit to github, ie page60_JGdB.txt
+To show to others you will work on a page, you add your name to the page file name and commit to github, ie page60_JGdB.txt.
 Please only one page at the time. When you are finished you can commit your translation and remove your name.
 (And start a new page if you feel like it...)
 
