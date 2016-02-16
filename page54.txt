@@ -1,5 +1,13 @@
+Générique de Livraison
 
-Release Credits
+Chaque fin de film présente un générique de remerciement reconnaissant la participation de toute personne impliquée dans la création. Pourquoi mériteriez-vous moins ? Célébrez la réussite d'une fin de sprint en créant un poster de Générique de Livraison.
+
+J'ai vu des équipes choisir des thèmes comme les missions spaciales, les films de super-héros, des groupes de rock etc. Tant que cela vous correspond. La responsabilité de la création du poster devrait tourner, ou vous le créer en tant qu'équipe durant la rétrospective de sprint.
+
+
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ 
+ Release Credits
 
 By the end of every movie, there are release credits acknowledging everyone involved in creating the masterpiece. Why would you deserve any less!? Celebrate your achievement of finishing a sprint with the creation of a Release Credits poster.
 
