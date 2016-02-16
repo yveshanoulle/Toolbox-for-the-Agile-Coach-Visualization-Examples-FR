@@ -1,7 +1,0 @@
-Task Estimation Boxes
-
-One simple approach to learn if things take longer than expected is to estimate the work for a task with boxes. Two boxes could for example mean a full day’s work.
-
-During the Daily Stand-up you cross the boxes as you work on the task. Continue to cross even when there are no more boxes. This technique will make it easy to see when something turned out to be harder than initially estimated, which in turn should trigger a discussion on how to help out.
-
-The estimation could take place during the sprint planning or when the task is moved from “Planned” to “Doing”.
