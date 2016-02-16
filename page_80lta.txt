@@ -1,7 +1,0 @@
-Promiscuous Map
-
-This visualization is a way of tracking how often pairing happens, and who pairs with whom. It addresses the same behavior as the Pair Programming Matrix.
-
-Whenever you’ve paired with someone, draw a line between yourself and that other person in the Promiscuous Map.
-
-After a couple of days, patterns will probably emerge. How much do we actually pair? Who pairs with whom? Do we want to consciously break some patterns and be better at pairing with different people?

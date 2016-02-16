@@ -1,0 +1,16 @@
+Carte de Proximité ou Promiscuous Map 
+
+Cette visualisation est un moyen de suivre combien de fois le binômage se produit, et qui binomes/paires avec qui. Elle visualise les mêmes comportements que la "Pair Programming Matrix".
+
+Chaque fois que vous avez binômé avec quelqu'un, tracez une ligne vous reliant sur la Carte de Proximité.
+
+Après quelques jours, des tendances vont probablement émerger. Combien avons-nous fait de binômes? Qui binôme avec qui? L'équipe voudra t'elle favoriser/créer de nouveaux liens, peut-être moins naturels ?
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+Promiscuous Map
+
+This visualization is a way of tracking how often pairing happens, and who pairs with whom. It addresses the same behavior as the Pair Programming Matrix.
+
+Whenever you’ve paired with someone, draw a line between yourself and that other person in the Promiscuous Map.
+
+After a couple of days, patterns will probably emerge. How much do we actually pair? Who pairs with whom? Do we want to consciously break some patterns and be better at pairing with different people?
