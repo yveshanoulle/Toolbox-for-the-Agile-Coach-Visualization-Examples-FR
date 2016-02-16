@@ -1,7 +1,0 @@
-Pair Programming Matrix
-
-Are you trying to do more pair programming in your team? Would you like to visualize how much you pair during a week? Try putting up a Pair Programming Matrix. 
-
-Whenever you’ve done a pairing session, make a tick in the corresponding box. You need to agree as a team how much pairing is required for a tick.
-
-Set a date when you review and talk about the results. If you want to continue tracking your pairing, reset the matrix and agree upon a new review date.
