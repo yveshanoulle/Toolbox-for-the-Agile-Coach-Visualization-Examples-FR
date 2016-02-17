@@ -1,3 +1,8 @@
+Sondage en tube
+
+
+----------------------- origine -----------
+
 Tube Poll
 
 Dropping balls in tubes is a fun way to visualize data. The tubes can be labeled. The colors of the balls could be used to have different meaning.
