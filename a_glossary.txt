@@ -13,6 +13,7 @@ Les termes qui restent en anglais ("after") devraient être mis en italique (rè
 After party ==> l'After, un after (comme après une "party" qui dure longtemps...)
 Avatars ==> Avatars
 Backlog grooming => Affinage du backlog
+Board ==> Tableau
 Bottleneck ==> Goulet d'étranglement (improprement nommé: goulot d'étranglement: PhA)
 Bug ==> Bug
 Check-in ==> Check-in
