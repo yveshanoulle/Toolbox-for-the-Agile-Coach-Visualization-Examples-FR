@@ -1,5 +1,0 @@
-Exploratory Testing Wheel
-
-If you vacuum a huge floor with an automatic semi-dumb vacuum robot, at least at some point in time every area of the floor has been vacuumed. You could use the same approach to testing.
-
-Choose a couple of Exploratory Test Charters. Place them around a wheel. Make it a policy that each member runs one of those charters each week. When done, the charter Post-it is put back on the wheel and the checkbox is crossed. When the wheel is done, replace some of the charters and restart the wheel.

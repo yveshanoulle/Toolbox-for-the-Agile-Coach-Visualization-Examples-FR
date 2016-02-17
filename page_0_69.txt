@@ -1,0 +1,14 @@
+La roue des tests exploratoires
+
+Si vous passez l'aspirateur sur un sol gigantesque avec un aspirateur robot semi-idiot, chaque recoin finira par être aspiré à un moment ou un autre. Vous pouvez utiliser la même approche avec les tests.
+
+Choisissez quelques chartes de tests exploratoires. Placez les autour de la roue. Mettez en place une règle où chaque membre de l'équipe joue une charte par semaine. Quand cela est fait, la Post-it charte est remis sur la roue et la checkbox est cochée. Quand la roue est terminée, remplacer quelques chartes et relancer la roue.
+
+
+-------------------
+
+Exploratory Testing Wheel
+
+If you vacuum a huge floor with an automatic semi-dumb vacuum robot, at least at some point in time every area of the floor has been vacuumed. You could use the same approach to testing.
+
+Choose a couple of Exploratory Test Charters. Place them around a wheel. Make it a policy that each member runs one of those charters each week. When done, the charter Post-it is put back on the wheel and the checkbox is crossed. When the wheel is done, replace some of the charters and restart the wheel.
