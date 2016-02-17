@@ -12,16 +12,21 @@ Les termes qui restent en anglais ("after") devraient être mis en italique (rè
 
 After party ==> l'After, un after (comme après une "party" qui dure longtemps...)
 Avatars ==> Avatars
+
 Backlog grooming => Affinage du backlog
 Board ==> Tableau
 Bottleneck ==> Goulet d'étranglement (improprement nommé: goulot d'étranglement: PhA)
+Boxes ==> xxx
 Bug ==> Bug
+
 Check-in ==> Check-in
 Colocated ==> Colocalisé
+
 Daily Stand-up ==> Daily Stand-up
 Digital => numérique
 Dis-located team -> équipes distribuées
 Dotting ==> Dotting (Mettre des points me parait bof)
+
 Epic ==> Epic
 Examples ==> Exemples
 Flipchart --> Paper-board
