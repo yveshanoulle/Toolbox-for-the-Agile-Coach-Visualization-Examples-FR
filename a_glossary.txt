@@ -22,6 +22,7 @@ Digital => numérique
 Dis-located team -> équipes distribuées
 Epic ==> Epic
 Examples ==> Exemples
+Flipchart --> Paper-board
 High score ==> High-score (Meilleur score?) - Mieux vaudrais écrire français (PhA)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
 Icon ==> Icône (Symbole?)
