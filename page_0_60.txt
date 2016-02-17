@@ -1,8 +1,8 @@
 Les Stand-up journaliers
 
-Au lieu d'aller vers un Scrum "classique", faites en sorte que le Stand-up journalier soit élaboré en connaissance de cause en le couchant sur papier. Une fois écrit, cela sera plus facile d'avoir des discussions constructives qui pourront améliorer le Stand-up.
+Au lieu d'aller vers un Scrum "classique", faites en sorte que le Stand-up journalier soit élaboré en connaissance de cause en l'écrivant. Une fois écrit, cela sera plus facile d'avoir des discussions constructives qui pourront améliorer le Stand-up.
 
-Cela sera aussi plus facile de faire varier la responsabilité de faciliter le Stand-up journalier.
+Cela permettra aussi de faire varier plus facilement le facilitateur des Stand-up journaliers.
 
 La même approche s'applique aussi aux autres réunions telles que le Sprint planning, le grooming du backlog, la revue du Sprint etc...
 
