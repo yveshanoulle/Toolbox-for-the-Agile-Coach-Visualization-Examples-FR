@@ -41,6 +41,7 @@ Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
 Icon ==> Icône (Symbole?)
 Improvement Lane ==> xxx
 Improvement theme ==> Thème d'amélioration???
+Inbox ==> Boîte de réception
 Interruption buckets = xxx
 
 Kudos => Kudos (Toujours avec le "s" final. en train de passer dans le langage courant, au moins des geeks...)
