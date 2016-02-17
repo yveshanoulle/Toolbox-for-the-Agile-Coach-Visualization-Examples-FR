@@ -18,7 +18,7 @@ Objectifs quotidiens (page 95)
 - LEGO (through Henrik Kniberg, Crisp)
 
 Dotting  (page 21) - Team HW Partners, Spotify
- Guide Board (page 99)
+ Tableau des guides (page 99)
 - Matti Schneider, http://mattischneider.fr
 
 
@@ -44,5 +44,5 @@ Daily Goals (page 95)
 - LEGO (through Henrik Kniberg, Crisp)
 
 Dotting  (page 21) - Team HW Partners, Spotify
- Tableau des guides (page 99)
+ Guide board (page 99)
 - Matti Schneider, http://mattischneider.fr
