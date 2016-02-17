@@ -19,6 +19,7 @@ Check-in ==> Check-in
 Colocated ==> Colocalisé
 Daily Stand-up ==> Daily Stand-up
 Digital => numérique
+Dis-located team -> équipes distribuées
 Epic ==> Epic
 Examples ==> Exemples
 High score ==> High-score (Meilleur score?) - Mieux vaudrais écrire français (PhA)
