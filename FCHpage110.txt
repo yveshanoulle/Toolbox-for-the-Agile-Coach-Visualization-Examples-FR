@@ -1,22 +1,0 @@
-Sources of inspiration
-
- For most of the examples in this book, it’s hard for me to pinpoint where I saw it first or what inspired me. But for the examples below there’s a clear source of inspiration.
-
-  Arrival/Departure Timeline (page 90)
-- Yves Hanoulle, http://www.hanoulle.be/
-
-Christmas Tree (page 101)
-- Mattias Skarin, Crisp
-
-Stand-ups on time + high score (page 36)
-- Kristinn Árni Lár Hróbjartsson, Plain Vanilla/QuizUp
- Daily Check-in (page 100)
-- Rolf F. Katzenberger, Pragmatic Teams 
-Daily Goals (page 95)
-- Sandy Mamoli, Nomad8
- Dependency Board (page 103)
-- LEGO (through Henrik Kniberg, Crisp)
-
-Dotting  (page 21) - Team HW Partners, Spotify
- Guide Board (page 99)
-- Matti Schneider, http://mattischneider.fr
