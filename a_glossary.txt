@@ -21,6 +21,7 @@ Colocated ==> Colocalisé
 Daily Stand-up ==> Daily Stand-up
 Digital => numérique
 Dis-located team -> équipes distribuées
+Dotting ==> Dotting (Mettre des points me parait bof)
 Epic ==> Epic
 Examples ==> Exemples
 Flipchart --> Paper-board
