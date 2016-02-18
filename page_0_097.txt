@@ -1,0 +1,19 @@
+Temps investi
+
+Souhaitez-vous avoir une façon simple de présenter à vos partenaires la manière dont vous avez investi votre temps ?
+
+À la fin de chaque semaine, sprint ou mois, évaluez grossièrement comment vous avez utilisé votre temps. Chaque membre de l'équipe dessine dix barres. Chaque barre représente 10% du temps investi. Le temps est réparti en catégories telles que : le développement de fonctionnalités, la correction de bugs et la maintenance, la recherche technique et les correctifs rapides / en mode panique.
+
+Les résultats, après avoir été mis en commun, pourront être communiqués aux partenaires.
+
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Time Invested
+
+Would you like a lightweight approach for presenting to your stakeholders how you have been investing your time?
+
+At the end of every week, sprint or month, roughly estimate how you have spent your time. Each member draws ten bars. Each bar represents 10% of the invested time. The time is distributed into categories such as; feature development, bug fixes and maintenance, technical investment and quick/panic fixes.
+
+The historical summary is then communicated to stakeholders.
+
