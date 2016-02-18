@@ -1,0 +1,8 @@
+Boite à idée pour la Retro
+
+Quand le moment est venu de la rétrospective de sprint, vous est-il arrivé de ne plus vous remémoré le contenu du sprint et l'activité à commenter en vue du prochain meeting? Pourquoi ne pas noter les pensées et idées en continu jusqu'à la prochaine rétrospective ?
+
+Dès que quelque chose se produit ou qu'une idée surgit dans votre tête, notez là et mettez là dans la "Boite à idées de Rétrospective". Si vous pensez que cela va ajouter de la valeur, notez également la date et le nom de l'auteur.
+
+Quand l'heure de la rétrospective est venue, amenez simplement les post-its de la boite.
+
