@@ -61,6 +61,7 @@ Queue ==> File d'attente
 
 Retrospective ==> Rétrospective
 
+Stakeholders ==> Partenaires (ou investisseurs ?) (revoir page 97 :/)
 States ==> statussen
 Story ==> Story
 Stress level meter ==> Mesure du niveau de stress? (Mètre à niveau de stress)
