@@ -1,5 +1,0 @@
-Sprint Info
-
-While doing the sprint planning, why not capture the details of the sprint on the wall. I’ve seen many teams having really creative Sprint Information areas.
-
-Apart from the ID (or number) of the sprint, it could state the sprint’s goal. Some teams also name their sprint according to themes (NASA missions, rock stars, super heroes etc.) And then of course you can add a start and an end date, number of people in the team this sprint, date of demo, and so on.
