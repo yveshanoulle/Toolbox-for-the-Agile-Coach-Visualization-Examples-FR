@@ -1,0 +1,22 @@
+L'astuce du jour
+
+Pourquoi ne pas améliorer la diffusion des connaissances au sein de l'équipe, ce qui rend tout le monde progressivement plus efficace avec vos outils, en partageant "l'astuce du jour" ?
+
+Cette astuce pourrait être un raccourci clavier, une fonctionnalité cachée de l'IDE et des outils que vous utilisez, ou un "truc" qui simplifie votre travail.
+
+Que ce soit en lisant un blog, en regardant un tutoriel vidéo sur youtube ou en travaillant en binôme avec quelqu'un, dès que vous avez appris quelque chose de nouveau : partagez l'information !
+
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Today’s Trick
+
+Why not speed up knowledge sharing within the team, making everyone gradually more efficient with your tools, by sharing “Today’s trick”?
+
+It could be a shortcut, a nice hidden feature of the IDE and tools you are using, or any hack that simplifies your work. 
+
+As soon as you learn something new from reading a blog, watching a YouTube tutorial or from pairing with someone – share it!
+
+
+
+
