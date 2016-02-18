@@ -1,6 +1,0 @@
-Review Queue
-
-One HR team I was working with had a long list of wiki pages describing different policies and guidelines. They suspected a lot of them needed to be revisited and updated. So, we created a Policy Review Queue. Every week one policy was reviewed and updated. Some updates needed approval from someone else so they went through a “To be approved” box. Once done, the ticket moved to the end of the queue. The order and content of the queue was rearranged when needed.
-
-The same approach could of course be applied to technical documentation, website content, FAQs, manuals, etc.
-
