@@ -61,6 +61,7 @@ Queue ==> File d'attente
 
 Retrospective ==> Rétrospective
 
+Servant Leadership == Leadership Serviteur
 Stakeholders ==> Partenaires (ou investisseurs ?) (revoir page 97 :/)
 States ==> statussen
 Story ==> Story
