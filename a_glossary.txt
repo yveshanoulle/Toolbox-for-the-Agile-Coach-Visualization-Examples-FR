@@ -16,7 +16,7 @@ Avatars ==> Avatars
 Backlog grooming => Affinage du backlog
 Board ==> Tableau
 Bottleneck ==> Goulet d'étranglement (improprement nommé: goulot d'étranglement: PhA)
-Boxes ==> xxx
+Boxes ==> Cases
 Bug ==> Bug
 
 Check-in ==> Check-in
