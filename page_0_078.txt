@@ -1,0 +1,13 @@
+Backlog en pyramide
+
+Au lieu d'ordonner les User Stories de votre backlog dans un ordre strict, essayez de les trier sous forme d'un backlog en pyramide. Dans le backlog en pyramide, il ne peut y avoir qu'une seule histoire en top priorité. Plus vous descendez dans la pyramide, plus vous vous autorisez des histoires avec le même niveau de priorité. Chaque fois que le top niveau se libère (c'est à dire que l'équipe l'a tiré dans son travail) le reste des histoires remonte dans la pyramide.
+
+Vous pouvez également imposer des règles sur les estimations. Par exemple, les histoires avec un niveau de priorité supérieure ou égale à 3 doivent être inférieures à 8 points. Pour qu'une histoire monte au niveau de priorité 5 ou au-dessus, elle doit avoir un effort  estimé, etc.
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Pyramid Backlog
+
+Instead of ordering the User Stories of your backlog in a strict order, try sorting them in a Pyramid Backlog. In the Backlog Pyramid, there can only be one top priority story. But as you go further down the pyramid, you allow yourselves more and more stories on the same priority level. Whenever the top one slot gets empty (i.e. the team has pulled it into their work) the rest of the stories “bubble” up the pyramid.
+
+You can also impose rules on estimates. For example; stories at priority level three or higher need to be smaller than 8 points. For a story to climb to priority level 5 or above, it needs to have an estimated size. And so on.
+
