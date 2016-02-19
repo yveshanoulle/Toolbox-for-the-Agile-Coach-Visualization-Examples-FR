@@ -1,0 +1,12 @@
+Lampes à lave
+
+Rien ne peut battre un radiateur visuel d'information qui brille. J'ai vu beaucoup d'équipes connecter des lampes à lave à leur serveur d'Intégration Continue, pour prévenir l'équipe quand quelque chose nécessitait leur attention. Il y a plusieurs plug-ins pour cela, et de nombreux blogs expliquent comment cela peut être réalisé.
+
+Une équipe avec laquelle j'ai travaillé avait deux lampes. La rouge s'allumait quand les tuyaux de l'Intégration Continue rencontrait un problème (impossible de compiler, tests en erreur, etc.). L'autre s'allumait quand un nouveau bug à priorité élevée était déclaré.
+
+___________________________________________________
+Lava Lamps
+
+Nothing beats a visual information radiator that glows. I’ve seen many teams connecting lava lamps to their Continuous Integration servers, alerting the team when something needs attention. There are several plug-ins for this, and numerous blogs that describe how this can be done.
+
+One team I was working with had two lamps. The red one lit up when the Continuous Integration pipeline encountered a problem (failed to compile, failed test, etc.). The other one lit up when a new high priority bug had been reported.

@@ -1,5 +1,0 @@
-Lava Lamps
-
-Nothing beats a visual information radiator that glows. I’ve seen many teams connecting lava lamps to their Continuous Integration servers, alerting the team when something needs attention. There are several plug-ins for this, and numerous blogs that describe how this can be done.
-
-One team I was working with had two lamps. The red one lit up when the Continuous Integration pipeline encountered a problem (failed to compile, failed test, etc.). The other one lit up when a new high priority bug had been reported.
