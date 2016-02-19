@@ -1,0 +1,22 @@
+Sondage en tube
+
+Voir des boules (ou des balles) en train de tomber dans des tubes est une façon amusante de visualiser des données. Les tubes peuvent avoir un nom. Les couleurs des boules peuvent être utilisées pour avoir des significations différentes.
+
+Les possibilités sont infinies, voici quelques exemples :
+
+Statistiques: D'où les bogues proviennent-ils ? Une fois qu'un bogue a été corrigé, laissez tomber une boule dans le tube correspondant.
+Données : Chaque tube est un sprint. Chaque boule est un point d'effort d'une histoire.
+Sondage: Chaque tube représente une question. Les boules vertes signifient "oui", les boules rouges représentent "non".
+Vote: "Refactoring" - quelle classe devrait être la cible de la prochaine session ?
+
+-------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Tube Poll
+
+Dropping balls in tubes is a fun way to visualize data. The tubes can be labeled. The colors of the balls could be used to have different meaning.
+
+The possibilities are of course endless, but here are some examples:
+Statistics: Where do bugs originate from? Once a bug has been fixed, drop a ball in corresponding tube.
+Data: Each tube is a sprint. Each ball a Story Point.
+Poll: Each tube represents a question. Green balls for yes, red balls for no.
+Vote: “Refactor” - what class should be the target for the next hack attack?
