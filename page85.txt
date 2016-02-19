@@ -1,7 +1,0 @@
-Visualize Internal Queues
-
-One of the seven wastes of software development is queues. One approach to reveal bottlenecks within a team is to visualize internal queues. This can be done by making it visual when tasks are actually being worked on, or waiting to be worked on.
-
-For example: instead of just having a “Test” column, split the column into “Ready for test” and “Testing”, or split “Review” into “Waiting for review” and “Reviewing”.
-
-If tasks get congested in any of these internal queues, you’ve found your bottleneck and can start discussing how to address this as a team.
