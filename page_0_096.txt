@@ -1,0 +1,19 @@
+Oppportunités par Persona
+
+Au lieu d'avoir un backlog de User Stories, j'ai vu des équipes avoir des backlogs d'opportunités catégorisés par persona. Les backlogs d'opportunité alimentent la roadmap et le backlog de User Stories de l'équipe.
+
+Une opportunité est décrite par :
+Quel problème tentons-nous de résoudre ? Quel besoin exploitons-nous ? (Pouquoi devrions-nous faire cela ?)
+Pour qui tentons-nous de résoudre ce problème ? (Persona)
+Critères de succès. Comment saurons-nous que nous avons réussi ?
+
+-----------------------
+
+Opportunities by Persona
+
+Instead of having a backlog of User Stories, I’ve seen teams having backlogs of opportunities categorized by persona. The opportunity backlogs feed into the roadmap and into the team’s User Story Backlog.
+
+An opportunity is described by:
+What problem are we trying to solve? Which need are we exploiting? (Why should we do this?)
+For whom are we trying to solve this problem? (Persona)
+Success criteria. How will we know that we have succeeded?

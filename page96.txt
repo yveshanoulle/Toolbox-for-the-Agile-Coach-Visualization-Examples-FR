@@ -1,9 +1,0 @@
-Opportunities by Persona
-
-Instead of having a backlog of User Stories, I’ve seen teams having backlogs of opportunities categorized by persona. The opportunity backlogs feed into the roadmap and into the team’s User Story Backlog.
-
-An opportunity is described by:
-What problem are we trying to solve? Which need are we exploiting? (Why should we do this?)
-For whom are we trying to solve this problem? (Persona)
-Success criteria. How will we know that we have succeeded?
-
