@@ -1,12 +1,0 @@
-This is a book filled with visualization examples for agile teams and agile people who are working with software development in an agile context.
-
-The examples are not best practice, only examples. Be inspired. Experiment. Have fun!
-
-Twitter, Facebook, LinkedIn and online comments:
-“Great tips for every Scrum Master and Agile Coach” – Marcel van Hove
-“If you ask me, the best book of 2015” - Yves Hanoulle
-“Wonderful visualization WIP book” – Bert Vermijlen
-“Excellent, never thought of this. Thanks!” – Rolf F. Katzenberger
-“It is awesome and filled with really quick practical ideas how to visualise things – I love it :)” - Samantha Laing
-“It improved my sex life” - Karel Boekhout
-
