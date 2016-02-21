@@ -36,7 +36,7 @@ Flipchart --> Paper-board
 Hat ==> Pet (Hat.. c'est un chapeau?)
 High score ==> High-score (Meilleur score?) - Mieux vaudrais écrire français (PhA)
 How great teams visualize their work ==> xxx : Comment les super-équipes visualisent leur travail (?)
-Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)
+Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)  => Mur Scrum sablier me parait une bonne idée -( J.GdB)
 
 Icon ==> Icône (Symbole?)
 Improvement Lane ==> xxx Ligne des améliorations ?
