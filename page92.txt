@@ -1,5 +1,0 @@
-User Story Flavor Legend
-
-Some teams find it useful to distinguish between different types of user stories. Not all prioritized work fit the typical customer value focused User Story template. 
-
-Instead of forcing yourselves to write a weird card using User Story format for a patch release or a time boxed investigation or experiment, allow simpler templates when working with non-user centric stories. Make the different flavors of User Stories clear by the use of colors and add the colors to your wall legend.
