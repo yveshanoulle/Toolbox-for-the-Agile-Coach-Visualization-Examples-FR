@@ -1,6 +1,6 @@
 Boite de réception
 
-Est-ce que de nouvelles tâches sont ajoutées par des membres créatifs de l'équipe ? Subissez-vous l'ajout de tâches en milieu de sprint par des personnes / responsables extérieurs à l'équipe, demande de l'aide à un membre particulier ? Est-ce que cela sabote la concentration sur l'objectif de sprint ? Ajoutez une règle de Boite de réception !
+Est-ce que de nouvelles tâches sont ajoutées par des membres créatifs de l'équipe ? Subissez-vous l'ajout de tâches en milieu de sprint par des personnes / responsables extérieurs à l'équipe, demandant de l'aide à un membre particulier ? Est-ce que cela sabote la concentration sur l'objectif de sprint ? Ajoutez une règle de Boite de réception !
 
 Règle : les nouvelles tâches ne sont pas ajoutées à planifier ou en cours, mais doivent passer par la boite de réception. Durant le standup suivant, l'équipe complète décide s'il faut ou ne faut pas réaliser la tâche, c'est-à-dire si elle possède assez de valeur et est alignée avec l'objectif de sprint. Si l'équipe décide qu'il ne faut pas faire maintenant, la demande va soit dans le backlog, soit à la poubelle.
 
