@@ -1,8 +1,0 @@
-
-________________________________
-
-Release Train Departures
-
-If your team have to plan your work according to release train departures, why not visualize the different release trains and each release train’s upcoming departures. Each “row” shows the events for each train; such as latest commit date, code freeze date, test phase or dates when the app is submitted to apple the Apple App Store or to Google Play.
-
-Today could be visualized by a movable string. Magic flipcharts (self-adhesive plastic posters) are useful since it is easy to add new ones (and remove old ones) as time goes by.
