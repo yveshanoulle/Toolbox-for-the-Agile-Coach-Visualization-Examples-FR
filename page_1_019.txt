@@ -2,7 +2,7 @@ Marqueurs de blocage
 
 Si pour une raison quelconque une tâche est bloquée tandis que vous y travaillez, et vous empêche d'avancer - ajouter un marqueur de blocage rouge sur le dessus de la tâche. Ceci en rend la cause connue de tous, et permet aussi de rappeler le statut.
 
-Vérifiez les marqueurs pendant le Daily Stand-up et discutez de la manière de les traiter et résoudre.
+Vérifiez les blocages pendant le Daily Stand-up et discutez de la manière de traiter et résoudre chacun d'eux.
 
 La description établit clairement pourquoi vous êtes bloqués, qui vous attendez (et pourquoi), et ce qu'est le problème. Pour le rendre encore plus limpide, écrivez votre nom et la date de début de blocage sur le coin du Post-it.
 
