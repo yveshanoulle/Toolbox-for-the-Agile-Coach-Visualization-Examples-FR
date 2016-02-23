@@ -48,10 +48,11 @@ Interruption buckets = xxx
 
 Kudos => Kudos (Toujours avec le "s" final. en train de passer dans le langage courant, au moins des geeks...)
 
-Lane ==> Ligne
+Lane ==> Ligne  ... J'ai pu voir "couloir" que j'ai laissé en relecture... 
 Lane priority ==>  ligne des urgences/priorités (?) (NL=Baanprioriteit)
 LEGO ==> des LEGO
 
+Pain ==> douleur (plutôt que souffrance, qu'en pensez-vous ?)
 Pair programming ==> Pair programming
 Pair Programming Matrix => Pair Programming Matrix (Matrice de "Pair Programming" ("" en italique)
 Pairing ==> Binomage ?
@@ -72,7 +73,7 @@ Stress level meter ==> Mesure du niveau de stress? (Mètre à niveau de stress)
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Boite à outils du coach agile (?)
 
-Urgent lane ==> Ligne urgente (ligne des urgences? Oui-PhA)
+Urgent lane ==> Ligne urgente (ligne des urgences? Oui-PhA)  J'ai pu voir couloir des urgences que j'ai laissé en relecture...
 User Story lane ==> Ligne de User Story
 
 Visualization ==> Visualisation
