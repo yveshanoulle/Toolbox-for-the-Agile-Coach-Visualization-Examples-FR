@@ -1,10 +1,10 @@
 Dates d'échéance et cases à cocher
 
-Parfois, il y a une date d'échéance stricte sur la correction de certaines choses, comme un bug pour un patch critique. Pour la visualiser, écrivez la date limite à laquelle la tâche doit être terminée, et dessinez une case à coacher pour chaque jour restant jusqu'à cette date. 
+Parfois, il y a une date d'échéance stricte sur la correction de certaines choses, comme un bug pour un patch critique. Pour la visualiser, écrivez la date limite à laquelle la tâche doit être terminée, et dessinez une case à cocher pour chaque jour restant jusqu'à cette date. 
 
 Lors du daily meeting, cocher l'une des cases. De cette façon, vous pouvez facilement voir quand vous approchez de la fin et combien de jours restent.
 
-Parfois, le bug doit être traité tout de suite vous forçant à arrêter ce que vous êtes en train de faire. Mais parfois, il y a une certaine marge de manœuvre, ce qui vous permet de finaliser les choses avant d'adresser la tâche semi-urgente. C'est à ce moment là que les dates d'échéances et les cases à cocher s'avèrent pratiques.
+Parfois, le bug doit être traité tout de suite vous forçant à arrêter ce que vous êtes en train de faire. Mais parfois, il y a une certaine marge de manœuvre, ce qui vous permet de finaliser les choses avant d'adresser la tâche semi-urgente. C'est à ce moment-là que les dates d'échéances et les cases à cocher s'avèrent pratiques.
 ------------------------------- ORIGINAL TEXT BELOW ----------------------------------------------------------
 Due dates and boxes
 
