@@ -4,9 +4,11 @@ Au lieu de résumer les résultats d'un atelier sur un poster, ou d'avoir une zo
 
 Exemples de cubes :
 Les Réunions. Chaque face décrit l'objectif et le résultat des différentes réunions (Daily Stand-up, Planification, Rétrospective, etc), ainsi que la routine de réunion par défaut.
-Les Accords de travail (Définition de Terminé, Définition de Prêt, Comportement de conduite, Façon de travailler. etc).
-Les Attentes des rôles (Scrum Master, Product Owner, Membre d'équipe, Manager de développement, etc).
+Les Accords de travail (Définition de Fini, Définition de Prêt, rêgle de comportement (??Comportement de conduite??), Façon de travailler. etc).
+Les Attentes des rôles (Scrum Master, Product Owner, Membre d'équipe, Manager du développement, etc).
 
+Cf. http://conceptcubes.com/ pour le format et quelques exemples
+------------------------------------------------------------
 Concept Cubes
 
 Instead of summarizing the results of a workshop on a poster, or having a working agreements’ area on your whiteboard – create a physical cube! One side could show the name of the cube and the others contain text and images. A cube invites to curiosity! I’ve seen people being far more eager to pick up a cube then to stop by and read a poster.
