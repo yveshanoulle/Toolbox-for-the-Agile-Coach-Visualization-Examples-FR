@@ -1,10 +1,10 @@
 Tableau Kaizen
 
-Pour garantir que les actions validées durant la rétrospective sont bien suivies, écrivez les sur des Post-its et mettez les sur le mur.
+Pour garantir que les actions validées durant les rétrospectives sont bien traitées, écrivez-les sur des Post-its et mettez-les sur le mur.
 
-Si les Post-its s'ajustent peu sur votre tableau standard, créez un petit tableau à part Kanban des Actions de Rétrospective (parfois appelé Tableau Kaizen) où vous pouvez suivre l'avancement des améliorations.
+Si ces Post-its ne rentrent pas dans votre tableau standard, créez à part un petit tableau Kanban des Actions de Rétrospective (aussi Tableau Kaizen) où vous pourrez suivre l'avancement des améliorations.
 
-Si vous utilisez des Avatars, utilisez de la même manière pour les murs standards?
+Si vous utilisez des Avatars, utilisez-les de la même manière que pour le mur classique.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
