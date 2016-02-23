@@ -23,6 +23,8 @@ Check-in ==> Check-in
 Colocated ==> Colocalisé
 
 Daily Stand-up ==> Daily Stand-up
+Definition of Done ==> Définition du Fini
+Definition of Ready ==> définition du Prêt
 Digital => numérique
 Dis-located team -> équipes distribuées
 Dotting ==> Dotting (Mettre des points me parait bof). vote par points?
