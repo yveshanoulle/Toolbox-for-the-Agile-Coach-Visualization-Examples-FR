@@ -1,8 +1,8 @@
 Pointillage
 
-Chaque jour, ajoutez un point sur chaque tâche en cours. Mettez un point que quelqu'un travaille vraiment ou non. Quand l'ensemble est fluide (si les tâches sont assez petites) aucune tâche ne devrait présenter plus de quelques points. Si les points s'empilent, vous savez que quelque chose cloche et qu'il faut en parler.
+Chaque jour, ajoutez un point sur chaque tâche en cours. Mettez un point que quelqu'un travaille activement ou non. Quand l'ensemble est fluide (si les tâches sont assez petites) aucune tâche ne devrait présenter plus de quelques points. Si les points s'empilent, vous savez que quelque chose cloche et qu'il faut en parler.
 
-Mettre des points est une manière simple et puissante de montrer les problèmes et les goulots d'étranglement. Le même principe peut être appliqué pour les autres colonnes, comme "En attente de revue de code", mais à la place des points dessinez une ligne ou utilisez une couleur de point différente. 
+Mettre des points est une manière simple et puissante de montrer les problèmes et les goulots d'étranglement. Le même principe peut être appliqué pour les autres colonnes, comme "En attente de revue de code", mais à la place des points dessinez un bâton ou utilisez une couleur de point différente. 
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
