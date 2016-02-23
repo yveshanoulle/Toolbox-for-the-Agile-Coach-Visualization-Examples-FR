@@ -1,6 +1,6 @@
 Icône Question
 
-Parfois vous avez une question à propos de quelque chose, mais le bon membre d'équipe n'est pas aux alentours, et il est possible d'avoir à attendre jusqu'au prochain Daily Stand-up d'équipe. Si c'est le cas, vous marquez la tâche sur laquelle vous avez une question avec une icône Question.
+Parfois vous avez une question à propos de quelque chose, mais le bon membre d'équipe n'est pas aux alentours, et il est possible d'attendre jusqu'au prochain Daily Stand-up d'équipe. Si c'est le cas, vous marquez la tâche sur laquelle vous avez une question avec une icône Question.
 
 Pendant le Daily Stand-up, l'équipe s'assure de scanner le mur pour les icônes Question, de les adresser et de les enlever une par une.
 
