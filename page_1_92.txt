@@ -2,7 +2,8 @@ Une légende selon le type de User Story
 
 Certaines équipes trouvent pratique de distinguer les différents types de user stories. Tous les sujets priorisés ne rentrent pas dans le format typique orienté client d'une User Story.
 
-Plutôt que de vous forcer à écrire une carte étrange au format User Story pour un correctif de release, une investigation ou expérience timeboxée, autorisez des formats plus simples pour les user stories non centrées utilisateurs. Rendez les différentes variétés de User Stories claires en utilisant des couleurs et ajouter ces couleurs sur la légende de votre mur.
+Plutôt que de vous forcer à écrire une carte un peu bizarre au strict format User Story, vous pouvez vous permettre d'utiliser des formats plus simples pour les réalisations non centrées utilisateurs. 
+Exemple: une correction de bug sur une release, une investigation ou une recherche libre timeboxée (spike). Rendez les différentes variétés de User Stories claires en utilisant des couleurs et ajouter ces couleurs sur la légende de votre mur.
 ________________________________________
 
 User Story Flavor Legend
