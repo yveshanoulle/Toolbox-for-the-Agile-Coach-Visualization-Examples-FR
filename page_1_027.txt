@@ -1,0 +1,15 @@
+Icône Bombe
+
+Une équipe avec laquelle j'ai travaillé a décidé de se débarasser de la ligne Urgent. Elle était mal uilisée, toujours fourrée avec d'"importantes" tâches et sabotait la capacité de l'équipe à se concentrer et à planifier.
+
+Puisque toutes les tâches étaient à présent liées à une story, il n'y avait aucune raison pour une tâche urgente d'entrer sur le mur tant qu'une ligne sur le tableau Kanban ne soit vide. Cela a inquiété le Product Owner. Alors, on a donné au Product Owner une (une !) icône Bombe. Il pouvait la mettre sur n'importe quelle tâche qu'il voulait. Toute personne qui pouvait aider, mettant en pause ce qu'elle était en train de faire, travaillait sur cette tâche jusqu'à ce qu'elle soit terminée.
+
+(L'icône Bombe était utilisée de moins en moins fréquemment puisque la douleur et le coût de l'ajouter sur le mur est rapidement devenu apparent.)
+
+Bomb icon
+
+One team I worked with decided to get rid of the Urgent Lane. It was misused, always cramped with “important” tasks and sabotaged the team’s ability to focus and plan.
+
+Since all tasks were now related to a story there was no way for an urgent task to enter the wall until a lane on the Kanban board was empty. This worried the Product Owner. So, the Product Owner was given one (one!) Bomb icon. He could put that on any task he wanted. Anyone who could help out paused whatever they were doing and worked on that task instead until it was done.
+
+(The Bomb icon was used less and less frequently since the pain and cost of adding it to the wall quickly became apparent.)
