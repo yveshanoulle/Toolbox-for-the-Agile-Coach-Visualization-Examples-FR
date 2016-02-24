@@ -1,10 +1,10 @@
-Couloir urgence + politique
+Ligne des urgences + règles
 
-Tout ne peut pas être planifié et prévu lors de la planification de sprint. Pour faire face aux tâches urgentes non planifiées de manière structurée et transparente, ajoutez un couloir URGENCE.
+Tout ne peut pas être planifié et prévu lors de la planification de sprint. Pour faire face aux tâches urgentes non planifiées de manière structurée et transparente, ajoutez une ligne URGENCE.
 
-Puisque les tâches urgentes ne sont jamais planifiées, la colonne "Planifié" (tâches à faire) n'est pas nécessaire. Utilisez plutôt cette zone pour indiquer clairement la politique qui décrit ce qu'est une tâche urgente. Quels critères doivent être remplis par une tâche pour être autorisée à aller directement dans le couloir urgence ? Si les critères ne sont pas remplis, la tâche doit être examinée au cours de la prochaine planification de sprint ou de la prochaine séance de toilettage du Backlog.
+Puisque les tâches urgentes ne sont jamais planifiées, la colonne "Planifié" (tâches à faire) n'est pas nécessaire. Utilisez plutôt cette zone pour indiquer clairement les règles qui décrivent ce qu'est une tâche urgente. Quels critères doivent être remplis par une tâche pour être autorisée à aller directement dans la ligne des urgences ? Si les critères ne sont pas remplis, la tâche doit être examinée au cours de la prochaine planification de sprint ou de la prochaine séance de toilettage du Backlog.
 
-Le couloir urgence devrait normalement être vide ! Rappelez-vous que chaque fois que vous introduisez quelque chose dans ce couloir vous créez du gaspillage en termes de changement de tâche et de parallélisation. Un grand pouvoir implique de grandes responsabilités. N'abusez pas du couloir urgence.
+La ligne des urgences devrait normalement être vide ! Rappelez-vous que chaque fois que vous introduisez quelque chose dans cette ligne vous créez du gaspillage en termes de changement de tâche et de parallélisation. Un grand pouvoir implique de grandes responsabilités. N'abusez pas de la ligne des urgences.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Urgent lane + policy 
