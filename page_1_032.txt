@@ -1,4 +1,4 @@
-Nouelles pratiques d'équipe
+Nouvelles pratiques d'équipe
 
 Pendant une rétrospective, il est courant que vous décidiez d'essayer de nouvelles pratiques, de faire des choses différemment à partir de maintenant. Si vous avez un accord de travail, il devrait probablement être mis à jour. Si vous n'en avez pas (ou que vous sentez que la nouvelle règle ne s'y intégre pas) créez une zone Pratiques d'Equipe sur votre mur.
 
