@@ -52,7 +52,7 @@ Lane ==> Ligne  ... J'ai pu voir "couloir" que j'ai laissé en relecture...
 Lane priority ==>  ligne des urgences/priorités (?) (NL=Baanprioriteit)
 LEGO ==> des LEGO
 
-Pain ==> douleur (plutôt que souffrance, qu'en pensez-vous ?)
+Pain ==> désagrément
 Pair programming ==> Pair programming
 Pair Programming Matrix => Pair Programming Matrix (Matrice de "Pair Programming" ("" en italique)
 Pairing ==> Binomage ?
