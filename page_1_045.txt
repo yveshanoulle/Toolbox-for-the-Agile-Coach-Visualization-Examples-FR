@@ -1,0 +1,20 @@
+ Tâche < 1 jour
+ 
+Quand vous découpez en tâches (c'est-à-dire, découpez le travail qui doit être fait pour terminer une User Story), n'arrêtez pas de découper avant que chaque tâche puisse être finie en moins d'un jour.
+ 
+Cette règle rend plus facile la visualisation des progrès et des goulets d'étranglement. Elle déclenche aussi des discussions plus collaboratives durant les sessions de planification.
+ 
+De plus, si vous utilisez la pratique classique de marquage des tâches d'un point pour chaque jour passé dessus, vous saurez ainsi qu'il y a quelque chose d'anormal si une des tâches commence à collectionner des points alors qu'aucune tâche ne doit en recevoir plus d'un.
+ 
+ Si vous utilisez un Sprint Burndown, vous pouvez compter les tâches au lieu des heures. Bien plus rapide !
+
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ Task size < 1 day
+
+When tasking (i.e. breaking down the work that needs to be performed to complete a User Story) don’t stop splitting the tasks until each task can be completed within a day.
+
+This policy makes it easier to see progress and bottlenecks. It also triggers deeper collaborative discussions during the planning sessions.
+
+Furthermore, if you use Dotting, you know there is something fishy going on if a task starts collecting dots since no single task should have more than one dot.
+
+If you use a Sprint Burndown, you can instead of summarizing hours summarize the number of tasks. Much faster!
