@@ -2,9 +2,9 @@ Les nouvelles du jour
 
 Souvent, les équipes commencent ou terminent leur Daily stand-up par un échange d'informations générales.
 
-Pour réduire le risque d'oublier d'échanger quelques chose d'important avec l'équipe, ajoutez votre sujet aux "Nouvelles du jour" dès que vous y pensez.
+Pour réduire le risque d'oublier de partager quelques chose d'important avec l'équipe, ajoutez votre titre aux "Nouvelles du jour" dès que vous y pensez.
 
-Quand ces nouvelles ou informations sont échangés, effacez la zone pour qu'elle soit de nouveau disponible pour le prochain Daily stand-up.
+Quand ces nouvelles ou informations sont échangées, effacez la zone pour qu'elle soit de nouveau disponible pour le prochain Daily stand-up.
 
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Today’s Headlines
