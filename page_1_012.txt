@@ -1,6 +1,6 @@
 Légende
 
-Une bonne visualisation qu'une équipe aime et continue à utiliser dans le temps tend à devenir de plus en plus complexe vu que l'équipe y ajoute de plus en plus d'informations.
+Une bonne visualisation qu'une équipe aime et continue à utiliser dans le temps tend à devenir de plus en plus complexe au fur et à mesure que l'équipe y ajoute de plus en plus d'informations.
 
 Pour la rendre facile à comprendre pour les nouveaux membres d'équipe, et les collègues curieux - fournissez une légende qui explique les couleurs, les icônes et les symboles.
 
