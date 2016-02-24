@@ -1,4 +1,4 @@
-Smileys de Confiance (cont)
+Smileys de Confiance (suite)
 
 Lorsqu'un smiley change (du vert à l'orange, ou de l'orange au rouge) l'équipe saisit l'opportunité pour discuter sur ce qu'ils ont besoin de faire, comment ils peuvent aider et s'ils ont besoin d'alerter les Product Owners et les Parties prenantes sur les changements dans la prévision.
 
