@@ -1,10 +1,10 @@
-La tache décrit le résultat
+La tâche décrit le résultat
 
-Le texte sur le Post-It compte. Passer quelques secondes de plus pour décrire le travail correspondant au Post-It peut faire une différenfe importante.
+Le texte sur les Post-Its compte. Passer quelques secondes de plus pour décrire le travail correspondant au Post-It peut faire une grosse différence.
 
-Ne marquez pas simplement un mot clé ou  une vague description du travail - décrivez l'état dans lequel doit se trouver le système la tache réalisée. Une autre manière de le dire: Ne décrivez pas le travail, décrivez le résultat.
+Ne marquez pas simplement un mot clé ou  une vague description du travail - décrivez l'état dans lequel doit se trouver le système une fois la tâche réalisée. Une autre manière de le dire : ne décrivez pas le travail, décrivez le résultat.
 
-Quand vous appliquez cette règle, le but de la tache et ce qui est effectivement demandé deviennent beaucoup plus clair pour l'équipe.
+Quand vous appliquez cette règle, le but de la tâche et ce qui est attendu deviennent beaucoup plus clairs pour l'équipe.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Task describes result
