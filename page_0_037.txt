@@ -1,10 +1,10 @@
-Zone d'attente avec états
+Parking lot avec états
 
-Quand vous interrompez une story complète et déplacez les tickets associés dans une zone d'attente, ça pourrait être une bonne idée de conserver les états des tâches.
+Quand vous interrompez une story complète et déplacez les tickets associés dans une zone d'attente, ce pourrait être une bonne idée de conserver les états des tâches.
 
-Cela prend plus de place, mais ça pourrait être utilisé comme limite du travail en cours, c'est à dire que pas plus d'une story peut être interrompue à la fois. 
+Cela prend plus de place, mais ça pourrait être utilisé comme limite du travail en cours, c'est-à-dire que pas plus d'une story ne peut être interrompue à la fois. 
 
-N'oublier pas d'écrire la date à laquelle la story a été interrrompue.
+N'oubliez pas d'écrire la date à laquelle la story a été interrrompue.
 
 Cette approche peut être utile lorsque quelque chose d'urgent arrive au milieu du sprint passant temporairement au-dessus des priorités.
 
