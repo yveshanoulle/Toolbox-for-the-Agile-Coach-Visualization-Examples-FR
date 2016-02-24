@@ -4,7 +4,7 @@ Ceci est plus un truc pour l'accord sur le processus / travail qu'une astuce de 
 
 Pour travailler plus efficacement en tant qu'équipe et pour mieux collaborer sur la finalisation des stories plutôt que d'en commencer de nouvelles - mettez-vous d'accord pour travailler ensemble sur les stories par ordre de priorité. Mettez la story avec la plus forte priorité en haut de la pile, puis ordonnez les suivantes par ordre de priorité.
 
-Quand une story est finie, déplacez là vers l'emplacement "Done / Prêt pour Démo". Ceci laissera une ligne vide. Certaines équipes montent tous les autres Post-its d'une ligne pour remplir le vide.
+Quand une story est finie, déplacez-la vers l'emplacement "Done / Prêt pour Démo". Ceci laissera une ligne vide. Certaines équipes montent tous les autres Post-its d'une ligne pour remplir le vide.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
