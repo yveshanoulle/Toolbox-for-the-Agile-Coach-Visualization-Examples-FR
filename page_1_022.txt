@@ -2,7 +2,7 @@ Calendrier d'absence
 
 Ce calendrier montre quand les personnes savent qu'elles vont être absentes du bureau pour faire autre chose, évitant les moments du type "Est-ce que quelqu'un sait où est Julie aujourd'hui ?".
 
-Chaque membre d'équipe écrit son nom sur la/les date(s) où il/elle sait en avance qu'il sera en vacances, en formation ou en train de faire quelque chose d'autre. Le calendrier pourrait aussi inclure les jours fériés ou d'autres événements importants.
+Chaque membre d'équipe écrit son nom sur la/les date(s) où il sait en avance qu'il sera en vacances, en formation ou en train de faire quelque chose d'autre. Le calendrier pourrait aussi inclure les jours fériés ou d'autres événements importants.
 
 La flèche jaune pointe sur le jour actuel et est déplacée avant le Daily Stand-up.
 
