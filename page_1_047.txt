@@ -1,8 +1,8 @@
 Tableaux portables
 
-Les réunions de planning ou les rétrospectives se tiennent souvent dans des salles de réunion où le tableau physique de l'équipe n'est pas visible. Vous aimeriez bien souvent pouvoir apporter un pan du mur agile avec vous en réunion.
+Les réunions de planification ou les rétrospectives se tiennent souvent dans des salles de réunion où le tableau physique de l'équipe n'est pas visible. Vous aimeriez bien souvent apporter un pan du mur agile avec vous dans ces réunions.
 
-Une solution possible est de créer des tableaux portables, c'est à dire des tableaux que l'on peut décrocher du mur et emporter avec soit. Par exemple, il existe de petits tableaux blancs qu'on accroche aux mur comme une peinture. Vous pouvez aussi créer un mini-tableau pliable à partir de panneaux de plastique attachés ensemble.
+Une solution possible est de créer des tableaux portables, c'est-à-dire des tableaux que l'on peut décrocher du mur et emporter avec soi. Par exemple, il existe de petits tableaux blancs qu'on accroche aux mur comme une peinture. Vous pouvez aussi créer un mini-tableau pliable à partir de panneaux de plastique attachés ensemble.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Portable boards
