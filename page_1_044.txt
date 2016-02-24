@@ -1,11 +1,11 @@
 En retard, c'est un gâteau
 
-Tracer un cercle. Tracez 8 parts. Ceci représente le gateau. Quand quelqu'un arrive en retard pour le Daily stand-up, noter son nom sur une des parts.
+Tracez un cercle. Tracez 8 parts. Ceci représente le gâteau. Quand quelqu'un arrive en retard pour le Daily stand-up, notez son nom sur une des parts.
 
-Quand le gateau est "plein", compter les points. Le gagnant cuisine un gateau pour que l'équipe s'en régale le jour suivant.
+Quand le gâteau est "plein", compter les points. Le gagnant cuisine un gâteau pour que l'équipe s'en régale le jour suivant.
 - 
-Une autre possibilité: ecrivez la liste des membres de l'équipe. Quand quelqu'un arrive en retard, il reçoit une coche. Trois coches ou plus, c'est un gateau à faire.
-Si vous n'aimez pas les gateaux, ou si cette règle veut dire "gras", essayez une autre règle.
+Une autre possibilité : ecrivez la liste des membres de l'équipe. Quand quelqu'un arrive en retard, il ou elle reçoit une coche. Trois coches ou plus, c'est un gâteau à faire.
+Si vous n'aimez pas les gâteaux, ou si cette règle fait grossir l'équipe, essayez une autre règle.
  
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
  Late = Cake
