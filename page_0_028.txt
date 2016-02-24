@@ -2,7 +2,7 @@ Place de Parking
 
 Si l'équipe a temporairement arrêté de travailler sur une story (ou mis en pause une tâche donnée) du fait du changement de priorité - clarifier la situation en déplaçant les Post-itsd ans une zone Parking.
 
-Enlever une story/tâche du tableau principal réduit aussi les chances qu'une personne travaille par accident sur une tâche en pasue (c'est-à-dire augmente le multitasking inutile).
+Enlever une story/tâche du tableau principal réduit aussi les chances qu'une personne travaille par accident sur une tâche en pause (c'est-à-dire augmente le multitasking inutile).
 
 Quand une story ou tâche se "gare", écrivez un Ticket de Parking avec la date d'installation dans le parking et qui travaillait dessus.
 
