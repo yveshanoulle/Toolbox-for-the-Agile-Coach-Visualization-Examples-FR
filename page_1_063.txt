@@ -1,0 +1,17 @@
+
+Thème d'Amélioration
+
+Le thème d'Amélioration est un outil en forme de poster qui fonctionne comme un tapis roulant pour l'amélioration continue après que la rétrospective ait eu lieu.
+Décrivez la situation actuelle dans la section rouge. Ensuite définissez comment la situation serait si elle était géniale dans la section verte. Ensuite, posez-vous la question, six semaines à partir de maintenant, quels objectifs concrets and réels pouvons-nous nous fixer afin de nous rapprocher le plus possible de notre "Definition de Génial" ?. Ensuite identifiez les trois plus petites étapes qui vous permettront d'être le plus proche possible de ces objectifs.
+
+Faites un suivi des étapes lors des Daily Stand-up and ajoutez-en des nouvelles au fur et à mesure que les tâches sont réalisées. Passer les 6 semaines, évaluez le poster et créez un nouvel "état cible suivante". 
+
+
+
+------------------------------- ORIGINAL TEXT BELOW ----------------------------------------------------------
+
+Improvement Theme
+
+Improvement Theme is a tool in the form of a poster that works as a conveyor belt for continuous improvements once the Retrospective is over. Describe the current situation in the red section. Then define how the situation would look like if it was awesome in the green section. Then ask yourselves, six weeks from now; what realistic and concrete goals can we set that will bring us closer to our “Definition of Awesome?” Then identify the first three smallest steps you can take to get closer to these goals. 
+
+Follow up on the steps during the Daily Stand-up and add new ones as tasks are completed. When the six weeks have passed, evaluate the poster and create a new “Next Target Condition”.
