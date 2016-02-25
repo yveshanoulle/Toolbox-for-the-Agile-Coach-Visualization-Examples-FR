@@ -1,10 +1,10 @@
 Echelle de Story Point
 
-Pour vous améliorer à estimer en Story Point relatif en tant qu'équipe, créez une Echelle de Story Point.
+Pour vous améliorer en estimation relative en Story Points en équipe, créez une Echelle de Story Point.
 
-A la fin de chaque sprint (par exemple la rétrospective) demandez-vous, pour chaque story terminée : Avec le recul, sachant ce que l'on sait maintenant, quelle est la valeur en point de cette Story ? Posez la sur l'échelle.
+A la fin de chaque sprint (par exemple à la rétrospective) demandez-vous, pour chaque story terminée : Avec le recul, sachant ce que l'on sait maintenant, quelle est la valeur en point de cette Story ? Posez la sur l'échelle.
 
-Quand vient le temps d'en estimer de nouvelles (par exemple avec un planning poker), comparez simplement la story avec celles déjà présentes sur l'échelle. Avec le temps, nettoyez l'échelle pour éviter la surpopulation. Gardez les exemples typiques et supprimer les redondances.
+Quand vient le temps d'en estimer de nouvelles (par exemple avec un planning poker), comparez simplement la story avec celles déjà estimées sur l'échelle. Avec le temps, nettoyez l'échelle pour éviter la surpopulation. Gardez les exemples typiques et supprimez les redondances.
 
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
  
