@@ -84,3 +84,5 @@ Waste ==> Gaspillage
 Whiteboard ==> Tableau blanc
 WIP-limit ==> Limite du travail en cours, limite du WIP (Work in Progress) (attention aux modifications: TAF déjà utilisé-PhA)
 Working agreement ==> Accord de travail
+
+You ==> 
