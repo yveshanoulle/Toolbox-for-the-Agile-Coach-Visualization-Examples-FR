@@ -1,8 +1,8 @@
- Boîtes d'Estimation de Tâche
+ Cases d'Estimation de Tâche
  
- Une manière simple d'apprendre si les choses prennent plus de temps que prévu est d'estimer les tâches avec des boîtes. Deux boîtes peuvent par exemple signifier une journée complète de travail.
+ Une manière simple d'apprendre si les choses prennent plus de temps que prévu est d'estimer les tâches avec des cases. Deux cases peuvent par exemple signifier une journée complète de travail.
  
- Pendant le Daily Stand-up vous cochez les boîtes lorsque vous travaillez dessus. Continuez à les rayer même lorsqu'il n'y en a plus. Cette technique augmentera la visibilité quand les choses se passent mal ou sont plus difficile que prévues, ce qui devrait démarrer une discussion sur la manière d'aider.
+ Pendant le Daily Stand-up vous cochez les cases lorsque vous travaillez dessus. Continuez à cocher même lorsqu'il n'y a plus de cases. Cette technique rend facile à voir quand quelque chose s'avère plus difficile que prévu, ce qui devrait déclencher une discussion sur la manière d'aider.
  
  L'estimation pourrait avoir lieu pendant le sprint planning ou quand la tâche passe de "Prévu" à "En cours".
  
