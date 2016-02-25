@@ -1,8 +1,8 @@
 Newsletter
 
-Dans une équipe, il se passe toutes sortes de choses passionnantes. Une façon de créer de la transparence au sein de l'organisation (en dehors des démos, réunions, communauté de pratiques , etc.) est d'envoyer des newsletter de la part de l'équipe .
+Dans une équipe, il se passe toutes sortes de choses passionnantes. Une façon de créer de la transparence au sein de l'organisation (en dehors des démos, réunions, communauté de pratiques , etc.) est d'envoyer des newsletter de la part de l'équipe.
 
-Lorsque des choses intéressantes se produisent, ajoutez une nouvelle entrée au contenu de la Newsletter. Écrivez un paragraphe à ce sujet dans le document partagé. Lorsque vous avez six nouveaux éléments à partager, convertissez le document en un e-mail et envoyer le à vos collègues. Rédiger la newsletter pourrait être une responsabilité tournante. L'avatar de la personne censée écrire la prochaine newsletter est indiquée.
+Lorsque des choses intéressantes se produisent, ajoutez une nouvelle entrée au contenu de la Newsletter. Écrivez un paragraphe à ce sujet dans le document partagé. Lorsque vous avez six nouveaux éléments à partager, convertissez le document en un e-mail et envoyez-le à vos collègues. Rédiger la newsletter pourrait être une responsabilité tournante. La personne censée écrire la prochaine newsletter a son avatar à côté de la liste.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Newsletter
