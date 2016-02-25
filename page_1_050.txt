@@ -2,7 +2,7 @@ Barre de Progression de tâche
 
 Parfois une tâche est bloquée sur le tableau soit parce qu'elle représente un volume de travail important, ou que l'effort pour la réaliser est plus important que prévu. Quand cela arrive dessinez une barre de progression (sur le Post-it de la tâche) à mettre à jour pendant le Daily Stand-up.
 
-Si vous utilisez le pointillage (voir "Pointillage") comme une pratique, vous pourriez rajouter cette règle : dès que la tâche a plus de deux points, ajoutez une barre de progression et discutez des éléments manquants pour la finir
+Si vous utilisez le pointillage (voir "Pointillage") comme une pratique, vous pourriez rajouter cette règle : dès que la tâche a plus de deux points, ajoutez une barre de progression et discutez des éléments manquants pour la finir.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
  
