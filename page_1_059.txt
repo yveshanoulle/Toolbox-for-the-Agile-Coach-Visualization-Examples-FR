@@ -1,0 +1,17 @@
+ Matrice de Pair Programming
+ 
+Vous essayez de faire plus de Pair Programming au sein de votre équipe ? Aimeriez-vous visualiser le temps que vous y passer au cours d'une semaine ? Essayez de mettre en place une matrice de Pair Programming.
+ 
+Chaque fois que vous faites une séance de Pair Programming, faites une coche dans la case correspondante. Vous devez vous accordez en équipe sur le temps de binômage nécessaire correspondant à une coche.
+
+Fixez une date pour faire une revue et discutez des résultats. Si vous souhaitez continuer le suivi de votre Pair Programming, réinitialisez la matrice et convenez d'une nouvelle date de revue.
+ 
+ ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ 
+ Pair Programming Matrix
+
+Are you trying to do more pair programming in your team? Would you like to visualize how much you pair during a week? Try putting up a Pair Programming Matrix. 
+
+Whenever you’ve done a pairing session, make a tick in the corresponding box. You need to agree as a team how much pairing is required for a tick.
+
+Set a date when you review and talk about the results. If you want to continue tracking your pairing, reset the matrix and agree upon a new review date.
