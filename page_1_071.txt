@@ -2,7 +2,7 @@ Limité par l'espace
 
 Si votre équipe est en Kanban ou un dérivé de Scrumban et a du mal à respecter les limites de travail en cours (WIP) que vous vous êtes posées, cette approche peut vous aider.
 
-Plutôt qu'écrire les limites de travail en cours, ajuster les espaces. Réduisez tellement les cases et les zones contenant les Post-its que vous ne pouvez techniquement pas ajouter plus de Post-its que l'espace alloué sans dépasser la limite de travail en cours (WIP).
+Plutôt qu'écrire les limites de travail en cours, ajuster les espaces. Réduisez tellement les cases et les zones contenant les Post-its que vous ne pouvez physiquement pas ajouter plus de Post-its que l'espace alloué sans dépasser la limite de travail en cours (WIP).
 
 Cette approche rend aussi franchement visible les dépassements de la limite de travail en cours, cherchez simplement les Post-its qui auront été empilés les uns au dessus des autres.
 
