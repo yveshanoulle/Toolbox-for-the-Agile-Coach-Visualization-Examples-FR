@@ -1,0 +1,21 @@
+
+Check-list "terminé" pré-imprimées
+
+Une manière simple de permettre de se rappeler de la Définition de "terminé" (Definition of Done) est d'imprimer des check-list "terminé". Mettez-les dans un boîte ou accrochez-les à un clou.
+
+Quand vous commencez à travailler sur une nouvelle User Story, prenez une des check-list "terminé" pré-imprimées. Cochez les cases a fur et à mesure que votre travail progresse.
+
+Conseil : N'imprimez pas trop d'exemplaires. La Définition de "terminé" a une tendance à changer beaucoup avec le temps.
+
+
+
+------------------------------ ORIGINAL TEXT BELOW -----------------------------------------
+
+Pre-printed DONE checklists
+
+A simple way of making it easy to remember the agreed upon Definition of DONE is to print cheat checklists. Put them in a box or hang them on a nail.
+
+When you start working on a new User Story, grab one of the pre-printed Definition of DONE checklist. As your work progress, you tick the boxes.
+
+Tip: Don’t print too big batches. The Definition of DONE has a tendency to change a lot over time.
+
