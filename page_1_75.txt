@@ -1,10 +1,10 @@
-Heures de présence de l'équipe
+Horaires d'équipe
 
-Avez vous parfois ce sentiment que, bien que l'équipe soit située dans la même pièce, vous avez du mal à obtenir une communication et une collaboration fluide ? Cela peut s'expliquer par le fait que, bien que vous partagiez la même pièce, vous ne soyez en réalité pas tous présents en même temps au cours de la journée.
+Avez-vous parfois ce sentiment que, bien que l'équipe soit située dans la même pièce, vous avez du mal à obtenir une communication et une collaboration fluide ? Cela peut s'expliquer par le fait que, bien que vous partagiez la même pièce, vous ne soyez en réalité pas tous présents en même temps au cours de la journée.
 
 Pour creuser ce sujet, dessiner un graphique où chaque personne trace à quel moment il/elle arrive en général, est en pause déjeuner et est en déplacement pour des réunions récurrentes. Ou encore mieux, enregistrez de vraies données pendant plus de deux semaines. Cela pourrait dégager des occasions de replanifier certaines réunions, ou d'autres pourront réfléchir à arriver plus tôt ou plus tard.
 
-Si l'équipe est distribuée, les gens peuvent même être dispatchés sur différentes timezones, alors il peut devenir particulièrement utile et rentable de tracer cette carte.
+Si l'équipe est distribuée, les gens peuvent même être dispatchés sur différents fuseaux horaire, alors il peut devenir particulièrement utile et rentable de tracer cette carte.
 
 
 
