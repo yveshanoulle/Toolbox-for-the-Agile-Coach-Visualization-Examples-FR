@@ -1,8 +1,8 @@
 Tableau de dépendances
 
-Quand une équipe découvre qu'elle a besoin de quelque chose d'une autre équipe (afin de commencer son propre travail), elle ajoute cet élément au tableau de dépendance partagée. "Nous avons besoin <rouge> avant que nous puissions commencer par <jaune>". Les notes sont reliées par une chaîne.
+Quand une équipe découvre qu'elle a besoin de quelque chose d'une autre équipe (afin de commencer son propre travail), elle ajoute cet élément au tableau de dépendance partagée. "Nous avons besoin de <rouge> avant de commencer <jaune>". Les notes sont reliées par une chaîne.
 
-Le tableau est régulièrement revu par les équipes, par exemple au cours du Scrum de Scrums. Une fois qu'une note rouge a été résolue les post-it jaunes reliés sont éliminés aussi.
+Le tableau est régulièrement revu par les équipes, par exemple au cours du Scrum de Scrums. Une fois qu'une note rouge a été résolue les post-it jaunes reliés sont retirés aussi.
 
 Le tableau de dépendances peut aider les équipes à planifier, découper les fonctionnalités, prévoir les besoins de collaboration technique, ainsi que de trouver des moyens de s'aider les unes les autres.
 
