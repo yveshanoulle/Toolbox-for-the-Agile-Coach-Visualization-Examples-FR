@@ -1,6 +1,6 @@
 Le Mur Sablier Scrum
 
-Un mur Scrum n'a pas besoin de prendre la forme d'une grille. Le Mur Sablier Scrum remplace la ligne de User Story par un Sablier où les tâches descendent vers le bas. Cela donne deux dimensions naturelles pour limiter le travail en cours; le nombre de User Stories traitées en parallèle, et la limite maximum de deux tâches actives par User Story. Si une story est trop petite pour être découpée en tâches (par exemple, l'équipe peut finir la US entièrement en un jour), elle occupe simplement le sablier entier.
+Un mur Scrum n'a pas besoin de prendre la forme d'une grille. Le Mur Sablier Scrum remplace la ligne de User Story par un Sablier où les tâches coulent vers le bas. Cela donne deux dimensions naturelles pour limiter le travail en cours; le nombre de User Stories traitées en parallèle, et la limite maximum de deux tâches actives par User Story. Si une story est trop petite pour être découpée en tâches (par exemple, l'équipe peut finir la US entièrement en un jour), elle occupe simplement le sablier entier.
 
 Ne pas découper le "Travail en cours" en "Développement", "Review" et "Test" et compagnie incite également à la collaboration entre les disciplines et le partage des connaissances.
 __________________
