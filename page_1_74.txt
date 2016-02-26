@@ -1,6 +1,6 @@
 File de revue
 
-Une équipe RH avec laquelle je travaillais avaitune longue liste de pages wiki détaillant différentes règles et recommandations. Ils pensaient que nombre d'entre elles avaient besoin d'être revues et mises à jour. Alors nous avons créer la File de Revue de Règles. Chaque semaine, une règle était revue et mise à jour. Certaines mises à jour nécessitaient l'accord de quelqu'un d'autre, alors nous avons ajouté une case "En attente de validation". Une fois que cela était fait, le ticket allait à la fin de la file. L'ordre et le contenu de la file changeaient en fonction des besoins.
+Une équipe RH avec laquelle je travaillais avait une longue liste de pages wiki détaillant différentes règles et recommandations. Ils pensaient que nombre d'entre elles avaient besoin d'être revues et mises à jour. Alors nous avons créer la File de Revue de Règles. Chaque semaine, une règle était revue et mise à jour. Certaines mises à jour nécessitaient l'accord de quelqu'un d'autre, alors nous avons ajouté une case "En attente de validation". Une fois que cela était fait, le ticket allait à la fin de la file. L'ordre et le contenu de la file changeaient en fonction des besoins.
 
 La même approche pourrait bien sûr être appliquée à de la documentation technique, du contenu de site web, FAQs, manuels, etc.
 
