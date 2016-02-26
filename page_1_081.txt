@@ -1,8 +1,8 @@
-Les Horloges d'équipes
+Horloges Fuseaux Horaire d'équipes
 
-Collaborez-vous beaucoup avec des équipes situées dans un bureau à l'autre bout du monde, ou simplement dans un autre fuseau horaire?
+Collaborez-vous beaucoup avec des équipes lointaines, dans un autre fuseau horaire ?
 
-Une manière classique de faire est d'afficher les horloges pour chacune des équipes. Il est ainsi facile de connaître l'heure pour les différentes équipes.
+Une manière classique de faire est d'afficher les horloges avec l'heure courante des différents bureaux. Il est ainsi facile de connaître l'heure pour les différentes équipes.
 
 Une autre approche pourrait être de mettre une affiche derrière votre propre horloge sur laquelle vous illustré le moment de la journée pour les autres équipes. D'un rapide coup d'œil vous savez si votre lointain ami n'est pas encore arrivé, s'il est à l'œuvre, ou s'il a fini sa journée.
 
