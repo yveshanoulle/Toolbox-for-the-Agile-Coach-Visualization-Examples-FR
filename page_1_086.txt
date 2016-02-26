@@ -4,7 +4,7 @@ Pourquoi ne pas améliorer la diffusion des connaissances au sein de l'équipe, 
 
 Cette astuce pourrait être un raccourci clavier, une fonctionnalité cachée de l'IDE et des outils que vous utilisez, ou un "truc" qui simplifie votre travail.
 
-Que ce soit en lisant un blog, en regardant un tutoriel vidéo sur youtube ou en travaillant en binôme avec quelqu'un, dès que vous avez appris quelque chose de nouveau : partagez l'information !
+Que ce soit en lisant un blog, en regardant un tutoriel vidéo sur youtube ou en travaillant en binôme avec quelqu'un, dès que vous  apprenez quelque chose de nouveau : partagez-le !
 
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
