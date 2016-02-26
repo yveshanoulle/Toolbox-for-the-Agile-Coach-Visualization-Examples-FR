@@ -2,7 +2,7 @@ Infos du Sprint
 
 Pendant que vous faites le sprint planning, pourquoi ne pas marquer les détails du sprint sur le mur. J'ai vu de nombreuses équipes se montrer très créatives sur la zone Infos du Sprint
 
-En dehors de l'ID du sprint (ou de son numéro), il pourrait afficher l'objectif du sprint. Certaines équipes appelent leur sprint en fonction de thèmes (missions de la NASA, stars de rock, super héros, etc.). Evidemment, vous pouvez ajouter une date de début et une date de fin, le nombre de personnes présentes pendant ce sprint, la date de la démo, etc.
+En dehors de l'ID du sprint (ou de son numéro), elle pourrait présenter l'objectif du sprint. Certaines équipes appelent leur sprint en fonction de thèmes (missions de la NASA, stars de rock, super héros, etc.). Evidemment, vous pouvez ajouter une date de début et une date de fin, le nombre de personnes présentes pendant ce sprint, la date de la démo, etc.
 
 
 --------------------------- original --------------
