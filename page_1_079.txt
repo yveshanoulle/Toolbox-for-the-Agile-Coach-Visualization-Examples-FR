@@ -1,13 +1,13 @@
 Sondage en tube
 
-Voir des boules (ou des balles) en train de tomber dans des tubes est une façon amusante de visualiser des données. Les tubes peuvent avoir un nom. Les couleurs des boules peuvent être utilisées pour avoir des significations différentes.
+Voir des boules (ou des balles) en train de tomber dans des tubes est une façon amusante de visualiser des données. Les tubes peuvent avoir un libellé. Les couleurs des boules peuvent être utilisées pour avoir des significations différentes.
 
 Les possibilités sont infinies, voici quelques exemples :
 
-Statistiques: D'où les bogues proviennent-ils ? Une fois qu'un bogue a été corrigé, laissez tomber une boule dans le tube correspondant.
-Données : Chaque tube est un sprint. Chaque boule est un point d'effort d'une histoire.
+Statistiques: D'où les bugs proviennent-ils ? Une fois qu'un bogue a été corrigé, laissez tomber une boule dans le tube correspondant.
+Données : Chaque tube est un sprint. Chaque boule est un story point.
 Sondage: Chaque tube représente une question. Les boules vertes signifient "oui", les boules rouges représentent "non".
-Vote: "Refactoring" - quelle classe devrait être la cible de la prochaine session ?
+Vote: "Refactoring" - quelle classe devrait être la cible de la prochaine attaque ?
 
 -------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
