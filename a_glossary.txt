@@ -17,7 +17,10 @@ Boxes ==> Cases
 Bug ==> Bug
 
 Check-in ==> Check-in
+Code (programming) ==> xxx
+Code freeze ==> xxx
 Colocated ==> Colocalisé
+Commit ==> xxx
 
 Daily Stand-up ==> Daily Stand-up
 Definition of Done ==> Définition du Fini
@@ -32,7 +35,7 @@ Envelopper Collectors ==> xxx
 
 Flipchart --> Paper-board
 
-Hat ==> Pet (Hat.. c'est un chapeau?)
+Hat ==> Pet (Hat.. c'est un chapeau?) oui YHA
 High score ==> High-score (Meilleur score?) - Mieux vaudrais écrire français (PhA)
 How great teams visualize their work ==> xxx : Comment les super-équipes visualisent leur travail (?)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)  => Mur Scrum sablier me parait une bonne idée -( J.GdB)
@@ -62,16 +65,23 @@ Queue ==> File d'attente
 
 Race Track  ==> Jeu de l'oie ?(piste de course???-cf p83)
 Retrospective ==> Rétrospective
+Release Train ==> Release Train
+Roadmap ==> Roadmap
 
-Servant Leadership == Leadership Serviteur
+Servant Leadership ==> Leadership Serviteur 
+Servant Leadership Door ==> xxx
 Stakeholders ==> Parties-prenantes (?) - Partenaires (ou investisseurs ?) (revoir page 97 :/)
 States ==> Etats / statussen
 Story ==> Story
+Stories ==> Stories
 Stress level meter ==> Mesure du niveau de stress? (Mètre à niveau de stress)
 
+Task Progress Bar ==> XXX
+Template ==> Sjabloon
 Ticket ==> Ticket
-Toolbox for the Agile Coach ==> Boite à outils du coach agile (?)
+Toolbox for the Agile Coach ==> Boite à outils du coach agile (?)>>> This is part the title so make sure ou agree on it YHA
 
+Updaten ==> XXX
 Urgent lane ==> Ligne urgente (ligne des urgences? Oui-PhA)  J'ai pu voir couloir des urgences que j'ai laissé en relecture...
 User Story lane ==> Ligne de User Story
 
