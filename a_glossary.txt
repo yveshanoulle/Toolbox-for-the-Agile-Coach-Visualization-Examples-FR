@@ -83,6 +83,7 @@ Toolbox for the Agile Coach ==> Boite à outils du coach agile (?)>>> This is pa
 
 Updaten ==> XXX
 Urgent lane ==> Ligne urgente (ligne des urgences? Oui-PhA)  J'ai pu voir couloir des urgences que j'ai laissé en relecture...
+User Stories ==> User Stories
 User Story lane ==> Ligne de User Story
 
 Visualization ==> Visualisation
