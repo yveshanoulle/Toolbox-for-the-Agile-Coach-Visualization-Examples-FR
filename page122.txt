@@ -1,4 +1,4 @@
-Traduction en collaboration avec :
+﻿Traduction en collaboration avec :
 
 Philippe Aubrée
 Florence Chabanois
@@ -11,5 +11,6 @@ Olivier My
 Matti Schneider
 Valérie Taesch
 Stéphane Wojewoda
+Laurent Tardif
 
 
