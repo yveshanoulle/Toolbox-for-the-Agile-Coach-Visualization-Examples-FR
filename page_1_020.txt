@@ -2,9 +2,11 @@ L'araignée des dépendances
 
 Dessinez une araignée avec votre équipe en son centre. Autour de l'équipe, dessinez vos sources de dépendances qui bloquent parfois votre progression ou vous forcent à attendre un certain type de retour. Sur les pattes de l'araignée, vous ajouterez continuellement des notes décrivant la manière dont vous êtes actuellement bloqué ou dépendant de cette source.
 
-Lorsqu'un blocage est résolu, déplacez le ticket dans la zone "Résolu". Lors d'une rétrospective, saisissez les Post-its des sources les plus communes et analysez ce que vous pouvez faire pour réduire ou minimiser la souffrance et la fréquence de ces dépendances. Pour assurer vous n'optimisez pas que pour le confort de votre équipe, incluez les autres équipes et personnes dans la discussion.
+Lorsqu'un blocage est résolu, déplacez le ticket dans la zone "Résolu". Lors d'une rétrospective, saisissez les Post-its des sources les plus communes et analysez ce que vous pouvez faire pour réduire ou minimiser la souffrance et la fréquence de ces dépendances. Pour vous assurer que vous n'optimisez pas que pour le confort de votre équipe, incluez les autres équipes et personnes dans la discussion.
 
 Un excellent outil également pour les rétrospectives (et les trains de release) à l'échelle de l'entreprise.
+
+--------------------------
 
 Dependency spider
 
