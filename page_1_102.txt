@@ -1,8 +1,8 @@
-?Suivi de la discipline? 
+Suivi de la discipline de l'équipe
 
-Quand on démarre en Kanban, un des premmiers défis est d'être réellement discipliné vis à vis des limites de WIP de façon à ne pas les dépasser.
+Quand on démarre en Kanban, un des premiers défis est d'être réellement discipliné vis à vis des limites de WIP de façon à ne pas les dépasser.
 
-Un moyen facile d'être transparent et honnête sur comment vous êtes diciplinés en tant qu'équipe est de conserver les traces du nombre de fois où vous dépasser une des limites de WIP.
+Un moyen facile d'être transparent et honnête sur la capacité de l'équipe à être disciplinée est de conserver les traces des fois où vous dépassez une des limites de WIP.
 
 Imprimez (ou dessinez) des calendriers mensuels. A la fin du Daily Stand-up, vérifiez si une limite de WIP est dépassée. Si c'est le cas, faîtes une grosse tâche rouge laide dans le calendrier. Sinon, dessinez un beau cercle vert.
 
