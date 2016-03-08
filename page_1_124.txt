@@ -1,10 +1,10 @@
 C'est un livre rempli d'exemples de visualisation pour les équipes agiles et les agilistes qui travaillent dans un contexte agile de développement logiciel.
 
-Les exemples ne sont pas des best practice, seulement des exemples. Soyez inspirés. Expérimentez. Amusez-vous !
+Les exemples ne sont pas des best practice, seulement des exemples. Inspirez-vous. Expérimentez. Amusez-vous !
 
 Commentaires sur Twitter, Facebook, LinkedIn et en ligne :
 "D'excellentes astuces pour tout Scrum Master et Coach Agile" - Marcel van Hove
-"Si vous me demandez, le meilleur livre de 2015" - Yves Hanoulle
+"Si vous demandez mon avis, le meilleur livre de 2015" - Yves Hanoulle
 "Merveilleux livre sur la visualisation du travail en cours" - Bert Vermijlen
 "Excellent, je n'y avais jamais pensé. Merci !" - Rolf F. Katzenberger
 "Il est génial et rempli d'idées rapides vraiment pratiques pour visualiser les choses - je l'adore :)" - Samantha Laing
