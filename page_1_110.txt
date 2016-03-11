@@ -1,23 +1,23 @@
 Sources d'inspiration
 
- Pour la plupart des exemples de ce livre, c'est compliqué pour moi de préciser où je l'ai vu en premier ou ce qui m'a inspiré. Mais pour les exemples ci-dessous, la source d'inspiration est très claire.
+ Pour la plupart des exemples de ce livre, il m'est difficile de préciser où je l'ai vu en premier ou ce qui m'a inspiré. Mais pour les exemples ci-dessous, la source d'inspiration est très claire.
 
-  Timeline Arrivée/Départ (page 90)
+  Timeline des Arrivées et des Départs (page 90)
 - Yves Hanoulle, http://www.hanoulle.be/
 
 L'arbre de Noël (page 101)
 - Mattias Skarin, Crisp
 
-Stand-ups à l'heure + score élevé (page 36)
+Stand-ups à l'heure + meilleur score (page 36)
 - Kristinn Árni Lár Hróbjartsson, Plain Vanilla/QuizUp
  Check-in quotidien (page 100)
 - Rolf F. Katzenberger, Pragmatic Teams 
 Objectifs quotidiens (page 95)
 - Sandy Mamoli, Nomad8
- Tableau des dépendances (page 103)
+ Tableau de dépendances (page 103)
 - LEGO (through Henrik Kniberg, Crisp)
 
-Dotting  (page 21) - Team HW Partners, Spotify
+Pointillage (page 21) - Team HW Partners, Spotify
  Tableau des guides (page 99)
 - Matti Schneider, http://mattischneider.fr
 
