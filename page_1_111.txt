@@ -4,7 +4,7 @@ Le mur sablier Scrum (page 88)
 - Pierre Neis, Upward Consulting
  Boîte de réception (page 13) - Team Gaia, Spotify
 
-Mur des Kudos (page 49)
+Mur à Kudos (page 49)
 - Jurgen Appelo, http://www.jurgenappelo.com
 
 Matrice de Pair Programming (page 59)
@@ -16,7 +16,7 @@ Carte de Proximité  (page 80)
 - Patrik Enqvist, Nordea
  Backlog en pyramide (page 78)
 - Gunnar Holmsteinn, Plain Vanilla/QuizUp
- Course sur piste (page 83)
+ Jeu de l'oie (page 83)
 - Georg Olafsson, Meniga
 
 Casquette de facilitateur tournant (page 33)
