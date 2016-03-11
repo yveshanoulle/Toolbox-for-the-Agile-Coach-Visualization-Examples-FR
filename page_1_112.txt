@@ -1,12 +1,12 @@
 Stress Mètre (page 62) - Crisp Office
- Habitudes de l'équipe (page 32)
+ Nouvelles pratiques d'équipe (page 32)
 - Fredrik Lindgren, Crisp
  Des coéquipiers avec des chapeaux (page 31)
 - Gunnar Holmsteinn, Plain Vanilla/QuizUp
 
-Heures de présence de l'équipe (page 75)
+Horaire d'équipe (page 75)
 - Hans Brattberg, Crisp
- Les Horloges d'équipes (page 81)
+ Horloges Fuseaux Horaire d'équipes (page 81)
 - Yves Hanoulle, http://www.hanoulle.be/
  Temps investi (page 97)
 - Mattias Skarin, Crisp
