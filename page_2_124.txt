@@ -1,4 +1,4 @@
-C'est un livre rempli d'exemples de visualisation pour les équipes agiles et les agilistes qui travaillent dans un contexte agile de développement logiciel.
+Ce livre est rempli d'exemples de visualisation pour les équipes agiles et les agilistes qui travaillent dans un contexte agile de développement logiciel.
 
 Les exemples ne sont pas des best practice, seulement des exemples. Inspirez-vous. Expérimentez. Amusez-vous !
 
@@ -10,7 +10,7 @@ Commentaires sur Twitter, Facebook, LinkedIn et en ligne :
 "Il est génial et rempli d'idées rapides vraiment pratiques pour visualiser les choses - je l'adore :)" - Samantha Laing
 "Cela a amélioré ma vie sexuelle" - Karel Boekhout
 
-----------------------------------------------
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
 This is a book filled with visualization examples for agile teams and agile people who are working with software development in an agile context.
 
