@@ -6,6 +6,8 @@ Il montre simplement le nombre de jours restants avant la démo. Le dernier affi
 
 Il est placé de préférence à un endroit grandement visible, telle que la machine à café ou à côté des toilettes. Et oui, quelque chose de manuel comme cela a besoin d'être manuellement mis à jour par quelqu'un. Cela peut être une bonne chose puisque cela rappelle à l'équipe que le jour approche.
 
+
+
 Days ‘til Demo
 Days ‘til Demo is a simple countdown to the next demo. Its purpose is to raise awareness and to help teams remember to plan and prepare for the demo. And of course to raise the expectations for everyone else.
 
