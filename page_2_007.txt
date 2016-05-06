@@ -1,0 +1,26 @@
+Conseils d'ordre général
+
+Accessible - Positionnez votre mur de visualisation dans la zone de travail de l'équipe. L'idée étant qu'il soit facilement visible par tout le monde dans la salle.
+
+Simple - Le mur doit pouvoir être mis à jour facilement. Si vous en rendez la mise à jour trop laborieuse, la qualité du mur va probablement se détériorer. Si vous suspectez que le mur n'est plus à jour, vous arrêterez de lui faire confiance. Et si vous ne lui faites plus confiance, vous le mettrez plus à jour.
+
+Propre - Si vous mettez de l'amour et du soin dans la conception de votre mur, vous le respecterez probablement plus et vous continuez à le garder beau et bien rangé. Ne vous prenez pas la tête, mais choisissez les composants du mur avec soin.
+
+Flux principaux - Concevez votre mur pour les cas normaux et les flux principaux. Choisissez les composants additionnels en vous basant sur les comportements que vous voulez changer. Traitez les exceptions comme des exceptions.
+
+Evaluez - Votre mur de visualisation est une chose vivante. Ré-évaluez l'intérêt et la représentation de chaque composant régulièrement. Améliorez-les, ajustez-les ou abandonnez-les.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+General advice
+
+Accessible – Position your wall with visualizations in the area where the team sits. You want it easily visible for everyone in the room.
+
+
+Simple - The wall needs to be easy to update. If you make it too cumbersome to update, the wall will probably deteriorate. If you suspect that it’s not up to date, you will stop trusting it. If you don’t trust it, you will update it even less frequently.
+
+Clean – If you put love and care into designing the wall you will probably respect it more and want to continue to keep it nice and tidy. Don’t go bananas, choose components with care.
+
+Core flows – Design for the normal cases and core flows. Choose additional components based on the behaviors you want to change. Treat exceptions like exceptions.
+
+Evaluate – Your wall is a living thing. Evaluate each component's value and design regularly. Improve, adjust or abandon.
