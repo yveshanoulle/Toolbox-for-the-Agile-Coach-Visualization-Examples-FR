@@ -1,0 +1,16 @@
+Jours avant la Démo
+
+Le nombre de jours avant la Démo est un simple compte à rebours avant la prochaine démo. Son objectif est de conscientiser et d'aider l'équipe à se rappeler qu'il faut planifier et préparer la démo. Et bien sûr d'en augmenter l'attente pour tous les autres.
+
+Il montre simplement le nombre de jours restants avant la prochaine démo. Le dernier affichera "AUJOURD'HUI à 14:00" (ou quelque chose de similaire).
+
+Il est placé de préférence à un endroit bien visible, tel que la machine à café ou à côté des toilettes. Et oui, un affichage manuel comme cela a besoin d'être manuellement mis à jour par quelqu'un. Cela peut être une bonne chose puisque cela rappelle à l'équipe que le jour approche.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Days ‘til Demo
+Days ‘til Demo is a simple countdown to the next demo. Its purpose is to raise awareness and to help teams remember to plan and prepare for the demo. And of course to raise the expectations for everyone else.
+
+It simply shows the number of days left until the demo. The last one reads “TODAY at 2pm” (or something similar).
+
+It’s preferably placed in a highly visible place, such as by the coffee machine or next to the toilets. And yes, a manual one like this needs to be manually updated by someone. This could be a good thing since it reminds the team that the day is approaching.
