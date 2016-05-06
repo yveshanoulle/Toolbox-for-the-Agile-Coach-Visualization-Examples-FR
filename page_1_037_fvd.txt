@@ -4,7 +4,7 @@ Quand vous interrompez une story complète et déplacez les tickets associés da
 
 Cela prend plus de place, mais ça pourrait être utilisé comme limite du travail en cours, c'est-à-dire que pas plus d'une story ne peut être interrompue à la fois. 
 
-N'oubliez pas d'écrire la date à laquelle la story a été interrrompue.
+N'oubliez pas d'écrire la date à laquelle la story a été interrompue.
 
 Cette approche peut être utile lorsque quelque chose d'urgent arrive au milieu du sprint passant temporairement au-dessus des priorités.
 
