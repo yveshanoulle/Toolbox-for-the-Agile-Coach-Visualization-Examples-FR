@@ -1,7 +1,0 @@
-Visualisez votre flux de travail
-
-Utilisez des cases, des lignes, des rangées et des colonnes pour décrire votre flux de travail et les états entre lesquels le travail transite. Utilisez des Post-its pour décrire le travail à faire traversant votre flux. Il n'y a pas de bonne ou mauvaise manière, continuez à expérimenter jusqu'à ce que vous trouviez une bonne représentation de votre flux de travail, une vue qui vous aide à voir la progression, à collaborer, à planifier, à faire des prévisions, et à révéler les goulets d'étranglement.
-
-Visualize your workflow
-
-Use boxes, lines, rows and columns to describe your workflow and which states work transitions between. Use Post-its to describe the work to be done which flows through your workflow. There is no right or wrong, keep on experimenting until you find a good representation of your workflow, a view that helps you see progress, collaborate, plan, do forecasts, and that reveals bottlenecks.
