@@ -1,0 +1,13 @@
+Légende
+
+Une bonne visualisation que l'équipe aime et utilise longtemps tend à devenir de plus en plus complexe au fur et à mesure que l'équipe y ajoute de plus en plus d'informations.
+
+Pour la rendre plus facile à comprendre pour les nouveaux venus et pour d'éventuels collègues curieux - ajoutez-y une légende qui explique les couleurs, les icônes et les symboles.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Legend
+
+A good visualization that a team likes and continues to use over time tends to get more and more complex as the team adds more and more information to it.
+
+To make it easy to understand for new team members, and curious colleagues – provide a legend that explains the colors, icons and symbols.
