@@ -1,8 +1,8 @@
  Matrice de Pair Programming
  
-Vous essayez de faire plus de Pair Programming au sein de votre équipe ? Aimeriez-vous visualiser le temps que vous y passer au cours d'une semaine ? Essayez de mettre en place une matrice de Pair Programming.
+Souhaiteriez-vous plus de Pair Programming au sein de votre équipe ? Aimeriez-vous visualiser le temps que vous y passer au cours d'une semaine ? Essayez de mettre en place une matrice de Pair Programming.
  
-Chaque fois que vous faites une séance de Pair Programming, faites une coche dans la case correspondante. Vous devez vous accordez en équipe sur le temps de binômage nécessaire correspondant à une coche.
+Chaque fois que vous faites une séance de Pair Programming, Cochez la case correspondante. Vous devrez vous accordez en équipe sur le temps de binômage nécessaire correspondant à une coche.
 
 Fixez une date pour faire une revue et discutez des résultats. Si vous souhaitez continuer le suivi de votre Pair Programming, réinitialisez la matrice et convenez d'une nouvelle date de revue.
  
