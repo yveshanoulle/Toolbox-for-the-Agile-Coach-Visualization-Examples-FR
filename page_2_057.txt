@@ -4,7 +4,7 @@ Certaines équipes aiment colorer les tâches en fonction de la compétence prin
 
 J'ai vu des équipes utiliser une couleur spécifique aux activités de tests, d'autres avaient une colonne "Tests". Vous devrez expérimenter pour trouver ce qui marche pour vous.
 
-Par contre, si cette technique sape le travail d'équipe - cessez de l'utiliser! Ne pas trouver une tâche avec "sa" couleur n'est pas une raison pour ne pas collaborer ou ne pas aider.
+Par contre, si cette technique sape le travail d'équipe - cessez de l'utiliser ! Ne pas trouver une tâche avec "sa" couleur n'est pas une raison pour ne pas collaborer ou ne pas aider.
 
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
