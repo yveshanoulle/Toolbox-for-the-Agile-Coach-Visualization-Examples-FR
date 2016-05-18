@@ -1,0 +1,18 @@
+Des couleurs en fonction des compétences
+
+Certaines équipes aiment colorer les tâches en fonction de la compétence principale requise. Durant la réunion de planning, cela aide l'équipe à découper le travail en tâches et à clarifier la diversité du travail.
+
+J'ai vu des équipes utiliser une couleur spécifique aux activités de tests, d'autres avaient une colonne "Tests". Vous devrez expérimenter pour trouver ce qui marche pour vous.
+
+Par contre, si cette technique sape le travail d'équipe - cessez de l'utiliser! Ne pas trouver une tâche avec "sa" couleur n'est pas une raison pour ne pas collaborer ou ne pas aider.
+
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Color according to skill
+
+Some teams like to color the tasks according to the primary skill needed. During the planning session this helps the team to split work into tasks and to clarify the diversity of work.
+
+I’ve seen that some teams have a color for testing activities, others have a column named “Testing”. You need to experiment to find what works for you.
+
+But, if this technique undermines teamwork - stop using it! Not finding a task with “your” color is no excuse to not collaborate and help out. 
