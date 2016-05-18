@@ -1,15 +1,15 @@
 Absent du bureau
 
-J'ai vu des équipes dédier une petite zone du mur de l'équipe pour afficher où étaient les personnes si elles n'étaient pas au bureau.
+J'ai vu des équipes dédier une petite zone du mur de l'équipe pour afficher où étaient les personnes quand elles n'étaient pas au bureau.
 
-Dès que quelqu'un apprenait qu'un autre était malade, en déplacement (conférence, course, etc.), en vacances ou à la maison en congé enfant malade, il mettait l'avatar de cette personne dans le slot correspondant.
+Dès que quelqu'un apprenait qu'un autre était malade, en déplacement (conférence, formation, etc.), en vacances ou à la maison en congé enfant malade, il mettait l'avatar de cette personne dans le slot correspondant.
 
 Des informations complémentaires peuvent évidemment être ajoutées sur les Post-its, par exemple : quand la personne va revenir de vacances.
 
-Note : congé enfant malade (VAB dans le texte original) est peut-être très suédois.... Cela signifie "Être payé pour rester à la maison et s'occuper de son enfant malade". 
+Note : Le congé enfant malade (VAB dans le texte original) est peut-être très suédois.... Cela signifie "Être payé pour rester à la maison et s'occuper de son enfant malade". 
 
 
-------------- origine --------------
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
 Out of office
 
