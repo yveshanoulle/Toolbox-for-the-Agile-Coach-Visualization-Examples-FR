@@ -1,20 +1,19 @@
 Bienvenue,
 
-Ce livre est rempli d'exemples de visualisation pour les équipes afin d'améliorer la communication et la collaboration, ainsi que former les comportements. Il est écrit pour les personnes et les équipes qui travaillent dans un contexte Agile de développement logiciel.
+Ce livre est rempli d'exemples de visualisation pour les équipes afin d'améliorer la communication et la collaboration, ainsi que pour façonner leur comportement. Il est écrit pour les personnes et les équipes qui travaillent dans un contexte Agile de développement logiciel.
 
-Les pages ici décrivent seulement des exemples. Rien d'autre. Pas de grandes explications théoriques. Pas d'explication de l'Agile ou de Scrum. Aucune référence à la Gamification. Pas de discussion sur comment le cerveau interprète les éléments visuels ou comment nos comportements sont influencés par l'information visuelle.
-Il y a d'autres livres écrits sur ces sujets.
+Les pages suivantes décrivent seulement des exemples. Rien d'autre. Pas de grandes explications théoriques. Pas d'explication de l'Agile ou de Scrum. Aucune référence à la Gamification. Pas de discussion sur comment le cerveau interprète les éléments visuels ou comment nos comportements sont influencés par l'information visuelle.
+Il y a bien d'autres livres écrits sur ces sujets.
 
 Si une page contient une flèche (➨) dans le coin supérieur, cela signifie qu'il y a un lien vers un blog ou un article avec de plus amples informations à trouver sur la page "Plus d'informations".
 
-Si une page contient un coeur (❤)  vous trouverez une personne ou une équipe créditée sur la page "Sources d'inspiration".
+Si une page contient un coeur (❤) vous trouverez la personne ou l'équipe créditée sur la page "Sources d'inspiration".
 
-Les exemples dans ce livre peuvent être perçus comme s'ils étaient les meilleurs et la seule façon de faire les choses. Bien entendu, ce n'est pas vrai. Les exemples ne sont pas des "best practices". Ce sont seulement des suggestions. Vous devez les adapter au contexte et aux besoins de votre équipe.
+Les exemples dans ce livre peuvent être perçus comme s'ils étaient les meilleurs et la seule façon de faire les choses. Ce n'est evidemment pas le cas. Les exemples ne sont pas des "best practices". Ce sont seulement des suggestions. A vous de les adapter au contexte et aux besoins de votre équipe.
 
 Ce livre ne vise pas à être lu de la première à la dernière page. Parcourez-le. Faîtes des allers-retours. Choisissez ce qui vous plait. Combinez les idées de quelque façon que vous trouvez utile. Expérimentez et évaluez. Evoluez ou jetez.
 
-Amusez-vous!
-
+Amusez-vous bien !
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 Welcome
