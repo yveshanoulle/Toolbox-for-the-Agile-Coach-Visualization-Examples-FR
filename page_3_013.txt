@@ -1,8 +1,8 @@
 Boîte de réception
 
-Est-ce que de nouvelles tâches sont régulièrement ajoutées par des membres créatifs de l'équipe? Subissez-vous l'ajout de tâches en milieu de sprint par des personnes/responsables extérieurs à l'équipe, demandant de l'aide à un membre particulier? Est-ce que cela nuit à la concentration sur les objectifs du sprint? Ajoutez une règle de Boîte de réception!
+Est-ce que de nouvelles tâches sont régulièrement ajoutées par des membres créatifs de l'équipe ? Subissez-vous l'ajout de tâches en milieu de sprint par des personnes/responsables extérieurs à l'équipe, demandant de l'aide à un membre particulier ? Est-ce que cela nuit à la concentration sur les objectifs du sprint ? Ajoutez une règle de Boîte de réception !
 
-Règle: les nouvelles tâches ne peuvent être ajoutées à 'planifié' ou 'en cours', mais placées dans la boîte de réception. Au standup suivant, l'équipe au complet décide s'il faut réaliser la tâche ou pas, à savoir si elle ajoute de la valeur et est en ligne avec l'objectif du sprint. Si l'équipe décide qu'il ne faut pas la faire maintenant, la demande va soit dans le backlog, soit à la poubelle.
+Règle: les nouvelles tâches ne peuvent être ajoutées à "planifié" ou "en cours", mais placées dans la boîte de réception. Au standup suivant, l'équipe au complet décide s'il faut réaliser la tâche ou pas, à savoir si elle ajoute de la valeur et est en ligne avec l'objectif du sprint. Si l'équipe décide qu'il ne faut pas la faire maintenant, la demande va soit dans le backlog, soit à la poubelle.
 
 La Boîte de réception devrait être vide à la fin de chaque Daily Stand-up.
 
