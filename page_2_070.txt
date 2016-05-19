@@ -1,8 +1,8 @@
-Collecteur enveloppe
+Enveloppes collectrices
 
-Les enveloppes sont pratiques pour collecter les Post-Its. J'ai vu des équipes les utiliser pour le stockage, comme un endroit où mettre les Post-Its plutôt que les jeter à la corbeille.
+Les enveloppes sont pratiques pour collecter les Post-Its. J'ai vu des équipes les utiliser pour le stockage, comme un endroit où mettre les Post-Its plutôt que les jeter à la poubelle.
 
-On peut adopter une approche peu plus élaborée consistant à de nouvelles enveloppes chaque mois et mettre les différents Post-Its dans différentes enveloppes. A la fin du mois, on compte et analyse les stories et les tâches finies. Quel est le ratio de valeurs ajoutée (User Stories) sur la correction de bugs ? Travail planifié vs non planifié ? Les causes d'interruptions les plus fréquentes ? Les causes communes des tâches urgentes ?
+On peut adopter une approche plus élaborée consistant à utiliser de nouvelles enveloppes chaque mois et en mettant les différents Post-Its dans les différentes enveloppes. A la fin du mois, on compte et analyse les stories et les tâches finies. Quel est le ratio de valeurs ajoutée (User Stories) sur la correction de bugs ? Travail planifié vs non planifié ? Les causes d'interruptions les plus fréquentes ? Les causes communes des tâches urgentes ?
 
 Si vous êtes nostalgique, vous pouvez mettre les enveloppes dans une pochette plastique, dater cette dernière et la mettre dans un classeur.
 
