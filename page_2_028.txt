@@ -1,10 +1,11 @@
-Place de Parking
+Zone de Parking
 
-Si l'équipe a temporairement arrêté de travailler sur une story (ou mis en pause une tâche donnée) du fait d'un changement de priorité - clarifier la situation en déplaçant les Post-its dans une zone de Parking.
+Si l'équipe a temporairement arrêté de travailler sur une story (ou mis en pause une tâche donnée) du fait d'un changement de priorité - clarifiez la situation en déplaçant les Post-its dans une zone de Parking.
 
-Enlever une story/tâche du tableau principal réduit aussi les chances qu'une personne travaille par accident sur une tâche en pause (c'est-à-dire augmenter le multi-tache inutilement).
+Enlever une story/tâche du tableau principal réduit aussi les chances qu'une personne travaille par accident sur une tâche en pause (ce qui augmente le multi-tache inutilement).
 
-Quand une story ou tâche se "gare", écrivez un Ticket de Parking avec la date d'installation dans le parking et qui travaillait dessus.
+Quand une story ou tâche est "garée", écrivez un Ticket de Parking avec la date d'arrivée dans le parking et qui travaillait dessus.
+
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
