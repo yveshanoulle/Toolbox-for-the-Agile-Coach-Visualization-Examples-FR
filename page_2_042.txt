@@ -7,6 +7,7 @@ Certaines équipes la placent en bas et instaurent la règle stipulant que si qu
 D'autres équipes placent cette ligne en haut, indiquant ainsi que les actions d'amélioration sont les activités les plus importantes à finir en premier (juste après les problèmes urgents en production)
  
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ 
  Improvement Lane
 
 To make your retrospective improvement actions a natural part of your planning and Daily Stand-ups, add an Improvement Lane to the board.
