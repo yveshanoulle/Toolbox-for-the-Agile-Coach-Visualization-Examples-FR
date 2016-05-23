@@ -1,10 +1,11 @@
 Rythme de l'équipe/Cycle
 
-Plusieurs équipes qui pratiquent Kanban tirent profit d'un rythme.  Par exemple, affinage du backlog chaque semaine, démo et rétrospective une semaine sur deux, etc...
+Beaucoup d'équipes passées à Kanban gardent la notion de rythme.  Comme par exemple, affinage du backlog chaque semaine, démo et rétrospective une semaine sur deux, etc...
 
-Visualiser ce rythme et le positionnement de l'équipe dans ce cycle, l'aide à rester concentrer et fournit une structuration plutôt qu'un environnement de travail réactif et en flux poussé.
+Visualiser ce rythme et la situation de l'équipe dans le cycle l'aide à rester concentrer et fournit un environnement de travail  plus structuré et moins orienté réactif et flux poussé.
 
-Le cycle peut être visualisé de nombreuses manières: une horloge (exemple A), une route (exemple B), un plateau de jeu (exemple C). Choisissez celui que vous préférez et que vous trouvez ludique.
+Le cycle peut être visualisé de nombreuses manières: une horloge (exemple A), une route (exemple B), un plateau de jeu (exemple C). Choisissez celui que vous préférez et que vous trouvez le plus ludique.
+
 
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
  Team Rhythm/Cycle
