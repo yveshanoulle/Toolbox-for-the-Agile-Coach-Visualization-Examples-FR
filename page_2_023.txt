@@ -1,10 +1,12 @@
 Jours bloqués (gaspillés)
 
-Lorsque vous utilisez des Post-it pour indiquer un statut bloqué, il peut être utile de garder une trace des jours depuis l'introduction du blocker.
+Lorsque vous utilisez des Post-it pour indiquer un statut bloqué, il peut être utile de garder une trace du nombre de jours depuis l'apparition du blocker.
 
-Au Daily Stand-up, mettez simplement un trait sur le Post-it, aussi connu comme marque de dénombrement. Cette marque en elle-même vous rappelera à vous et à votre équipe d'agir sur l'obstacle ou la dépendance. Et le nombre de traits vous diront combien de jours ont été gaspillés à attendre quelque chose ou quelqu'un.
+Au Daily Stand-up, tracez simplement un trait sur le Post-it comme marques de dénombrement. Cette marque vous rappelera à vous et à votre équipe d'agir sur l'obstacle ou la dépendance. Et le nombre de traits vous diront combien de jours ont été gaspillés à attendre quelque chose ou quelqu'un.
 
 Un grand nombre de traits est une invitation à une sérieuse discussion. Pourquoi l'équipe échoue-t-elle à lever ses obstacles ?  Manque-t-elle de support ? De motivation ?
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
 Days blocked (wasted)
 When using Post-it notes to indicate blocked status it can be helpful to keep track of the days since the blocker was introduced.
