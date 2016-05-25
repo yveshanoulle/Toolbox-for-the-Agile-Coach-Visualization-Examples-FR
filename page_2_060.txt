@@ -1,13 +1,12 @@
 Les Stand-up journaliers
 
-Au lieu d'aller vers un Scrum "classique", formalisez le pour que le Stand-up journalier soit élaboré en conscience. La rédaction faciletera les discussions constructives pour améliorer le Stand-up.
+Au lieu d'aller vers du Scrum "classique", reformulez consciemment votre ceremonie de Stand-up journalier. Cet effort de rédaction facilitera les discussions constructives pour améliorer le Stand-up.
 
 Cela permettra aussi de faire varier plus facilement le facilitateur des Stand-up journaliers.
 
 La même approche s'applique aussi aux autres réunions telles que le Sprint planning, l'affinage du backlog, la revue du Sprint etc...
 
 --------------------------- ORIGINAL TEXT BELOW -------------------------
-
 
 Daily Stand-up Routine
 
