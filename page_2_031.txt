@@ -1,6 +1,6 @@
 Des coéquipiers avec des chapeaux
 
-Aidez vos collègues à savoir qui est qui avec l'utilisation d'un catalogue des membres d'équipe. Vous pouvez aussi visualiser le rôle de chacun en utilisant des icônes de chapeau. Si vous le souhaitez, vous pouvez ajouter leur compétence principale, adresse email ou d'autres informations utiles.
+Aidez vos collègues à savoir qui est qui grâce à un catalogue des membres de l'équipe. Vous pouvez aussi visualiser le rôle de chacun en utilisant des icônes de chapeau. Si vous le souhaitez, vous pouvez ajouter leur compétence principale, adresse email ou d'autres informations utiles.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
