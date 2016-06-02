@@ -1,11 +1,15 @@
 Smileys de Confiance
-C'est une alternative (ou complément) puissante au Burndown de Sprint.
 
-A la fin de chaque Daily Stand-up, l'équipe se demande quel niveau de confiance elle a dans sa capacité à finir chacune des User Stories à la fin du Sprint. La réponse est représentée sous forme d'un Smiley de Confiance.
+C'est une alternative puissante (ou un complément) au Burndown de Sprint.
+
+A la fin de chaque Daily Stand-up, l'équipe se demande quel niveau de confiance elle a dans sa capacité à finir chacune des User Stories pour la fin du Sprint. La réponse est représentée sous forme d'un Smiley de Confiance.
 
 L'équipe passe rapidement dans chaque ligne/User Story et met à jour la couleur du Smiley de Confiance. Lorsqu'il y a désaccord, la voix la plus pessimiste l'emporte.
 
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
 Confidence Smileys
+
 This is a powerful alternative (or complement) to a Sprint Burndown.
 
 At the end of every Daily Stand-up meeting the team asks themselves; how confident are we that we will be able to finish each User Story by the end of the Sprint. The answer is represented by a Confidence Smiley.
