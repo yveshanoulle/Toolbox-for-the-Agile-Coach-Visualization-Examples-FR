@@ -1,12 +1,10 @@
 Prêt pour la démo
 
-Les équipes qui utilisent Kanban devraient bien sûr aussi faire des démos. Si votre équipe n'a pas programmé de démos récurrentes, une zone Prêt pour la démo peut aider.
+Les équipes qui utilisent Kanban devraient aussi faire des démos. Si votre équipe n'a pas programmé de démos récurrentes, une zone "Prêt pour la démo" peut aider.
 
 Une fois la story finie et prête à être démontrée, déplacez-la vers un emplacement vide sur la première ligne. Quand la première ligne est pleine, une invitation pour la démo est envoyée. Quand la démo a lieu, toutes les stories prête-pour-la-démo sont montrées, après cela la zone est vidée.
 
 Note : Cet exemple a été mentionné avant (voir Ligne des Priorités), mais est présenté ici avec plus de détails.
-
-
 
 
 ------------------------------- ORIGINAL TEXT BELOW ----------------------------------------------
