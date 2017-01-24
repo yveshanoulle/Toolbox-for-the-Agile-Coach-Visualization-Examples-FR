@@ -2,7 +2,7 @@ Départs des trains de livraison
 
 Si votre équipe doit planifier son travail en fonction des départs de trains de livraison, pourquoi ne pas visualiser les différents trains de livraison et les départs des prochains trains. Chaque "ligne" présente les événements de chaque train ; comme la date du dernier commit, la date du gel du code, la phase de test ou les dates lorsque l'application est soumise à l'App Store d'Apple ou au Google Play.
 
-La date du jour pourrait être visualisée par un curseur mobile. Les tableaux magiques (des posters en plastiques auto-adhésifs) sont pratiques car il est facile d'en ajouter de nouveaux (et de supprimer les anciens ) au fur et à mesure que le temps passe.
+La date du jour peut être visualisée par un curseur mobile. Les tableaux magiques (des posters en plastiques auto-adhésifs) sont pratiques car il est facile d'en ajouter de nouveaux (et de supprimer les anciens) au fur et à mesure que le temps passe.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
