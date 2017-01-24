@@ -10,6 +10,7 @@ Quand un sujet est traité, cochez-le. Quand tous les sujets sont traités, nett
 C'est une manière, pour certaines équipes, de réduire la durée du Daily Stand-up et de le rendre plus efficace.
 
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+ 
 After party
 
 When people derail in detailed discussions during the Daily Stand-up meeting, pause them and add the topic to “Immediately after”. The policy could be that whenever anyone makes a T-shaped hand signal, the discussion is moved to after the Daily Stand-up.
