@@ -1,10 +1,11 @@
-Départs des trains de versions
+Départs des trains de livraison
 
-Si votre équipe doit planifier son travail en fonction des départs de trains de versions, pourquoi ne pas visualiser les différents trains de versions et les départs des prochains trains. Chaque "ligne" présente les événements de chaque train ; comme la date du dernier commit, la date du gel du code, la phase de test ou les dates lorsque l'application est soumise à l'App Store d'Apple ou le Google Play.
+Si votre équipe doit planifier son travail en fonction des départs de trains de livraison, pourquoi ne pas visualiser les différents trains de livraison et les départs des prochains trains. Chaque "ligne" présente les événements de chaque train ; comme la date du dernier commit, la date du gel du code, la phase de test ou les dates lorsque l'application est soumise à l'App Store d'Apple ou au Google Play.
 
 La date du jour pourrait être visualisée par un curseur mobile. Les tableaux magiques (des posters en plastiques auto-adhésifs) sont pratiques car il est facile d'en ajouter de nouveaux (et de supprimer les anciens ) au fur et à mesure que le temps passe.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
 Release Train Departures
 
 If your team have to plan your work according to release train departures, why not visualize the different release trains and each release train’s upcoming departures. Each “row” shows the events for each train; such as latest commit date, code freeze date, test phase or dates when the app is submitted to apple the Apple App Store or to Google Play.
