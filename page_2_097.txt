@@ -1,6 +1,6 @@
 Temps investi
 
-Souhaitez-vous avoir une façon simple de présenter à vos partenaires la manière dont vous avez investi votre temps ?
+Cherchez-vous une façon simple de présenter à vos partenaires la manière dont vous avez investi votre temps ?
 
 À la fin de chaque semaine, sprint ou mois, évaluez grossièrement comment vous avez utilisé votre temps. Chaque membre de l'équipe dessine dix barres. Chaque barre représente 10% du temps investi. Le temps est réparti en catégories telles que : le développement de fonctionnalités, la correction de bugs et la maintenance, la recherche technique et les correctifs rapides / en mode panique.
 
