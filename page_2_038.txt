@@ -1,6 +1,6 @@
 Camembert de progression
 
-Peut être avez-vous votre roadmap visualisée sur votre mur et aimeriez visualiser l'avancement des Epics relatives à une version spécifique ? Une estimation grossière est souvent suffisante, par exemple un camembert de progression.
+Peut être avez-vous visualisé votre roadmap sur votre mur et aimeriez visualiser l'avancement des Epics relatives à une version spécifique ? Une estimation grossière est souvent suffisante en utilisant par exemple un camembert de progression.
 
 Dessinez un cercle sur un Post-it et demandez "Quelle quantité est réalisée ?". Remplissez le cercle en fonction de la réponse. Un cercle vide signifierait "pas commencé". Un cercle complet "Prêt à livrer".
 
