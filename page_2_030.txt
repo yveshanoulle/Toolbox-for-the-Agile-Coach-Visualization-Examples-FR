@@ -1,6 +1,6 @@
 Tableau Kaizen
 
-Pour garantir que les actions validées durant les rétrospectives sont bien traitées, écrivez-les sur des Post-its et mettez-les sur le mur.
+Pour s'assurer que les actions identifiées durant les rétrospectives soient bien traitées, écrivez-les sur des Post-its et mettez-les sur le mur.
 
 Si ces Post-its ne rentrent pas dans votre tableau standard, créez à part un petit tableau Kanban des Actions de Rétrospective (aussi appelé Tableau Kaizen) où vous pourrez suivre l'avancement des améliorations.
 
