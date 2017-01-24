@@ -4,9 +4,10 @@ Une équipe avec laquelle je travaillais avait décidé à plusieurs reprises qu
 
 Cette simple chose a rendu tout le monde un peu plus concentré et a évité beaucoup de digressions. Et voilà ! Comme si la tablette avait un super pouvoir secret, le Daily stand-up finissait la plupart du temps bien avant les 15 minutes.
 
-Remarque: Le but du Daily Stand-Up n'est pas bien sûr de finir dans les 15 minutes, il est de comprendre comment nous, en tant qu'équipe, devons collaborer aujourd'hui pour atteindre nos objectifs.
+Remarque: Le but du Daily Stand-Up n'est pas bien sûr de finir dans les 15 minutes, il est de comprendre comment nous devons collaborer aujourd'hui, en tant qu'équipe, pour atteindre nos objectifs.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
  Daily Stand-up timer
 
 One team I was working with repeatedly decided that they should really limit the Daily Stand-up meeting to 15 minutes, but never succeeded to accomplish it. One day I placed my tablet on a small table (that happened to be positioned in front of the wall) and started a timer. I didn’t explain why.
