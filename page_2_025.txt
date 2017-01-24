@@ -1,0 +1,13 @@
+Icône Question
+
+Parfois vous avez une question mais la bonne personne n'est pas aux alentours. Si il est possible pour vous d'attendre jusqu'au prochain Daily Stand-up, marquez la tâche pour laquelle vous avez une question avec une icône Question.
+
+Pendant le Daily Stand-up, l'équipe examine les icônes Question présentes sur le mur, s'en occupe et les enleve une fois traitées.
+
+
+
+Question icon
+
+Sometimes you have a question about something, but the right team member isn’t around, and it’s possible to wait until the team’s next Daily Stand-up meeting. If that’s the case, you mark the task you have a question about with a Question icon.
+
+During the Daily Stand-up meeting the team makes sure to scan the wall for Question icons, addressing them and removing them one by one.
