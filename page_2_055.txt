@@ -1,10 +1,10 @@
  Cases d'Estimation de Tâche
  
- Une manière simple d'apprendre si les choses prennent plus de temps que prévu est d'estimer les tâches avec des cases. Deux cases peuvent par exemple signifier une journée complète de travail.
+Une manière simple d'apprendre si les choses prennent plus de temps que prévu est d'estimer les tâches avec des cases. Par exemple, deux cases peuvent représenter une journée de travail complète.
  
- Pendant le Daily Stand-up vous cochez les cases lorsque vous travaillez dessus. Continuez à cocher même lorsqu'il n'y a plus de cases. Cette technique rend facile à voir quand quelque chose s'avère plus difficile que prévu, ce qui devrait déclencher une discussion sur la manière d'aider.
+Lors du Daily Stand-up, cochez les cases lorsque vous travaillez dessus. Continuez à cocher même lorsqu'il n'y a plus de cases. Cette technique permet de visualiser rapidement quand une tâche s'avère plus difficile que prévue, ce qui devrait déclencher une discussion sur le sujet.
  
- L'estimation pourrait avoir lieu pendant le sprint planning ou quand la tâche passe de "Prévu" à "En cours".
+L'estimation peut être faite lors du sprint planning ou quand la tâche passe de "Prévu" à "En cours".
  
  ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
  Task Estimation Boxes
