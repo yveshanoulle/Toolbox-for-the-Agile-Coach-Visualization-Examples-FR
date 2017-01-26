@@ -1,11 +1,11 @@
 Stand-ups à l'heure
 + meilleur score
 
-Pensez vous que vous arrivez mieux à démarrer vos Daily Stand-ups à l'heure? Pourquoi pas le mesurer ?
+Pensez-vous que vous arrivez à démarrer vos Daily Stand-ups à l'heure plus souvent ? Pourquoi ne pas le mesurer ?
 
-Tous les jours où vous démarrer le  Daily Stand-up à l'heure, augmentez votre score "Stand-ups à l'heure". Si vous le démarrez en retard, remettez le score à 0. A côté du compteur, noter le meilleur score jusqu'à maintenant. Si vous pouvez, pensez à une récompense sympa pour l'équipe à chaque fois que vous dépassez votre record.
+Chaque jour où vous démarrer le Daily Stand-up à l'heure, augmentez votre score de "Stand-ups à l'heure". Si vous le démarrez en retard, remettez le score à 0. A côté du compteur, noter le meilleur score jusqu'à maintenant. Si vous pouvez, pensez à une récompense sympa pour l'équipe à chaque fois que vous dépassez votre record.
 
-D'autres exemples de compteurs et meilleur scores (aka “chains”) sont "Nous avons corriger plus de bugs aujourd'hui qu'il y en a eu de remontés", "Jours avec 0 bug remonté", "Ligne des urgences vide en fin de journée".
+Voiçi d'autres exemples de compteurs et meilleur scores (ou “chaines”): "Nous avons corrigé plus de bugs aujourd'hui qu'il n'y en a eu de remontés", "Jours avec 0 bug remonté", "Ligne des urgences vide en fin de journée".
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
