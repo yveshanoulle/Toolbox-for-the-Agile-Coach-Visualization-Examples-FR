@@ -1,7 +1,7 @@
 
 Thème d'Amélioration
 
-Le thème d'Amélioration est un outil en forme de poster qui fonctionne comme un tapis roulant pour l'amélioration continue après que la rétrospective ait eu lieu.
+Le thème d'Amélioration est un outil sous forme de poster qui fonctionne comme un tapis roulant pour l'amélioration continue après que la rétrospective ait eu lieu.
 Décrivez la situation actuelle dans la section rouge. Ensuite définissez comment la situation serait si elle était géniale dans la section verte. Ensuite, posez-vous la question, six semaines à partir de maintenant, quels objectifs concrets and réels pouvons-nous nous fixer afin de nous rapprocher le plus possible de notre "Definition de Génial" ?. Ensuite identifiez les trois plus petites étapes qui vous permettront d'être le plus proche possible de ces objectifs.
 
 Faites un suivi des étapes lors des Daily Stand-up and ajoutez-en des nouvelles au fur et à mesure que les tâches sont réalisées. Passer les 6 semaines, évaluez le poster et créez un nouvel "état cible suivante". 
