@@ -1,10 +1,11 @@
 Place de parking par personne
 
-Certaines équipes que j'ai rencontrées (qui ont un Parking Lot) indiquaient clairement qui était en train de travailler sur la tâche quand elle a été mise en pause, en classant les Post-its par membre de l'équipe.
+Certaines équipes que j'ai rencontrées (qui ont une zone de parking) indiquaient clairement qui était en train de travailler sur la tâche quand elle a été mise en pause, en classant les Post-its par membre de l'équipe.
 
-Lorsqu'une tâche passe en pause, le Post-it est déplacé sur la ligne de cette personne dans la zone de Parking Lot. Lorsque cette personne, ou quelqu'un d'autre, récupère la tâche, elle est remise à sa place initiale sur le mur. 
+Lorsqu'une tâche passe en pause, le Post-it est déplacé sur la ligne de cette personne dans la zone de parking. Lorsque cette personne, ou quelqu'un d'autre, récupère la tâche, elle est remise à sa place initiale sur le mur. 
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
 Parked by Person
 
 Some teams I’ve met (who have a Parking Lot) make clear who was working on the task when it became paused by sorting the Post-its by team member. 
