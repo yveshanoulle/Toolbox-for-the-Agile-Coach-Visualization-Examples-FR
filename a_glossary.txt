@@ -18,16 +18,16 @@ Bug ==> Bug
 
 Check-in ==> Check-in
 Code (programming) ==> xxx
-Code freeze ==> xxx
+Code freeze ==> gel de code (PhA)
 Colocated ==> Colocalisé
-Commit ==> xxx
+Commit ==> commit (PhA)
 
 Daily Stand-up ==> Daily Stand-up
 Definition of Done ==> Définition du Fini
 Definition of Ready ==> définition du Prêt
 Digital => numérique
 Dis-located team -> équipes distribuées
-Dotting ==> Dotting (Mettre des points me parait bof). vote par points? (Oui.PhA)
+Dotting ==> vote par points? (Oui.PhA) - Dotting (Mettre des points me parait bof). vote par points? (Oui.PhA)
 
 Epic ==> Epic
 Examples ==> Exemples
@@ -36,8 +36,8 @@ Envelopper Collectors ==> xxx
 Flipchart --> Paper-board
 
 Hat ==> Pet (Hat.. c'est un chapeau?) oui YHA
-High score ==> High-score (Meilleur score?) - Mieux vaudrais écrire français (PhA)
-How great teams visualize their work ==> xxx : Comment les super-équipes visualisent leur travail (?)
+High score ==> Meilleur score - High-score (Meilleur score?) - Mieux vaudrait écrire français (PhA)
+How great teams visualize their work ==> xxx : Comment les super-équipes visualisent leur travail (?) (OUI! PhA)
 Hourglass Scrum Wall ==> Mur des sabliers (Scrum?)  => Mur Scrum sablier me parait une bonne idée -( J.GdB)
 
 Icon ==> Icône (Symbole?)
@@ -65,26 +65,27 @@ Queue ==> File d'attente
 
 Race Track  ==> Jeu de l'oie ?(piste de course???-cf p83)
 Retrospective ==> Rétrospective
-Release Train ==> Release Train
+Release Train ==> train de release (entendu et cf Claude Aubry... PhA)
 Roadmap ==> Roadmap
 
-Servant Leadership ==> Leadership Serviteur 
+Servant Leadership ==> Leadership Serviteur (bof! Pour une fois je suis pour l'anglais. entendu/lu sur des blogs en Eng. / PhA)
 Servant Leadership Door ==> xxx
-Stakeholders ==> Parties-prenantes (?) - Partenaires (ou investisseurs ?) (revoir page 97 :/)
+Stakeholders ==> Parties-prenantes (?) - Partenaires (p97 OK/PhA) (ou investisseurs ?) (revoir page 97 :/)
 States ==> Etats / statussen
-Story ==> Story
-Stories ==> Stories
+Story ==> Story (SI user story, sinon histoire)
+Stories ==> Stories (SI users stories, sinon, histoires)
 Stress level meter ==> Mesure du niveau de stress? (Mètre à niveau de stress)
 
 Task Progress Bar ==> XXX
-Template ==> Sjabloon
+Template ==> Format (Sjabloon)
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Boite à outils du coach agile (?)>>> This is part the title so make sure ou agree on it YHA
+                                PhA/OK
 
-Updaten ==> XXX
-Urgent lane ==> Ligne urgente (ligne des urgences? Oui-PhA)  J'ai pu voir couloir des urgences que j'ai laissé en relecture...
+Update ==> Mise à jour
+Urgent lane ==> couloir des urgences (oui/PhA) - Ligne urgente (ligne des urgences? Oui-PhA)  J'ai pu voir couloir des urgences que j'ai laissé en relecture...
 User Stories ==> User Stories
-User Story lane ==> Ligne de User Story
+User Story lane ==> Ligne de User Story (couloir ? PhA) à discuter pour harmoniser
 
 Visualization ==> Visualisation
 Visualization Examples ==> xxx
