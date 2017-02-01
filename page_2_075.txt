@@ -7,9 +7,6 @@ Pour creuser ce sujet, dessiner un graphique où chaque personne trace à quel m
 Si l'équipe est distribuée, les gens peuvent même être dispatchés sur différents fuseaux horaire, alors il peut devenir particulièrement utile et rentable de tracer cette carte.
 
 
-
-
-
 --------------------------------------- origine ---------------
 
 Team Presence Hours
