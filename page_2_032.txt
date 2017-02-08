@@ -1,6 +1,6 @@
 Nouvelles pratiques d'équipe
 
-Pendant une rétrospective, il est courant que vous décidiez d'essayer de nouvelles pratiques, de faire des choses différemment à partir de maintenant. Si vous avez un accord de travail, il devrait probablement être mis à jour. Si vous n'en avez pas (ou que vous sentez que la nouvelle règle ne s'y intégre pas) créez une zone Pratiques d'Equipe sur votre mur.
+Pendant une rétrospective, il est courant que vous décidiez d'essayer de nouvelles pratiques, de faire les choses différemment à partir de maintenant. Si vous avez un accord de travail, il devrait probablement être mis à jour. Si vous n'en avez pas (ou que vous sentez que la nouvelle règle ne s'y intégre pas) créez une zone "Pratiques d'Equipe" sur votre mur.
 
 Les accords sur les nouvelles pratiques que vous avez décidé de suivre devraient être écrites sur des Post-its orange. Une fois qu'elles sont devenues de vraies habitudes, ré-écrivez les sur des Post-its verts. Si vous régressez, repassez les en orange. Vérifiez vos pratiques régulièrement (par exemple, une fois par mois).
 
