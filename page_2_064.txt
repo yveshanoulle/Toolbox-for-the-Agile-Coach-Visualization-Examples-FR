@@ -2,19 +2,15 @@ Icônes serveur de test & Info
 
 Si votre équipe utilise plusieurs environnements de test physiques ou virtuels, et si cela crée des confusions, faites en sorte qu'il soit plus facile de voir où les choses peuvent être testées et l'état de chaque environnement de test. 
 
-Des détails additionnels, tels que le nom du serveur, le but, la version, la branche, la date de révision etc.. sont quelque part à coté du mur. La couleur des icônes correspond à la couleur de ces notes de serveurs.
+Des détails additionnels, tels que le nom du serveur, le but, la version, la branche, la date de révision, etc., sont affichés quelque part à coté du mur. La couleur des icônes correspond à la couleur de ces notes de serveurs.
 
-Si quelque chose est prêt pour être testé dans un environnement spécifique de test, marquez la tâche avec l'icône appropriée.
+Si quelque chose est prêt à être testé dans un environnement spécifique de test, marquez la tâche avec l'icône appropriée.
 
 ------------------------------- ORIGINAL TEXT BELOW ----------------------------------------------------------
 
 Test Server Icons & Info
 
 If your team uses several different physical or virtual test environments, and this causes confusion, make it easier to see where things can be tested and the state of each test environment.
-
-
-
-
 
 Additional details, such as server name, purpose, version, branch, date of upgrade etc., are put somewhere next to the wall. The color of the icons corresponds to the colors of these server notes.
 
