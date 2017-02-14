@@ -1,10 +1,11 @@
 Icône Pause
 
-Des fois, vous avez besoin de faire une pause sur une tâche parce qu'une autre est devenue plus urgente. Vous n'êtes pas nécessairement bloqué, mais vous n'êtes pas en train de travailler sur cette tâche pour le moment.
+Vous avez parfois besoin de faire une pause sur une tâche parce qu'une autre tâche est devenue plus urgente. Vous n'êtes pas nécessairement bloqué, mais vous n'êtes pas en train d'y travailler pour le moment.
 
 Afin de rendre cela clair et transparent, mettez un symbole Pause sur la tâche. Et pour plus de clareté, vous pouvez mettre votre avatar sur la tâche pour signaler que vous étiez la personne qui travaillait dessus.
 
-Une autre approche pour adresser le même problème est d'utiliser le Parking Lot à la place.
+Une autre approche pour résoudre ce type de problème est d'utiliser les places de Parking.
+
 
 -------------------------------- ORIGINAL TEXT BELOW -----------------------------------
 
