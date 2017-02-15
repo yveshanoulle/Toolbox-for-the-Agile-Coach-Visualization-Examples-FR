@@ -1,9 +1,8 @@
 La roue des tests exploratoires
 
-Si vous passez l'aspirateur sur un sol gigantesque avec un aspirateur robot semi-idiot, chaque recoin finira par être aspiré à un moment ou un autre. Vous pouvez utiliser la même approche avec les tests.
+Si vous passez l'aspirateur sur une surface gigantesque avec un aspirateur robot semi-idiot, chaque recoin finira par être aspiré à un moment ou à un autre. Vous pouvez utiliser la même approche avec les tests.
 
 Choisissez quelques chartes de tests exploratoires. Placez les autour de la roue. Mettez en place une règle où chaque membre de l'équipe joue une charte par semaine. Quand cela est fait, le Post-it charte est remis sur la roue et la case à cocher est validée. Quand la roue est terminée, remplacer quelques chartes et relancer la roue.
-
 
 -------------------
 
