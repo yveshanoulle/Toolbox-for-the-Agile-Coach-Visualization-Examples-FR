@@ -1,18 +1,13 @@
 File de revue
 
-Une équipe RH avec laquelle je travaillais avait une longue liste de pages wiki détaillant différentes règles et recommandations. Ils pensaient que nombre d'entre elles avaient besoin d'être revues et mises à jour. Alors nous avons créer la File de Revue de Règles. Chaque semaine, une règle était revue et mise à jour. Certaines mises à jour nécessitaient l'accord de quelqu'un d'autre, alors nous avons ajouté une case "En attente de validation". Une fois que cela était fait, le ticket allait à la fin de la file. L'ordre et le contenu de la file changeaient en fonction des besoins.
+Une équipe RH avec laquelle je travaillai avait une longue liste de pages wiki détaillant différentes règles et recommandations. Ils pensaient que nombre d'entre elles avaient besoin d'être revues et mises à jour. Alors nous avons créer une File de Revue des Règles. Chaque semaine, une règle était revue et mise à jour. Certaines mises à jour nécessitaient l'accord de quelqu'un d'autre, alors nous avons ajouté une case "En attente de validation". Une fois que cela était fait, le ticket allait à la fin de la file. L'ordre et le contenu de la file changeaient en fonction des besoins.
 
 La même approche pourrait bien sûr être appliquée à de la documentation technique, du contenu de site web, FAQs, manuels, etc.
 
-
-
-
--------------------------------------------------- original
-
+-------------------------------------------------- original --------------------------------------------------
 
 Review Queue
 
 One HR team I was working with had a long list of wiki pages describing different policies and guidelines. They suspected a lot of them needed to be revisited and updated. So, we created a Policy Review Queue. Every week one policy was reviewed and updated. Some updates needed approval from someone else so they went through a “To be approved” box. Once done, the ticket moved to the end of the queue. The order and content of the queue was rearranged when needed.
 
 The same approach could of course be applied to technical documentation, website content, FAQs, manuals, etc.
-
