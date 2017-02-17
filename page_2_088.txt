@@ -1,0 +1,13 @@
+Le Mur Scrum en Sablier
+
+Un mur Scrum n'a pas besoin de prendre la forme d'une grille. Le Mur Scrum en Sablier remplace la ligne des User Story par un Sablier où les tâches coulent vers le bas. Cela donne deux dimensions naturelles pour limiter le travail en cours; le nombre de User Stories traitées en parallèle, et la limite maximum de deux tâches actives par User Story. Si une story est trop petite pour être découpée en tâches (par exemple, l'équipe peut finir la User Story entièrement en un jour), elle occupe simplement le sablier entier.
+
+Le fait de ne pas découper le "Travail en cours" en "Développement", "Review" et "Test", etc., encourage la collaboration entre les disciplines et le partage des connaissances.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Hourglass Scrumm Wall
+
+A Scrum wall doesn’t need to be in the shape of a grid. The Hourglass Scrum Wall replaces a User Story lane with an Hourglass where tasks flow downwards. It provides two natural dimensions for limiting work in progress; the number of concurrent User Stories, and an upper limit of two active tasks per User Story. If a story is too small to be broken down into tasks (i.e. the team can finish the entire story within a day) it simply occupies the whole Hourglass.
+ 
+Not separating “Work in progress” into “Coding”, “Reviewing”, and “Testing” and so on also enforces cross-discipline collaboration and knowledge sharing.
