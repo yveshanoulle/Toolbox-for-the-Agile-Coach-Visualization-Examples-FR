@@ -1,13 +1,13 @@
 Oppportunités par Persona
 
-Au lieu d'avoir un backlog de User Stories, j'ai vu des équipes avoir des backlogs d'opportunités catégorisés par persona. Les backlogs d'opportunité alimentent la roadmap et le backlog de User Stories de l'équipe.
+Au lieu d'avoir un backlog de User Stories, j'ai vu des équipes utiliser des backlogs d'opportunités catégorisés par persona. Les backlogs d'opportunités alimentent la roadmap et le backlog de User Stories de l'équipe.
 
 Une opportunité est décrite par :
 Quel problème tentons-nous de résoudre ? Quel besoin exploitons-nous ? (Pouquoi devrions-nous faire cela ?)
 Pour qui tentons-nous de résoudre ce problème ? (Persona)
 Critères de succès. Comment saurons-nous que nous avons réussi ?
 
------------------------
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
 Opportunities by Persona
 
