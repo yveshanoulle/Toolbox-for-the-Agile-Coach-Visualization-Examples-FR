@@ -2,9 +2,9 @@ Tableau des guides
 
 Dessinez et rédigez les décisions de fin de rétrospectives sur des Post-its « guides ». Représenter graphiquement les décisions prises facilite leur mémorisation, lance d'excellents débats et rend le Tableau des guides plus facile à lire. Ajoutez une colonne à chaque sprint.
 
-Si une décision est peu suivie, déplacez le Post-it qui la représente dans le dernier rang, nommé « En observation ». Dans la rétrospective suivante, évaluez le respect de cette règle, puis remettez-la à sa place ou fermez-la avec un marqueur bleu.
+Si une règle est peu suivie, déplacez le Post-it qui la représente dans la derniere colonne, nommée « En observation ». Lors de la rétrospective suivante, évaluez le respect de cette règle, puis remettez-la à sa place ou cloturez-la avec un marqueur bleu.
 
-Quand une règle est remplacée ou désapprouvée, recouvrez-le d'un Post-it bleu. Son recto indique le numéro du sprint à laquelle le guide est devenu obsolète, et son verso décrit en quelques mots la raison pour laquelle il a été abandonné.
+Quand une règle est remplacée ou désapprouvée, recouvrez-la d'un Post-it bleu. Son recto indique le numéro du sprint où la règle est devenue obsolète, et son verso décrit en quelques mots la raison pour laquelle elle a été abandonnée.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
