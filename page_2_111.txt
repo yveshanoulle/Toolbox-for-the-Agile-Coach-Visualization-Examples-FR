@@ -1,4 +1,4 @@
-Le mur sablier Scrum (page 88)
+Mur Scrum en forme de sablier (page 88)
 - Craig Strong, Pearson
  Je veux apprendre... (page 91)
 - Pierre Neis, Upward Consulting
@@ -12,21 +12,18 @@ Matrice de Pair Programming (page 59)
  Camembert de progression (page 38)
 - Pétur Jóhannes Óskarsson, Plain Vanilla/QuizUp
 
-Carte de Proximité  (page 80)
+Carte de Proximité (page 80)
 - Patrik Enqvist, Nordea
  Backlog en pyramide (page 78)
 - Gunnar Holmsteinn, Plain Vanilla/QuizUp
  Jeu de l'oie (page 83)
 - Georg Olafsson, Meniga
 
-Casquette de facilitateur tournant (page 33)
+Casquette de facilitateur tournante (page 33)
 - Guðfinnur Sveinsson, Plain Vanilla/QuizUp
 
 
-
-
-
-------------------------- source -------------------
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
 Hourglass Scrum Wall (page 88)
 - Craig Strong, Pearson
