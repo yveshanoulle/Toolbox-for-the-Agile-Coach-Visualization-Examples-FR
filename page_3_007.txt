@@ -2,13 +2,13 @@ Conseils d'ordre général
 
 Accessible - Positionnez votre mur de visualisation dans la zone de travail de l'équipe. L'idée étant qu'il soit facilement visible par tout le monde dans la salle.
 
-Simple - Le mur doit pouvoir être mis à jour facilement. Si vous en rendez la mise à jour trop laborieuse, la qualité du mur va probablement se détériorer. Si vous suspectez que le mur n'est plus à jour, vous arrêterez de lui faire confiance. Et si vous ne lui faites plus confiance, vous le mettrez plus à jour.
+Simple - Le mur doit pouvoir être mis à jour facilement. Si vous en rendez la mise à jour trop laborieuse, la qualité du mur va probablement se détériorer. Si vous suspectez que le mur n'est plus à jour, vous arrêterez de lui faire confiance. Et si vous ne lui faites plus confiance, vous ne le mettrez plus à jour.
 
-Propre - Si vous mettez de l'amour et du soin dans la conception de votre mur, vous le respecterez probablement plus et vous continuez à le garder beau et bien rangé. Ne vous prenez pas la tête, mais choisissez les composants du mur avec soin.
+Propre - Si vous mettez de l'amour et du soin dans la conception de votre mur, vous le respecterez probablement plus et vous continuerez à le garder beau et bien rangé. Ne vous prenez pas la tête, mais choisissez chaque élément de votre mur avec soin.
 
 Flux principaux - Concevez votre mur pour les cas normaux et les flux principaux. Choisissez les composants additionnels en vous basant sur les comportements que vous voulez changer. Traitez les exceptions comme des exceptions.
 
-Evaluez - Votre mur de visualisation est une chose vivante. Ré-évaluez l'intérêt et la représentation de chaque composant régulièrement. Améliorez-les, ajustez-les ou abandonnez-les.
+Evaluez - Votre mur de visualisation est une chose vivante. Ré-évaluez l'intérêt et la représentation de chaque élément régulièrement. Améliorez-les, ajustez-les ou abandonnez-les.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
