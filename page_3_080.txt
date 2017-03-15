@@ -1,4 +1,4 @@
-Carte de Proximité
+Carte de Promiscuité
 
 Cette visualisation est un moyen de suivre combien de fois le binômage se produit, et qui binome avec qui. Elle visualise les mêmes comportements que la "Pair Programming Matrix".
 
