@@ -1,6 +1,6 @@
 Visualisez votre flux de travail
 
-Utilisez des cases, des lignes, des rangées et des colonnes pour décrire votre flux de travail et les états entre lesquels le travail transite. Utilisez des Post-its pour décrire le travail à faire traversant votre flux. Il n'y a pas de bonne ou mauvaise manière, continuez à expérimenter jusqu'à ce que vous trouviez une bonne représentation de votre flux de travail, une vue qui vous aide à voir la progression, à collaborer, à planifier, à faire des prévisions et à identifier les goulets d'étranglement.
+Utilisez des cases, des lignes, des rangées et des colonnes pour décrire votre flux de travail et les états par lesquels le travail transite. Utilisez des Post-its pour décrire le travail à faire traversant votre flux. Il n'y a pas de bonne ou mauvaise manière, continuez à expérimenter jusqu'à ce que vous trouviez une bonne représentation de votre flux de travail, une vue qui vous aide à voir la progression, à collaborer, à planifier, à faire des prévisions et à identifier les goulets d'étranglement.
 
 ------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
 
